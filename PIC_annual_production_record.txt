@@ -1,0 +1,1373 @@
+Date: 2025-12
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 204-0213-A1, Priority: 0, Demanded: 3490.46133333333, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Ara
+    Material: 204-0213-A1, Priority: 0, Demanded: 102.564, Remaining: 0
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 204-0213-A1, Priority: 0, Demanded: 3666.63733333333, Remaining: 0
+  Customer: 688, Product: 0.8T OSFP DR4 Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 205.128, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 205.128, Remaining: 0
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 204-0160-A1, Priority: 0, Demanded: 1267.48971193416, Remaining: 0
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 204-0194-B1, Priority: 1, Demanded: 240170.7, Remaining: 104691.70000000001
+    Material: 204-0194-B2, Priority: 2, Demanded: 240170.7, Remaining: 0
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 204-0148-B1, Priority: 1, Demanded: 111345.696, Remaining: 49233.695999999996
+    Material: 204-0194-B1, Priority: 2, Demanded: 111345.696, Remaining: 49233.695999999996
+    Material: 204-0194-B3, Priority: 3, Demanded: 111345.696, Remaining: 0
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP
+    Material: 204-0194-B2, Priority: 1, Demanded: 3099.096, Remaining: 0
+  Customer: 666, Product: 400G OSFP112 DR4 Gen1.2 SiP
+    Material: 204-0194-B2, Priority: 1, Demanded: 5544.0, Remaining: 0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-A2, Priority: 1, Demanded: 92258.628, Remaining: 27556.627999999997
+    Material: 204-0200-D2, Priority: 2, Demanded: 92258.628, Remaining: 25924.627999999997
+    Material: 204-0200-D1, Priority: 3, Demanded: 92258.628, Remaining: 0
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0167-A2, Priority: 1, Demanded: 186295.032, Remaining: 74143.032
+    Material: 204-0200-D2, Priority: 2, Demanded: 186295.032, Remaining: 70104.032
+    Material: 204-0200-D1, Priority: 3, Demanded: 186295.032, Remaining: 0
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 204-0167-A2, Priority: 1, Demanded: 225495.963, Remaining: 128559.96299999999
+    Material: 204-0200-D1, Priority: 2, Demanded: 225495.963, Remaining: 77599.96299999999
+    Material: 204-0200-D3, Priority: 3, Demanded: 225495.963, Remaining: 72632.96299999999
+    Material: 204-0200-E3, Priority: 3, Demanded: 225495.963, Remaining: 72632.96299999999
+    Material: 204-0200-D2, Priority: 4, Demanded: 225495.963, Remaining: 70339.96299999999
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 204-0167-A2, Priority: 1, Demanded: 147494.424, Remaining: 106033.424
+    Material: 204-0200-D1, Priority: 2, Demanded: 147494.424, Remaining: 75953.424
+    Material: 204-0200-D2, Priority: 3, Demanded: 147494.424, Remaining: 68394.424
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-C3, Priority: 1, Demanded: 100228.128, Remaining: 28649.127999999997
+    Material: 204-0167-A2, Priority: 2, Demanded: 100228.128, Remaining: 0
+  Customer: AOC, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0200-D3, Priority: 1, Demanded: 10566.171, Remaining: 0
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0200-D2, Priority: 1, Demanded: 67153.317, Remaining: 0
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 204-0200-D2, Priority: 1, Demanded: 11995.83, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 152517.43584, Remaining: 0
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 2522.751, Remaining: 0
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 204-0190-A1, Priority: 1, Demanded: 64361.22, Remaining: 0
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 204-0190-A1, Priority: 1, Demanded: 410.666666666666, Remaining: 0
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 204-0190-A1, Priority: 1, Demanded: 9239.99999999999, Remaining: 0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 204-0200-D1, Priority: 1, Demanded: 54414.2573333333, Remaining: 0
+
+Date: 2026-01
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 204-0213-A1, Priority: 0, Demanded: 3240.59513440621, Remaining: 0
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 204-0213-A1, Priority: 0, Demanded: 9070.03840522102, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 204-0213-A1, Priority: 0, Demanded: 1034.88, Remaining: 0
+  Customer: 688, Product: 0.8T OSFP DR4 Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 410.256, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 307.692, Remaining: 0
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 204-0160-A1, Priority: 0, Demanded: 1232.0, Remaining: 0
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 204-0194-B1, Priority: 1, Demanded: 328103.480095354, Remaining: 78103.48009535403
+    Material: 204-0194-B2, Priority: 2, Demanded: 328103.480095354, Remaining: 0
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 204-0148-B1, Priority: 1, Demanded: 88946.2903900914, Remaining: 88946.2903900914
+    Material: 204-0194-B1, Priority: 2, Demanded: 88946.2903900914, Remaining: 88946.2903900914
+    Material: 204-0194-B3, Priority: 3, Demanded: 88946.2903900914, Remaining: 85609.2903900914
+    Material: 204-0194-G3, Priority: 3, Demanded: 88946.2903900914, Remaining: 85609.2903900914
+    Material: 204-0194-B2, Priority: 4, Demanded: 88946.2903900914, Remaining: 53143.290390091395
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP
+    Material: 204-0194-B2, Priority: 1, Demanded: 61853.1832340102, Remaining: 0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-A2, Priority: 1, Demanded: 47999.721, Remaining: 24087.720999999998
+    Material: 204-0200-D2, Priority: 2, Demanded: 47999.721, Remaining: 22599.720999999998
+    Material: 204-0200-D1, Priority: 3, Demanded: 47999.721, Remaining: 15466.720999999998
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0167-A2, Priority: 1, Demanded: 96916.974, Remaining: 52684.974
+    Material: 204-0200-D2, Priority: 2, Demanded: 96916.974, Remaining: 49899.974
+    Material: 204-0200-D1, Priority: 3, Demanded: 96916.974, Remaining: 35891.974
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 204-0167-A2, Priority: 1, Demanded: 296369.073, Remaining: 184019.07299999997
+    Material: 204-0200-D1, Priority: 2, Demanded: 296369.073, Remaining: 0
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 204-0167-A2, Priority: 1, Demanded: 130869.816, Remaining: 106956.816
+    Material: 204-0200-D1, Priority: 2, Demanded: 130869.816, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-C3, Priority: 1, Demanded: 53875.899, Remaining: 39875.899
+    Material: 204-0167-A2, Priority: 2, Demanded: 53875.899, Remaining: 0
+  Customer: AOC, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0200-D3, Priority: 1, Demanded: 5428.5, Remaining: 0
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0200-D2, Priority: 1, Demanded: 44201.619, Remaining: 0
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 204-0200-D2, Priority: 1, Demanded: 40305.804, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 345285.04553834, Remaining: 0
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 3988.6, Remaining: 0
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 204-0190-A1, Priority: 1, Demanded: 96095.538, Remaining: 0
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 204-0190-A1, Priority: 1, Demanded: 16426.6666666667, Remaining: 0
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 204-0190-A1, Priority: 1, Demanded: 13862.5581367653, Remaining: 0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 204-0200-D1, Priority: 1, Demanded: 16716.6303686344, Remaining: 0
+
+Date: 2026-02
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 204-0213-A1, Priority: 0, Demanded: 37216.6666666666, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Ara
+    Material: 204-0213-A1, Priority: 0, Demanded: 410.256, Remaining: 0
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 204-0213-A1, Priority: 0, Demanded: 96712.0, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 204-0213-A1, Priority: 0, Demanded: 1437.33333333334, Remaining: 0
+  Customer: 699/678, Product: 1.6T OSFP224 2xDR4 Gen3,Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 205.333333333333, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 2310.51333333334, Remaining: 0
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 204-0160-A1, Priority: 0, Demanded: 1232.0, Remaining: 0
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 204-0194-B1, Priority: 1, Demanded: 438745.658330923, Remaining: 118745.658330923
+    Material: 204-0194-B2, Priority: 2, Demanded: 438745.658330923, Remaining: 112296.658330923
+    Material: 204-0194-B3, Priority: 3, Demanded: 438745.658330923, Remaining: 108789.658330923
+    Material: 204-0194-G3, Priority: 3, Demanded: 438745.658330923, Remaining: 108789.658330923
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 204-0148-B1, Priority: 1, Demanded: 73920.0, Remaining: 73920.0
+    Material: 204-0194-B1, Priority: 2, Demanded: 73920.0, Remaining: 73920.0
+    Material: 204-0194-B3, Priority: 3, Demanded: 73920.0, Remaining: 72118.0
+    Material: 204-0194-G3, Priority: 3, Demanded: 73920.0, Remaining: 72118.0
+    Material: 204-0194-B2, Priority: 4, Demanded: 73920.0, Remaining: 55161.0
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP
+    Material: 204-0194-B2, Priority: 1, Demanded: 121217.712, Remaining: 58312.712
+    Material: 204-0194-B1, Priority: 2, Demanded: 121217.712, Remaining: 58312.712
+  Customer: 666, Product: 400G OSFP112 DR4 Gen1.2 SiP
+    Material: 204-0194-B2, Priority: 1, Demanded: 73920.0, Remaining: 59389.0
+    Material: 204-0194-B1, Priority: 2, Demanded: 73920.0, Remaining: 59389.0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-A2, Priority: 1, Demanded: 89628.0, Remaining: 79597.0
+    Material: 204-0200-D2, Priority: 2, Demanded: 89628.0, Remaining: 69632.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 89628.0, Remaining: 43227.0
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0167-A2, Priority: 1, Demanded: 125664.0, Remaining: 112840.0
+    Material: 204-0200-D2, Priority: 2, Demanded: 125664.0, Remaining: 103253.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 125664.0, Remaining: 75474.0
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 204-0167-A2, Priority: 1, Demanded: 401940.0, Remaining: 365992.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 401940.0, Remaining: 249319.0
+    Material: 204-0200-D3, Priority: 3, Demanded: 401940.0, Remaining: 165099.0
+    Material: 204-0200-E3, Priority: 3, Demanded: 401940.0, Remaining: 165099.0
+    Material: 204-0200-D2, Priority: 4, Demanded: 401940.0, Remaining: 164019.0
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 204-0167-A2, Priority: 1, Demanded: 399168.0, Remaining: 377586.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 399168.0, Remaining: 307567.0
+    Material: 204-0200-D2, Priority: 3, Demanded: 399168.0, Remaining: 298738.0
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-C3, Priority: 1, Demanded: 50468.88, Remaining: 38968.88
+    Material: 204-0167-A2, Priority: 2, Demanded: 50468.88, Remaining: 13199.879999999997
+    Material: 204-0200-D1, Priority: 3, Demanded: 50468.88, Remaining: 9468.879999999997
+    Material: 204-0200-D3, Priority: 4, Demanded: 50468.88, Remaining: 0
+  Customer: AOC, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0200-D3, Priority: 1, Demanded: 7761.6, Remaining: 0
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0200-D2, Priority: 1, Demanded: 67452.0, Remaining: 5851.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 67452.0, Remaining: 4715.0
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 204-0200-D2, Priority: 1, Demanded: 68376.0, Remaining: 36941.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 68376.0, Remaining: 29810.0
+  Customer: 699, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 489368.88, Remaining: 94175.88
+    Material: 204-0190-A2, Priority: 1, Demanded: 489368.88, Remaining: 94175.88
+    Material: 204-0190-A3, Priority: 1, Demanded: 489368.88, Remaining: 94175.88
+    Material: 204-0190-B1, Priority: 1, Demanded: 489368.88, Remaining: 94175.88
+    Material: 204-0190-B2, Priority: 1, Demanded: 489368.88, Remaining: 94175.88
+    Material: 204-0190-B3, Priority: 1, Demanded: 489368.88, Remaining: 94175.88
+    Material: 204-0190-C1, Priority: 1, Demanded: 489368.88, Remaining: 94175.88
+    Material: 204-0190-C2, Priority: 1, Demanded: 489368.88, Remaining: 94175.88
+    Material: 204-0190-D1, Priority: 1, Demanded: 489368.88, Remaining: 94175.88
+    Material: 204-0190-D2, Priority: 1, Demanded: 489368.88, Remaining: 94175.88
+    Material: 204-0190-L1, Priority: 1, Demanded: 489368.88, Remaining: 94175.88
+    Material: 204-0190-L2, Priority: 1, Demanded: 489368.88, Remaining: 94175.88
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 6593.664, Remaining: 4520.664
+    Material: 204-0190-A2, Priority: 1, Demanded: 6593.664, Remaining: 4520.664
+    Material: 204-0190-A3, Priority: 1, Demanded: 6593.664, Remaining: 4520.664
+    Material: 204-0190-B1, Priority: 1, Demanded: 6593.664, Remaining: 4520.664
+    Material: 204-0190-B2, Priority: 1, Demanded: 6593.664, Remaining: 4520.664
+    Material: 204-0190-B3, Priority: 1, Demanded: 6593.664, Remaining: 4520.664
+    Material: 204-0190-C1, Priority: 1, Demanded: 6593.664, Remaining: 4520.664
+    Material: 204-0190-C2, Priority: 1, Demanded: 6593.664, Remaining: 4520.664
+    Material: 204-0190-D1, Priority: 1, Demanded: 6593.664, Remaining: 4520.664
+    Material: 204-0190-D2, Priority: 1, Demanded: 6593.664, Remaining: 4520.664
+    Material: 204-0190-L1, Priority: 1, Demanded: 6593.664, Remaining: 4520.664
+    Material: 204-0190-L2, Priority: 1, Demanded: 6593.664, Remaining: 4520.664
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 204-0190-A1, Priority: 1, Demanded: 200674.32, Remaining: 138101.32
+    Material: 204-0190-A2, Priority: 1, Demanded: 200674.32, Remaining: 138101.32
+    Material: 204-0190-A3, Priority: 1, Demanded: 200674.32, Remaining: 138101.32
+    Material: 204-0190-B1, Priority: 1, Demanded: 200674.32, Remaining: 138101.32
+    Material: 204-0190-B2, Priority: 1, Demanded: 200674.32, Remaining: 138101.32
+    Material: 204-0190-B3, Priority: 1, Demanded: 200674.32, Remaining: 138101.32
+    Material: 204-0190-C1, Priority: 1, Demanded: 200674.32, Remaining: 138101.32
+    Material: 204-0190-C2, Priority: 1, Demanded: 200674.32, Remaining: 138101.32
+    Material: 204-0190-D1, Priority: 1, Demanded: 200674.32, Remaining: 138101.32
+    Material: 204-0190-D2, Priority: 1, Demanded: 200674.32, Remaining: 138101.32
+    Material: 204-0190-L1, Priority: 1, Demanded: 200674.32, Remaining: 138101.32
+    Material: 204-0190-L2, Priority: 1, Demanded: 200674.32, Remaining: 138101.32
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 204-0190-A1, Priority: 1, Demanded: 98560.0000000001, Remaining: 75524.0000000001
+    Material: 204-0190-A2, Priority: 1, Demanded: 98560.0000000001, Remaining: 75524.0000000001
+    Material: 204-0190-A3, Priority: 1, Demanded: 98560.0000000001, Remaining: 75524.0000000001
+    Material: 204-0190-B1, Priority: 1, Demanded: 98560.0000000001, Remaining: 75524.0000000001
+    Material: 204-0190-B2, Priority: 1, Demanded: 98560.0000000001, Remaining: 75524.0000000001
+    Material: 204-0190-B3, Priority: 1, Demanded: 98560.0000000001, Remaining: 75524.0000000001
+    Material: 204-0190-C1, Priority: 1, Demanded: 98560.0000000001, Remaining: 75524.0000000001
+    Material: 204-0190-C2, Priority: 1, Demanded: 98560.0000000001, Remaining: 75524.0000000001
+    Material: 204-0190-D1, Priority: 1, Demanded: 98560.0000000001, Remaining: 75524.0000000001
+    Material: 204-0190-D2, Priority: 1, Demanded: 98560.0000000001, Remaining: 75524.0000000001
+    Material: 204-0190-L1, Priority: 1, Demanded: 98560.0000000001, Remaining: 75524.0000000001
+    Material: 204-0190-L2, Priority: 1, Demanded: 98560.0000000001, Remaining: 75524.0000000001
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 204-0190-A1, Priority: 1, Demanded: 6160.00000000001, Remaining: 4898.00000000001
+    Material: 204-0190-A2, Priority: 1, Demanded: 6160.00000000001, Remaining: 4898.00000000001
+    Material: 204-0190-A3, Priority: 1, Demanded: 6160.00000000001, Remaining: 4898.00000000001
+    Material: 204-0190-B1, Priority: 1, Demanded: 6160.00000000001, Remaining: 4898.00000000001
+    Material: 204-0190-B2, Priority: 1, Demanded: 6160.00000000001, Remaining: 4898.00000000001
+    Material: 204-0190-B3, Priority: 1, Demanded: 6160.00000000001, Remaining: 4898.00000000001
+    Material: 204-0190-C1, Priority: 1, Demanded: 6160.00000000001, Remaining: 4898.00000000001
+    Material: 204-0190-C2, Priority: 1, Demanded: 6160.00000000001, Remaining: 4898.00000000001
+    Material: 204-0190-D1, Priority: 1, Demanded: 6160.00000000001, Remaining: 4898.00000000001
+    Material: 204-0190-D2, Priority: 1, Demanded: 6160.00000000001, Remaining: 4898.00000000001
+    Material: 204-0190-L1, Priority: 1, Demanded: 6160.00000000001, Remaining: 4898.00000000001
+    Material: 204-0190-L2, Priority: 1, Demanded: 6160.00000000001, Remaining: 4898.00000000001
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 204-0200-D1, Priority: 1, Demanded: 24640.462, Remaining: 0
+
+Date: 2026-03
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 204-0213-A1, Priority: 0, Demanded: 68201.4666666667, Remaining: 0
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 204-0213-A1, Priority: 0, Demanded: 200200.0, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 204-0213-A1, Priority: 0, Demanded: 102.666666666667, Remaining: 0
+  Customer: 699/678, Product: 1.6T OSFP224 2xDR4 Gen3,Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 102.666666666667, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 6365.33333333333, Remaining: 0
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 204-0160-A1, Priority: 0, Demanded: 1232.0, Remaining: 0
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 204-0194-B1, Priority: 1, Demanded: 422037.0, Remaining: 72037.0
+    Material: 204-0194-B2, Priority: 2, Demanded: 422037.0, Remaining: 70934.0
+    Material: 204-0194-B3, Priority: 3, Demanded: 422037.0, Remaining: 69118.0
+    Material: 204-0194-G3, Priority: 3, Demanded: 422037.0, Remaining: 69118.0
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 204-0148-B1, Priority: 1, Demanded: 73920.0, Remaining: 73920.0
+    Material: 204-0194-B1, Priority: 2, Demanded: 73920.0, Remaining: 73920.0
+    Material: 204-0194-B3, Priority: 3, Demanded: 73920.0, Remaining: 72298.0
+    Material: 204-0194-G3, Priority: 3, Demanded: 73920.0, Remaining: 72298.0
+    Material: 204-0194-B2, Priority: 4, Demanded: 73920.0, Remaining: 67053.0
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP
+    Material: 204-0194-B2, Priority: 1, Demanded: 93958.788, Remaining: 0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-A2, Priority: 1, Demanded: 89628.0, Remaining: 88134.0
+    Material: 204-0200-D2, Priority: 2, Demanded: 89628.0, Remaining: 79103.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 89628.0, Remaining: 49815.0
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0167-A2, Priority: 1, Demanded: 125664.0, Remaining: 123748.0
+    Material: 204-0200-D2, Priority: 2, Demanded: 125664.0, Remaining: 115831.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 125664.0, Remaining: 91902.0
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 204-0167-A2, Priority: 1, Demanded: 441672.0, Remaining: 435736.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 441672.0, Remaining: 281728.0
+    Material: 204-0200-D3, Priority: 3, Demanded: 441672.0, Remaining: 194750.0
+    Material: 204-0200-E3, Priority: 3, Demanded: 441672.0, Remaining: 194750.0
+    Material: 204-0200-D2, Priority: 4, Demanded: 441672.0, Remaining: 194123.0
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 204-0167-A2, Priority: 1, Demanded: 399168.0, Remaining: 396047.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 399168.0, Remaining: 319055.0
+    Material: 204-0200-D2, Priority: 3, Demanded: 399168.0, Remaining: 313388.0
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-C3, Priority: 1, Demanded: 79464.0, Remaining: 77964.0
+    Material: 204-0167-A2, Priority: 2, Demanded: 79464.0, Remaining: 72924.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 79464.0, Remaining: 53031.0
+    Material: 204-0200-D3, Priority: 4, Demanded: 79464.0, Remaining: 20077.0
+    Material: 204-0200-E3, Priority: 4, Demanded: 79464.0, Remaining: 20077.0
+    Material: 204-0200-D2, Priority: 5, Demanded: 79464.0, Remaining: 19876.0
+  Customer: AOC, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0200-D3, Priority: 1, Demanded: 5728.8, Remaining: 0
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0200-D2, Priority: 1, Demanded: 67452.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 204-0200-D2, Priority: 1, Demanded: 60060.0, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 603943.956, Remaining: 196691.956
+    Material: 204-0190-A2, Priority: 1, Demanded: 603943.956, Remaining: 196691.956
+    Material: 204-0190-A3, Priority: 1, Demanded: 603943.956, Remaining: 196691.956
+    Material: 204-0190-B1, Priority: 1, Demanded: 603943.956, Remaining: 196691.956
+    Material: 204-0190-B2, Priority: 1, Demanded: 603943.956, Remaining: 196691.956
+    Material: 204-0190-B3, Priority: 1, Demanded: 603943.956, Remaining: 196691.956
+    Material: 204-0190-C1, Priority: 1, Demanded: 603943.956, Remaining: 196691.956
+    Material: 204-0190-C2, Priority: 1, Demanded: 603943.956, Remaining: 196691.956
+    Material: 204-0190-D1, Priority: 1, Demanded: 603943.956, Remaining: 196691.956
+    Material: 204-0190-D2, Priority: 1, Demanded: 603943.956, Remaining: 196691.956
+    Material: 204-0190-L1, Priority: 1, Demanded: 603943.956, Remaining: 196691.956
+    Material: 204-0190-L2, Priority: 1, Demanded: 603943.956, Remaining: 196691.956
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 6593.664, Remaining: 5258.664
+    Material: 204-0190-A2, Priority: 1, Demanded: 6593.664, Remaining: 5258.664
+    Material: 204-0190-A3, Priority: 1, Demanded: 6593.664, Remaining: 5258.664
+    Material: 204-0190-B1, Priority: 1, Demanded: 6593.664, Remaining: 5258.664
+    Material: 204-0190-B2, Priority: 1, Demanded: 6593.664, Remaining: 5258.664
+    Material: 204-0190-B3, Priority: 1, Demanded: 6593.664, Remaining: 5258.664
+    Material: 204-0190-C1, Priority: 1, Demanded: 6593.664, Remaining: 5258.664
+    Material: 204-0190-C2, Priority: 1, Demanded: 6593.664, Remaining: 5258.664
+    Material: 204-0190-D1, Priority: 1, Demanded: 6593.664, Remaining: 5258.664
+    Material: 204-0190-D2, Priority: 1, Demanded: 6593.664, Remaining: 5258.664
+    Material: 204-0190-L1, Priority: 1, Demanded: 6593.664, Remaining: 5258.664
+    Material: 204-0190-L2, Priority: 1, Demanded: 6593.664, Remaining: 5258.664
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 204-0190-A1, Priority: 1, Demanded: 147840.0, Remaining: 118136.0
+    Material: 204-0190-A2, Priority: 1, Demanded: 147840.0, Remaining: 118136.0
+    Material: 204-0190-A3, Priority: 1, Demanded: 147840.0, Remaining: 118136.0
+    Material: 204-0190-B1, Priority: 1, Demanded: 147840.0, Remaining: 118136.0
+    Material: 204-0190-B2, Priority: 1, Demanded: 147840.0, Remaining: 118136.0
+    Material: 204-0190-B3, Priority: 1, Demanded: 147840.0, Remaining: 118136.0
+    Material: 204-0190-C1, Priority: 1, Demanded: 147840.0, Remaining: 118136.0
+    Material: 204-0190-C2, Priority: 1, Demanded: 147840.0, Remaining: 118136.0
+    Material: 204-0190-D1, Priority: 1, Demanded: 147840.0, Remaining: 118136.0
+    Material: 204-0190-D2, Priority: 1, Demanded: 147840.0, Remaining: 118136.0
+    Material: 204-0190-L1, Priority: 1, Demanded: 147840.0, Remaining: 118136.0
+    Material: 204-0190-L2, Priority: 1, Demanded: 147840.0, Remaining: 118136.0
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 204-0190-A1, Priority: 1, Demanded: 98560.0000000003, Remaining: 82149.0000000003
+    Material: 204-0190-A2, Priority: 1, Demanded: 98560.0000000003, Remaining: 82149.0000000003
+    Material: 204-0190-A3, Priority: 1, Demanded: 98560.0000000003, Remaining: 82149.0000000003
+    Material: 204-0190-B1, Priority: 1, Demanded: 98560.0000000003, Remaining: 82149.0000000003
+    Material: 204-0190-B2, Priority: 1, Demanded: 98560.0000000003, Remaining: 82149.0000000003
+    Material: 204-0190-B3, Priority: 1, Demanded: 98560.0000000003, Remaining: 82149.0000000003
+    Material: 204-0190-C1, Priority: 1, Demanded: 98560.0000000003, Remaining: 82149.0000000003
+    Material: 204-0190-C2, Priority: 1, Demanded: 98560.0000000003, Remaining: 82149.0000000003
+    Material: 204-0190-D1, Priority: 1, Demanded: 98560.0000000003, Remaining: 82149.0000000003
+    Material: 204-0190-D2, Priority: 1, Demanded: 98560.0000000003, Remaining: 82149.0000000003
+    Material: 204-0190-L1, Priority: 1, Demanded: 98560.0000000003, Remaining: 82149.0000000003
+    Material: 204-0190-L2, Priority: 1, Demanded: 98560.0000000003, Remaining: 82149.0000000003
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 204-0190-A1, Priority: 1, Demanded: 6160.0, Remaining: 5252.0
+    Material: 204-0190-A2, Priority: 1, Demanded: 6160.0, Remaining: 5252.0
+    Material: 204-0190-A3, Priority: 1, Demanded: 6160.0, Remaining: 5252.0
+    Material: 204-0190-B1, Priority: 1, Demanded: 6160.0, Remaining: 5252.0
+    Material: 204-0190-B2, Priority: 1, Demanded: 6160.0, Remaining: 5252.0
+    Material: 204-0190-B3, Priority: 1, Demanded: 6160.0, Remaining: 5252.0
+    Material: 204-0190-C1, Priority: 1, Demanded: 6160.0, Remaining: 5252.0
+    Material: 204-0190-C2, Priority: 1, Demanded: 6160.0, Remaining: 5252.0
+    Material: 204-0190-D1, Priority: 1, Demanded: 6160.0, Remaining: 5252.0
+    Material: 204-0190-D2, Priority: 1, Demanded: 6160.0, Remaining: 5252.0
+    Material: 204-0190-L1, Priority: 1, Demanded: 6160.0, Remaining: 5252.0
+    Material: 204-0190-L2, Priority: 1, Demanded: 6160.0, Remaining: 5252.0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 204-0200-D1, Priority: 1, Demanded: 13552.0, Remaining: 0
+
+Date: 2026-04
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 204-0213-A1, Priority: 0, Demanded: 112676.666666666, Remaining: 0
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 204-0213-A1, Priority: 0, Demanded: 203280.0, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 204-0213-A1, Priority: 0, Demanded: 3182.66666666666, Remaining: 0
+  Customer: 699/678, Product: 1.6T OSFP224 2xDR4 Gen3,Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 616.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 17612.4666666667, Remaining: 0
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 204-0160-A1, Priority: 0, Demanded: 1232.0, Remaining: 0
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 204-0194-B1, Priority: 1, Demanded: 265511.4, Remaining: 0
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 204-0148-B1, Priority: 1, Demanded: 73920.0, Remaining: 73920.0
+    Material: 204-0194-B1, Priority: 2, Demanded: 73920.0, Remaining: 46687.0
+    Material: 204-0194-B3, Priority: 3, Demanded: 73920.0, Remaining: 45001.0
+    Material: 204-0194-G3, Priority: 3, Demanded: 73920.0, Remaining: 45001.0
+    Material: 204-0194-B2, Priority: 4, Demanded: 73920.0, Remaining: 45001.0
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP
+    Material: 204-0194-B2, Priority: 1, Demanded: 155404.788, Remaining: 55287.788
+    Material: 204-0194-B1, Priority: 2, Demanded: 155404.788, Remaining: 41484.788
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-A2, Priority: 1, Demanded: 89628.0, Remaining: 89622.0
+    Material: 204-0200-D2, Priority: 2, Demanded: 89628.0, Remaining: 47109.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 89628.0, Remaining: 45121.0
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0167-A2, Priority: 1, Demanded: 304920.0, Remaining: 304899.0
+    Material: 204-0200-D2, Priority: 2, Demanded: 304920.0, Remaining: 191410.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 304920.0, Remaining: 185330.0
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 204-0167-A2, Priority: 1, Demanded: 502656.0, Remaining: 502629.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 502656.0, Remaining: 0
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 204-0167-A2, Priority: 1, Demanded: 399168.0, Remaining: 399155.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 399168.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-C3, Priority: 1, Demanded: 79464.0, Remaining: 79464.0
+    Material: 204-0167-A2, Priority: 2, Demanded: 79464.0, Remaining: 79434.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 79464.0, Remaining: 76410.0
+    Material: 204-0200-D3, Priority: 4, Demanded: 79464.0, Remaining: 0
+  Customer: AOC, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0200-D3, Priority: 1, Demanded: 5544.0, Remaining: 0
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0200-D2, Priority: 1, Demanded: 23100.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 204-0200-D2, Priority: 1, Demanded: 60060.0, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 315534.912, Remaining: 158736.912
+    Material: 204-0190-A2, Priority: 1, Demanded: 315534.912, Remaining: 158736.912
+    Material: 204-0190-A3, Priority: 1, Demanded: 315534.912, Remaining: 158736.912
+    Material: 204-0190-B1, Priority: 1, Demanded: 315534.912, Remaining: 158736.912
+    Material: 204-0190-B2, Priority: 1, Demanded: 315534.912, Remaining: 158736.912
+    Material: 204-0190-B3, Priority: 1, Demanded: 315534.912, Remaining: 158736.912
+    Material: 204-0190-C1, Priority: 1, Demanded: 315534.912, Remaining: 158736.912
+    Material: 204-0190-C2, Priority: 1, Demanded: 315534.912, Remaining: 158736.912
+    Material: 204-0190-D1, Priority: 1, Demanded: 315534.912, Remaining: 158736.912
+    Material: 204-0190-D2, Priority: 1, Demanded: 315534.912, Remaining: 158736.912
+    Material: 204-0190-L1, Priority: 1, Demanded: 315534.912, Remaining: 158736.912
+    Material: 204-0190-L2, Priority: 1, Demanded: 315534.912, Remaining: 158736.912
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 6593.664, Remaining: 5176.664
+    Material: 204-0190-A2, Priority: 1, Demanded: 6593.664, Remaining: 5176.664
+    Material: 204-0190-A3, Priority: 1, Demanded: 6593.664, Remaining: 5176.664
+    Material: 204-0190-B1, Priority: 1, Demanded: 6593.664, Remaining: 5176.664
+    Material: 204-0190-B2, Priority: 1, Demanded: 6593.664, Remaining: 5176.664
+    Material: 204-0190-B3, Priority: 1, Demanded: 6593.664, Remaining: 5176.664
+    Material: 204-0190-C1, Priority: 1, Demanded: 6593.664, Remaining: 5176.664
+    Material: 204-0190-C2, Priority: 1, Demanded: 6593.664, Remaining: 5176.664
+    Material: 204-0190-D1, Priority: 1, Demanded: 6593.664, Remaining: 5176.664
+    Material: 204-0190-D2, Priority: 1, Demanded: 6593.664, Remaining: 5176.664
+    Material: 204-0190-L1, Priority: 1, Demanded: 6593.664, Remaining: 5176.664
+    Material: 204-0190-L2, Priority: 1, Demanded: 6593.664, Remaining: 5176.664
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 204-0190-A1, Priority: 1, Demanded: 129360.0, Remaining: 101875.0
+    Material: 204-0190-A2, Priority: 1, Demanded: 129360.0, Remaining: 101875.0
+    Material: 204-0190-A3, Priority: 1, Demanded: 129360.0, Remaining: 101875.0
+    Material: 204-0190-B1, Priority: 1, Demanded: 129360.0, Remaining: 101875.0
+    Material: 204-0190-B2, Priority: 1, Demanded: 129360.0, Remaining: 101875.0
+    Material: 204-0190-B3, Priority: 1, Demanded: 129360.0, Remaining: 101875.0
+    Material: 204-0190-C1, Priority: 1, Demanded: 129360.0, Remaining: 101875.0
+    Material: 204-0190-C2, Priority: 1, Demanded: 129360.0, Remaining: 101875.0
+    Material: 204-0190-D1, Priority: 1, Demanded: 129360.0, Remaining: 101875.0
+    Material: 204-0190-D2, Priority: 1, Demanded: 129360.0, Remaining: 101875.0
+    Material: 204-0190-L1, Priority: 1, Demanded: 129360.0, Remaining: 101875.0
+    Material: 204-0190-L2, Priority: 1, Demanded: 129360.0, Remaining: 101875.0
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 204-0190-A1, Priority: 1, Demanded: 98560.0000000003, Remaining: 82489.0000000003
+    Material: 204-0190-A2, Priority: 1, Demanded: 98560.0000000003, Remaining: 82489.0000000003
+    Material: 204-0190-A3, Priority: 1, Demanded: 98560.0000000003, Remaining: 82489.0000000003
+    Material: 204-0190-B1, Priority: 1, Demanded: 98560.0000000003, Remaining: 82489.0000000003
+    Material: 204-0190-B2, Priority: 1, Demanded: 98560.0000000003, Remaining: 82489.0000000003
+    Material: 204-0190-B3, Priority: 1, Demanded: 98560.0000000003, Remaining: 82489.0000000003
+    Material: 204-0190-C1, Priority: 1, Demanded: 98560.0000000003, Remaining: 82489.0000000003
+    Material: 204-0190-C2, Priority: 1, Demanded: 98560.0000000003, Remaining: 82489.0000000003
+    Material: 204-0190-D1, Priority: 1, Demanded: 98560.0000000003, Remaining: 82489.0000000003
+    Material: 204-0190-D2, Priority: 1, Demanded: 98560.0000000003, Remaining: 82489.0000000003
+    Material: 204-0190-L1, Priority: 1, Demanded: 98560.0000000003, Remaining: 82489.0000000003
+    Material: 204-0190-L2, Priority: 1, Demanded: 98560.0000000003, Remaining: 82489.0000000003
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 204-0190-A1, Priority: 1, Demanded: 6160.0, Remaining: 5334.0
+    Material: 204-0190-A2, Priority: 1, Demanded: 6160.0, Remaining: 5334.0
+    Material: 204-0190-A3, Priority: 1, Demanded: 6160.0, Remaining: 5334.0
+    Material: 204-0190-B1, Priority: 1, Demanded: 6160.0, Remaining: 5334.0
+    Material: 204-0190-B2, Priority: 1, Demanded: 6160.0, Remaining: 5334.0
+    Material: 204-0190-B3, Priority: 1, Demanded: 6160.0, Remaining: 5334.0
+    Material: 204-0190-C1, Priority: 1, Demanded: 6160.0, Remaining: 5334.0
+    Material: 204-0190-C2, Priority: 1, Demanded: 6160.0, Remaining: 5334.0
+    Material: 204-0190-D1, Priority: 1, Demanded: 6160.0, Remaining: 5334.0
+    Material: 204-0190-D2, Priority: 1, Demanded: 6160.0, Remaining: 5334.0
+    Material: 204-0190-L1, Priority: 1, Demanded: 6160.0, Remaining: 5334.0
+    Material: 204-0190-L2, Priority: 1, Demanded: 6160.0, Remaining: 5334.0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 204-0200-D1, Priority: 1, Demanded: 16118.6666666666, Remaining: 0
+
+Date: 2026-05
+  Customer: 国际other, Product: 100G QSFP28 FR1 Gen3.0 SiP
+    Material: 204-0149-A1, Priority: 0, Demanded: 3049.2, Remaining: 0
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 204-0213-A1, Priority: 0, Demanded: 270526.666666667, Remaining: 0
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 204-0213-A1, Priority: 0, Demanded: 327506.666666666, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 204-0213-A1, Priority: 0, Demanded: 12833.3333333333, Remaining: 0
+  Customer: 699/678, Product: 1.6T OSFP224 2xDR4 Gen3,Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 3593.33333333333, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 35420.0, Remaining: 0
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 204-0160-A1, Priority: 0, Demanded: 1232.0, Remaining: 0
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 204-0194-B1, Priority: 1, Demanded: 251713.0, Remaining: 0
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 204-0148-B1, Priority: 1, Demanded: 73920.0, Remaining: 73920.0
+    Material: 204-0194-B1, Priority: 2, Demanded: 73920.0, Remaining: 0
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP
+    Material: 204-0194-B2, Priority: 1, Demanded: 155404.788, Remaining: 55404.788
+    Material: 204-0194-B1, Priority: 2, Demanded: 155404.788, Remaining: 0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-A2, Priority: 1, Demanded: 89628.0, Remaining: 89628.0
+    Material: 204-0200-D2, Priority: 2, Demanded: 89628.0, Remaining: 37653.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 89628.0, Remaining: 25039.0
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0167-A2, Priority: 1, Demanded: 304920.0, Remaining: 304920.0
+    Material: 204-0200-D2, Priority: 2, Demanded: 304920.0, Remaining: 165177.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 304920.0, Remaining: 121236.0
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 204-0167-A2, Priority: 1, Demanded: 233772.0, Remaining: 233772.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 233772.0, Remaining: 42388.0
+    Material: 204-0200-D3, Priority: 3, Demanded: 233772.0, Remaining: 0
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 204-0167-A2, Priority: 1, Demanded: 399168.0, Remaining: 399168.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 399168.0, Remaining: 183654.0
+    Material: 204-0200-D2, Priority: 3, Demanded: 399168.0, Remaining: 157833.0
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-C3, Priority: 1, Demanded: 62832.0, Remaining: 62832.0
+    Material: 204-0167-A2, Priority: 2, Demanded: 62832.0, Remaining: 62832.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 62832.0, Remaining: 43494.0
+    Material: 204-0200-D3, Priority: 4, Demanded: 62832.0, Remaining: 0
+  Customer: AOC, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0200-D3, Priority: 1, Demanded: 5728.8, Remaining: 0
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0200-D2, Priority: 1, Demanded: 23100.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 204-0200-D2, Priority: 1, Demanded: 30492.0, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 314593.356, Remaining: 142562.35600000003
+    Material: 204-0190-A2, Priority: 1, Demanded: 314593.356, Remaining: 142562.35600000003
+    Material: 204-0190-A3, Priority: 1, Demanded: 314593.356, Remaining: 142562.35600000003
+    Material: 204-0190-B1, Priority: 1, Demanded: 314593.356, Remaining: 142562.35600000003
+    Material: 204-0190-B2, Priority: 1, Demanded: 314593.356, Remaining: 142562.35600000003
+    Material: 204-0190-B3, Priority: 1, Demanded: 314593.356, Remaining: 142562.35600000003
+    Material: 204-0190-C1, Priority: 1, Demanded: 314593.356, Remaining: 142562.35600000003
+    Material: 204-0190-C2, Priority: 1, Demanded: 314593.356, Remaining: 142562.35600000003
+    Material: 204-0190-D1, Priority: 1, Demanded: 314593.356, Remaining: 142562.35600000003
+    Material: 204-0190-D2, Priority: 1, Demanded: 314593.356, Remaining: 142562.35600000003
+    Material: 204-0190-L1, Priority: 1, Demanded: 314593.356, Remaining: 142562.35600000003
+    Material: 204-0190-L2, Priority: 1, Demanded: 314593.356, Remaining: 142562.35600000003
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 6593.664, Remaining: 4934.664
+    Material: 204-0190-A2, Priority: 1, Demanded: 6593.664, Remaining: 4934.664
+    Material: 204-0190-A3, Priority: 1, Demanded: 6593.664, Remaining: 4934.664
+    Material: 204-0190-B1, Priority: 1, Demanded: 6593.664, Remaining: 4934.664
+    Material: 204-0190-B2, Priority: 1, Demanded: 6593.664, Remaining: 4934.664
+    Material: 204-0190-B3, Priority: 1, Demanded: 6593.664, Remaining: 4934.664
+    Material: 204-0190-C1, Priority: 1, Demanded: 6593.664, Remaining: 4934.664
+    Material: 204-0190-C2, Priority: 1, Demanded: 6593.664, Remaining: 4934.664
+    Material: 204-0190-D1, Priority: 1, Demanded: 6593.664, Remaining: 4934.664
+    Material: 204-0190-D2, Priority: 1, Demanded: 6593.664, Remaining: 4934.664
+    Material: 204-0190-L1, Priority: 1, Demanded: 6593.664, Remaining: 4934.664
+    Material: 204-0190-L2, Priority: 1, Demanded: 6593.664, Remaining: 4934.664
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 204-0190-A1, Priority: 1, Demanded: 157080.0, Remaining: 117982.0
+    Material: 204-0190-A2, Priority: 1, Demanded: 157080.0, Remaining: 117982.0
+    Material: 204-0190-A3, Priority: 1, Demanded: 157080.0, Remaining: 117982.0
+    Material: 204-0190-B1, Priority: 1, Demanded: 157080.0, Remaining: 117982.0
+    Material: 204-0190-B2, Priority: 1, Demanded: 157080.0, Remaining: 117982.0
+    Material: 204-0190-B3, Priority: 1, Demanded: 157080.0, Remaining: 117982.0
+    Material: 204-0190-C1, Priority: 1, Demanded: 157080.0, Remaining: 117982.0
+    Material: 204-0190-C2, Priority: 1, Demanded: 157080.0, Remaining: 117982.0
+    Material: 204-0190-D1, Priority: 1, Demanded: 157080.0, Remaining: 117982.0
+    Material: 204-0190-D2, Priority: 1, Demanded: 157080.0, Remaining: 117982.0
+    Material: 204-0190-L1, Priority: 1, Demanded: 157080.0, Remaining: 117982.0
+    Material: 204-0190-L2, Priority: 1, Demanded: 157080.0, Remaining: 117982.0
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 204-0190-A1, Priority: 1, Demanded: 98560.0000000003, Remaining: 80638.0000000003
+    Material: 204-0190-A2, Priority: 1, Demanded: 98560.0000000003, Remaining: 80638.0000000003
+    Material: 204-0190-A3, Priority: 1, Demanded: 98560.0000000003, Remaining: 80638.0000000003
+    Material: 204-0190-B1, Priority: 1, Demanded: 98560.0000000003, Remaining: 80638.0000000003
+    Material: 204-0190-B2, Priority: 1, Demanded: 98560.0000000003, Remaining: 80638.0000000003
+    Material: 204-0190-B3, Priority: 1, Demanded: 98560.0000000003, Remaining: 80638.0000000003
+    Material: 204-0190-C1, Priority: 1, Demanded: 98560.0000000003, Remaining: 80638.0000000003
+    Material: 204-0190-C2, Priority: 1, Demanded: 98560.0000000003, Remaining: 80638.0000000003
+    Material: 204-0190-D1, Priority: 1, Demanded: 98560.0000000003, Remaining: 80638.0000000003
+    Material: 204-0190-D2, Priority: 1, Demanded: 98560.0000000003, Remaining: 80638.0000000003
+    Material: 204-0190-L1, Priority: 1, Demanded: 98560.0000000003, Remaining: 80638.0000000003
+    Material: 204-0190-L2, Priority: 1, Demanded: 98560.0000000003, Remaining: 80638.0000000003
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 204-0190-A1, Priority: 1, Demanded: 6160.0, Remaining: 5230.0
+    Material: 204-0190-A2, Priority: 1, Demanded: 6160.0, Remaining: 5230.0
+    Material: 204-0190-A3, Priority: 1, Demanded: 6160.0, Remaining: 5230.0
+    Material: 204-0190-B1, Priority: 1, Demanded: 6160.0, Remaining: 5230.0
+    Material: 204-0190-B2, Priority: 1, Demanded: 6160.0, Remaining: 5230.0
+    Material: 204-0190-B3, Priority: 1, Demanded: 6160.0, Remaining: 5230.0
+    Material: 204-0190-C1, Priority: 1, Demanded: 6160.0, Remaining: 5230.0
+    Material: 204-0190-C2, Priority: 1, Demanded: 6160.0, Remaining: 5230.0
+    Material: 204-0190-D1, Priority: 1, Demanded: 6160.0, Remaining: 5230.0
+    Material: 204-0190-D2, Priority: 1, Demanded: 6160.0, Remaining: 5230.0
+    Material: 204-0190-L1, Priority: 1, Demanded: 6160.0, Remaining: 5230.0
+    Material: 204-0190-L2, Priority: 1, Demanded: 6160.0, Remaining: 5230.0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 204-0200-D1, Priority: 1, Demanded: 27104.0, Remaining: 0
+
+Date: 2026-06
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 204-0213-A1, Priority: 0, Demanded: 478426.666666667, Remaining: 0
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 204-0213-A1, Priority: 0, Demanded: 440953.333333333, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 204-0213-A1, Priority: 0, Demanded: 25666.6666666667, Remaining: 0
+  Customer: 699/678, Product: 1.6T OSFP224 2xDR4 Gen3,Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 16426.6666666667, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 62883.3333333334, Remaining: 0
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 204-0160-A1, Priority: 0, Demanded: 1232.0, Remaining: 0
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 204-0194-B1, Priority: 1, Demanded: 248694.6, Remaining: 0
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 204-0148-B1, Priority: 1, Demanded: 60984.0, Remaining: 60984.0
+    Material: 204-0194-B1, Priority: 2, Demanded: 60984.0, Remaining: 37390.0
+    Material: 204-0194-B3, Priority: 3, Demanded: 60984.0, Remaining: 35510.0
+    Material: 204-0194-G3, Priority: 3, Demanded: 60984.0, Remaining: 35510.0
+    Material: 204-0194-B2, Priority: 4, Demanded: 60984.0, Remaining: 35510.0
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP
+    Material: 204-0194-B2, Priority: 1, Demanded: 155404.788, Remaining: 45404.788
+    Material: 204-0194-B1, Priority: 2, Demanded: 155404.788, Remaining: 32788.788
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-A2, Priority: 1, Demanded: 89628.0, Remaining: 89628.0
+    Material: 204-0200-D2, Priority: 2, Demanded: 89628.0, Remaining: 53137.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 89628.0, Remaining: 20785.0
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0167-A2, Priority: 1, Demanded: 304920.0, Remaining: 304920.0
+    Material: 204-0200-D2, Priority: 2, Demanded: 304920.0, Remaining: 205822.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 304920.0, Remaining: 108938.0
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 204-0167-A2, Priority: 1, Demanded: 179256.0, Remaining: 179256.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 179256.0, Remaining: 0
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 204-0167-A2, Priority: 1, Demanded: 457380.0, Remaining: 457380.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 457380.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-C3, Priority: 1, Demanded: 57288.0, Remaining: 57288.0
+    Material: 204-0167-A2, Priority: 2, Demanded: 57288.0, Remaining: 57288.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 57288.0, Remaining: 26461.0
+    Material: 204-0200-D3, Priority: 4, Demanded: 57288.0, Remaining: 0
+  Customer: AOC, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0200-D3, Priority: 1, Demanded: 5544.0, Remaining: 0
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0200-D2, Priority: 1, Demanded: 23100.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 204-0200-D2, Priority: 1, Demanded: 26334.0, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 314593.356, Remaining: 98014.35600000003
+    Material: 204-0190-A2, Priority: 1, Demanded: 314593.356, Remaining: 98014.35600000003
+    Material: 204-0190-A3, Priority: 1, Demanded: 314593.356, Remaining: 98014.35600000003
+    Material: 204-0190-B1, Priority: 1, Demanded: 314593.356, Remaining: 98014.35600000003
+    Material: 204-0190-B2, Priority: 1, Demanded: 314593.356, Remaining: 98014.35600000003
+    Material: 204-0190-B3, Priority: 1, Demanded: 314593.356, Remaining: 98014.35600000003
+    Material: 204-0190-C1, Priority: 1, Demanded: 314593.356, Remaining: 98014.35600000003
+    Material: 204-0190-C2, Priority: 1, Demanded: 314593.356, Remaining: 98014.35600000003
+    Material: 204-0190-D1, Priority: 1, Demanded: 314593.356, Remaining: 98014.35600000003
+    Material: 204-0190-D2, Priority: 1, Demanded: 314593.356, Remaining: 98014.35600000003
+    Material: 204-0190-L1, Priority: 1, Demanded: 314593.356, Remaining: 98014.35600000003
+    Material: 204-0190-L2, Priority: 1, Demanded: 314593.356, Remaining: 98014.35600000003
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 94189.788, Remaining: 59766.788
+    Material: 204-0190-A2, Priority: 1, Demanded: 94189.788, Remaining: 59766.788
+    Material: 204-0190-A3, Priority: 1, Demanded: 94189.788, Remaining: 59766.788
+    Material: 204-0190-B1, Priority: 1, Demanded: 94189.788, Remaining: 59766.788
+    Material: 204-0190-B2, Priority: 1, Demanded: 94189.788, Remaining: 59766.788
+    Material: 204-0190-B3, Priority: 1, Demanded: 94189.788, Remaining: 59766.788
+    Material: 204-0190-C1, Priority: 1, Demanded: 94189.788, Remaining: 59766.788
+    Material: 204-0190-C2, Priority: 1, Demanded: 94189.788, Remaining: 59766.788
+    Material: 204-0190-D1, Priority: 1, Demanded: 94189.788, Remaining: 59766.788
+    Material: 204-0190-D2, Priority: 1, Demanded: 94189.788, Remaining: 59766.788
+    Material: 204-0190-L1, Priority: 1, Demanded: 94189.788, Remaining: 59766.788
+    Material: 204-0190-L2, Priority: 1, Demanded: 94189.788, Remaining: 59766.788
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 204-0190-A1, Priority: 1, Demanded: 157080.0, Remaining: 107735.0
+    Material: 204-0190-A2, Priority: 1, Demanded: 157080.0, Remaining: 107735.0
+    Material: 204-0190-A3, Priority: 1, Demanded: 157080.0, Remaining: 107735.0
+    Material: 204-0190-B1, Priority: 1, Demanded: 157080.0, Remaining: 107735.0
+    Material: 204-0190-B2, Priority: 1, Demanded: 157080.0, Remaining: 107735.0
+    Material: 204-0190-B3, Priority: 1, Demanded: 157080.0, Remaining: 107735.0
+    Material: 204-0190-C1, Priority: 1, Demanded: 157080.0, Remaining: 107735.0
+    Material: 204-0190-C2, Priority: 1, Demanded: 157080.0, Remaining: 107735.0
+    Material: 204-0190-D1, Priority: 1, Demanded: 157080.0, Remaining: 107735.0
+    Material: 204-0190-D2, Priority: 1, Demanded: 157080.0, Remaining: 107735.0
+    Material: 204-0190-L1, Priority: 1, Demanded: 157080.0, Remaining: 107735.0
+    Material: 204-0190-L2, Priority: 1, Demanded: 157080.0, Remaining: 107735.0
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 204-0190-A1, Priority: 1, Demanded: 98560.0000000003, Remaining: 74851.0000000003
+    Material: 204-0190-A2, Priority: 1, Demanded: 98560.0000000003, Remaining: 74851.0000000003
+    Material: 204-0190-A3, Priority: 1, Demanded: 98560.0000000003, Remaining: 74851.0000000003
+    Material: 204-0190-B1, Priority: 1, Demanded: 98560.0000000003, Remaining: 74851.0000000003
+    Material: 204-0190-B2, Priority: 1, Demanded: 98560.0000000003, Remaining: 74851.0000000003
+    Material: 204-0190-B3, Priority: 1, Demanded: 98560.0000000003, Remaining: 74851.0000000003
+    Material: 204-0190-C1, Priority: 1, Demanded: 98560.0000000003, Remaining: 74851.0000000003
+    Material: 204-0190-C2, Priority: 1, Demanded: 98560.0000000003, Remaining: 74851.0000000003
+    Material: 204-0190-D1, Priority: 1, Demanded: 98560.0000000003, Remaining: 74851.0000000003
+    Material: 204-0190-D2, Priority: 1, Demanded: 98560.0000000003, Remaining: 74851.0000000003
+    Material: 204-0190-L1, Priority: 1, Demanded: 98560.0000000003, Remaining: 74851.0000000003
+    Material: 204-0190-L2, Priority: 1, Demanded: 98560.0000000003, Remaining: 74851.0000000003
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 204-0190-A1, Priority: 1, Demanded: 6160.0, Remaining: 4896.0
+    Material: 204-0190-A2, Priority: 1, Demanded: 6160.0, Remaining: 4896.0
+    Material: 204-0190-A3, Priority: 1, Demanded: 6160.0, Remaining: 4896.0
+    Material: 204-0190-B1, Priority: 1, Demanded: 6160.0, Remaining: 4896.0
+    Material: 204-0190-B2, Priority: 1, Demanded: 6160.0, Remaining: 4896.0
+    Material: 204-0190-B3, Priority: 1, Demanded: 6160.0, Remaining: 4896.0
+    Material: 204-0190-C1, Priority: 1, Demanded: 6160.0, Remaining: 4896.0
+    Material: 204-0190-C2, Priority: 1, Demanded: 6160.0, Remaining: 4896.0
+    Material: 204-0190-D1, Priority: 1, Demanded: 6160.0, Remaining: 4896.0
+    Material: 204-0190-D2, Priority: 1, Demanded: 6160.0, Remaining: 4896.0
+    Material: 204-0190-L1, Priority: 1, Demanded: 6160.0, Remaining: 4896.0
+    Material: 204-0190-L2, Priority: 1, Demanded: 6160.0, Remaining: 4896.0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 204-0200-D1, Priority: 1, Demanded: 44146.6666666667, Remaining: 0
+
+Date: 2026-07
+  Customer: 国际other, Product: 100G QSFP28 FR1 Gen3.0 SiP
+    Material: 204-0149-A1, Priority: 0, Demanded: 3049.2, Remaining: 0
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 204-0213-A1, Priority: 0, Demanded: 564666.666666667, Remaining: 0
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 204-0213-A1, Priority: 0, Demanded: 470213.333333333, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 204-0213-A1, Priority: 0, Demanded: 51333.3333333334, Remaining: 0
+  Customer: 699/678, Product: 1.6T OSFP224 2xDR4 Gen3,Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 61600.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 106157.333333333, Remaining: 0
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 204-0160-A1, Priority: 0, Demanded: 1232.0, Remaining: 0
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 204-0194-B1, Priority: 1, Demanded: 188563.914, Remaining: 0
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 204-0148-B1, Priority: 1, Demanded: 60984.0, Remaining: 60984.0
+    Material: 204-0194-B1, Priority: 2, Demanded: 60984.0, Remaining: 0
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP
+    Material: 204-0194-B2, Priority: 1, Demanded: 157021.245652174, Remaining: 57021.245652173995
+    Material: 204-0194-B1, Priority: 2, Demanded: 157021.245652174, Remaining: 0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-A2, Priority: 1, Demanded: 89628.0, Remaining: 89628.0
+    Material: 204-0200-D2, Priority: 2, Demanded: 89628.0, Remaining: 41566.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 89628.0, Remaining: 25394.0
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0167-A2, Priority: 1, Demanded: 304920.0, Remaining: 304920.0
+    Material: 204-0200-D2, Priority: 2, Demanded: 304920.0, Remaining: 172556.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 304920.0, Remaining: 119323.0
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 204-0167-A2, Priority: 1, Demanded: 179256.0, Remaining: 179256.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 179256.0, Remaining: 0
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 204-0167-A2, Priority: 1, Demanded: 457380.0, Remaining: 457380.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 457380.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-C3, Priority: 1, Demanded: 57288.0, Remaining: 57288.0
+    Material: 204-0167-A2, Priority: 2, Demanded: 57288.0, Remaining: 57288.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 57288.0, Remaining: 37049.0
+    Material: 204-0200-D3, Priority: 4, Demanded: 57288.0, Remaining: 0
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0200-D2, Priority: 1, Demanded: 16632.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 204-0200-D2, Priority: 1, Demanded: 26334.0, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 210042.756, Remaining: 14508.755999999994
+    Material: 204-0190-A2, Priority: 1, Demanded: 210042.756, Remaining: 14508.755999999994
+    Material: 204-0190-A3, Priority: 1, Demanded: 210042.756, Remaining: 14508.755999999994
+    Material: 204-0190-B1, Priority: 1, Demanded: 210042.756, Remaining: 14508.755999999994
+    Material: 204-0190-B2, Priority: 1, Demanded: 210042.756, Remaining: 14508.755999999994
+    Material: 204-0190-B3, Priority: 1, Demanded: 210042.756, Remaining: 14508.755999999994
+    Material: 204-0190-C1, Priority: 1, Demanded: 210042.756, Remaining: 14508.755999999994
+    Material: 204-0190-C2, Priority: 1, Demanded: 210042.756, Remaining: 14508.755999999994
+    Material: 204-0190-D1, Priority: 1, Demanded: 210042.756, Remaining: 14508.755999999994
+    Material: 204-0190-D2, Priority: 1, Demanded: 210042.756, Remaining: 14508.755999999994
+    Material: 204-0190-L1, Priority: 1, Demanded: 210042.756, Remaining: 14508.755999999994
+    Material: 204-0190-L2, Priority: 1, Demanded: 210042.756, Remaining: 14508.755999999994
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 94189.788, Remaining: 38265.788
+    Material: 204-0190-A2, Priority: 1, Demanded: 94189.788, Remaining: 38265.788
+    Material: 204-0190-A3, Priority: 1, Demanded: 94189.788, Remaining: 38265.788
+    Material: 204-0190-B1, Priority: 1, Demanded: 94189.788, Remaining: 38265.788
+    Material: 204-0190-B2, Priority: 1, Demanded: 94189.788, Remaining: 38265.788
+    Material: 204-0190-B3, Priority: 1, Demanded: 94189.788, Remaining: 38265.788
+    Material: 204-0190-C1, Priority: 1, Demanded: 94189.788, Remaining: 38265.788
+    Material: 204-0190-C2, Priority: 1, Demanded: 94189.788, Remaining: 38265.788
+    Material: 204-0190-D1, Priority: 1, Demanded: 94189.788, Remaining: 38265.788
+    Material: 204-0190-D2, Priority: 1, Demanded: 94189.788, Remaining: 38265.788
+    Material: 204-0190-L1, Priority: 1, Demanded: 94189.788, Remaining: 38265.788
+    Material: 204-0190-L2, Priority: 1, Demanded: 94189.788, Remaining: 38265.788
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 204-0190-A1, Priority: 1, Demanded: 157080.0, Remaining: 78965.0
+    Material: 204-0190-A2, Priority: 1, Demanded: 157080.0, Remaining: 78965.0
+    Material: 204-0190-A3, Priority: 1, Demanded: 157080.0, Remaining: 78965.0
+    Material: 204-0190-B1, Priority: 1, Demanded: 157080.0, Remaining: 78965.0
+    Material: 204-0190-B2, Priority: 1, Demanded: 157080.0, Remaining: 78965.0
+    Material: 204-0190-B3, Priority: 1, Demanded: 157080.0, Remaining: 78965.0
+    Material: 204-0190-C1, Priority: 1, Demanded: 157080.0, Remaining: 78965.0
+    Material: 204-0190-C2, Priority: 1, Demanded: 157080.0, Remaining: 78965.0
+    Material: 204-0190-D1, Priority: 1, Demanded: 157080.0, Remaining: 78965.0
+    Material: 204-0190-D2, Priority: 1, Demanded: 157080.0, Remaining: 78965.0
+    Material: 204-0190-L1, Priority: 1, Demanded: 157080.0, Remaining: 78965.0
+    Material: 204-0190-L2, Priority: 1, Demanded: 157080.0, Remaining: 78965.0
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 204-0190-A1, Priority: 1, Demanded: 98560.0000000003, Remaining: 62823.000000000306
+    Material: 204-0190-A2, Priority: 1, Demanded: 98560.0000000003, Remaining: 62823.000000000306
+    Material: 204-0190-A3, Priority: 1, Demanded: 98560.0000000003, Remaining: 62823.000000000306
+    Material: 204-0190-B1, Priority: 1, Demanded: 98560.0000000003, Remaining: 62823.000000000306
+    Material: 204-0190-B2, Priority: 1, Demanded: 98560.0000000003, Remaining: 62823.000000000306
+    Material: 204-0190-B3, Priority: 1, Demanded: 98560.0000000003, Remaining: 62823.000000000306
+    Material: 204-0190-C1, Priority: 1, Demanded: 98560.0000000003, Remaining: 62823.000000000306
+    Material: 204-0190-C2, Priority: 1, Demanded: 98560.0000000003, Remaining: 62823.000000000306
+    Material: 204-0190-D1, Priority: 1, Demanded: 98560.0000000003, Remaining: 62823.000000000306
+    Material: 204-0190-D2, Priority: 1, Demanded: 98560.0000000003, Remaining: 62823.000000000306
+    Material: 204-0190-L1, Priority: 1, Demanded: 98560.0000000003, Remaining: 62823.000000000306
+    Material: 204-0190-L2, Priority: 1, Demanded: 98560.0000000003, Remaining: 62823.000000000306
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 204-0190-A1, Priority: 1, Demanded: 20020.0, Remaining: 13995.0
+    Material: 204-0190-A2, Priority: 1, Demanded: 20020.0, Remaining: 13995.0
+    Material: 204-0190-A3, Priority: 1, Demanded: 20020.0, Remaining: 13995.0
+    Material: 204-0190-B1, Priority: 1, Demanded: 20020.0, Remaining: 13995.0
+    Material: 204-0190-B2, Priority: 1, Demanded: 20020.0, Remaining: 13995.0
+    Material: 204-0190-B3, Priority: 1, Demanded: 20020.0, Remaining: 13995.0
+    Material: 204-0190-C1, Priority: 1, Demanded: 20020.0, Remaining: 13995.0
+    Material: 204-0190-C2, Priority: 1, Demanded: 20020.0, Remaining: 13995.0
+    Material: 204-0190-D1, Priority: 1, Demanded: 20020.0, Remaining: 13995.0
+    Material: 204-0190-D2, Priority: 1, Demanded: 20020.0, Remaining: 13995.0
+    Material: 204-0190-L1, Priority: 1, Demanded: 20020.0, Remaining: 13995.0
+    Material: 204-0190-L2, Priority: 1, Demanded: 20020.0, Remaining: 13995.0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 204-0200-D1, Priority: 1, Demanded: 75973.3333333333, Remaining: 0
+
+Date: 2026-08
+  Customer: 国际other, Product: 100G QSFP28 FR1 Gen3.0 SiP
+    Material: 204-0149-A1, Priority: 0, Demanded: 3049.2, Remaining: 0
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 204-0213-A1, Priority: 0, Demanded: 638586.666666667, Remaining: 0
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 204-0213-A1, Priority: 0, Demanded: 470213.333333333, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 204-0213-A1, Priority: 0, Demanded: 123200.0, Remaining: 0
+  Customer: 699/678, Product: 1.6T OSFP224 2xDR4 Gen3,Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 154000.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 217140.0, Remaining: 0
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 204-0160-A1, Priority: 0, Demanded: 1232.0, Remaining: 0
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 204-0194-B1, Priority: 1, Demanded: 182009.52, Remaining: 0
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 204-0148-B1, Priority: 1, Demanded: 60984.0, Remaining: 60984.0
+    Material: 204-0194-B1, Priority: 2, Demanded: 60984.0, Remaining: 0
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP
+    Material: 204-0194-B2, Priority: 1, Demanded: 148764.0, Remaining: 48764.0
+    Material: 204-0194-B1, Priority: 2, Demanded: 148764.0, Remaining: 0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-A2, Priority: 1, Demanded: 89628.0, Remaining: 89628.0
+    Material: 204-0200-D2, Priority: 2, Demanded: 89628.0, Remaining: 72541.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 89628.0, Remaining: 46601.0
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0167-A2, Priority: 1, Demanded: 213444.0, Remaining: 213444.0
+    Material: 204-0200-D2, Priority: 2, Demanded: 213444.0, Remaining: 181561.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 213444.0, Remaining: 137949.0
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 204-0167-A2, Priority: 1, Demanded: 179256.0, Remaining: 179256.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 179256.0, Remaining: 38068.0
+    Material: 204-0200-D3, Priority: 3, Demanded: 179256.0, Remaining: 0
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 204-0167-A2, Priority: 1, Demanded: 457380.0, Remaining: 457380.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 457380.0, Remaining: 192152.0
+    Material: 204-0200-D2, Priority: 3, Demanded: 457380.0, Remaining: 179569.0
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-C3, Priority: 1, Demanded: 57288.0, Remaining: 57288.0
+    Material: 204-0167-A2, Priority: 2, Demanded: 57288.0, Remaining: 57288.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 57288.0, Remaining: 40926.0
+    Material: 204-0200-D3, Priority: 4, Demanded: 57288.0, Remaining: 0
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0200-D2, Priority: 1, Demanded: 16632.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 204-0200-D2, Priority: 1, Demanded: 26334.0, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 210042.756, Remaining: 15994.755999999994
+    Material: 204-0190-A2, Priority: 1, Demanded: 210042.756, Remaining: 15994.755999999994
+    Material: 204-0190-A3, Priority: 1, Demanded: 210042.756, Remaining: 15994.755999999994
+    Material: 204-0190-B1, Priority: 1, Demanded: 210042.756, Remaining: 15994.755999999994
+    Material: 204-0190-B2, Priority: 1, Demanded: 210042.756, Remaining: 15994.755999999994
+    Material: 204-0190-B3, Priority: 1, Demanded: 210042.756, Remaining: 15994.755999999994
+    Material: 204-0190-C1, Priority: 1, Demanded: 210042.756, Remaining: 15994.755999999994
+    Material: 204-0190-C2, Priority: 1, Demanded: 210042.756, Remaining: 15994.755999999994
+    Material: 204-0190-D1, Priority: 1, Demanded: 210042.756, Remaining: 15994.755999999994
+    Material: 204-0190-D2, Priority: 1, Demanded: 210042.756, Remaining: 15994.755999999994
+    Material: 204-0190-L1, Priority: 1, Demanded: 210042.756, Remaining: 15994.755999999994
+    Material: 204-0190-L2, Priority: 1, Demanded: 210042.756, Remaining: 15994.755999999994
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 94189.788, Remaining: 38441.788
+    Material: 204-0190-A2, Priority: 1, Demanded: 94189.788, Remaining: 38441.788
+    Material: 204-0190-A3, Priority: 1, Demanded: 94189.788, Remaining: 38441.788
+    Material: 204-0190-B1, Priority: 1, Demanded: 94189.788, Remaining: 38441.788
+    Material: 204-0190-B2, Priority: 1, Demanded: 94189.788, Remaining: 38441.788
+    Material: 204-0190-B3, Priority: 1, Demanded: 94189.788, Remaining: 38441.788
+    Material: 204-0190-C1, Priority: 1, Demanded: 94189.788, Remaining: 38441.788
+    Material: 204-0190-C2, Priority: 1, Demanded: 94189.788, Remaining: 38441.788
+    Material: 204-0190-D1, Priority: 1, Demanded: 94189.788, Remaining: 38441.788
+    Material: 204-0190-D2, Priority: 1, Demanded: 94189.788, Remaining: 38441.788
+    Material: 204-0190-L1, Priority: 1, Demanded: 94189.788, Remaining: 38441.788
+    Material: 204-0190-L2, Priority: 1, Demanded: 94189.788, Remaining: 38441.788
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 204-0190-A1, Priority: 1, Demanded: 157080.0, Remaining: 79091.0
+    Material: 204-0190-A2, Priority: 1, Demanded: 157080.0, Remaining: 79091.0
+    Material: 204-0190-A3, Priority: 1, Demanded: 157080.0, Remaining: 79091.0
+    Material: 204-0190-B1, Priority: 1, Demanded: 157080.0, Remaining: 79091.0
+    Material: 204-0190-B2, Priority: 1, Demanded: 157080.0, Remaining: 79091.0
+    Material: 204-0190-B3, Priority: 1, Demanded: 157080.0, Remaining: 79091.0
+    Material: 204-0190-C1, Priority: 1, Demanded: 157080.0, Remaining: 79091.0
+    Material: 204-0190-C2, Priority: 1, Demanded: 157080.0, Remaining: 79091.0
+    Material: 204-0190-D1, Priority: 1, Demanded: 157080.0, Remaining: 79091.0
+    Material: 204-0190-D2, Priority: 1, Demanded: 157080.0, Remaining: 79091.0
+    Material: 204-0190-L1, Priority: 1, Demanded: 157080.0, Remaining: 79091.0
+    Material: 204-0190-L2, Priority: 1, Demanded: 157080.0, Remaining: 79091.0
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 204-0190-A1, Priority: 1, Demanded: 98560.0000000003, Remaining: 62776.000000000306
+    Material: 204-0190-A2, Priority: 1, Demanded: 98560.0000000003, Remaining: 62776.000000000306
+    Material: 204-0190-A3, Priority: 1, Demanded: 98560.0000000003, Remaining: 62776.000000000306
+    Material: 204-0190-B1, Priority: 1, Demanded: 98560.0000000003, Remaining: 62776.000000000306
+    Material: 204-0190-B2, Priority: 1, Demanded: 98560.0000000003, Remaining: 62776.000000000306
+    Material: 204-0190-B3, Priority: 1, Demanded: 98560.0000000003, Remaining: 62776.000000000306
+    Material: 204-0190-C1, Priority: 1, Demanded: 98560.0000000003, Remaining: 62776.000000000306
+    Material: 204-0190-C2, Priority: 1, Demanded: 98560.0000000003, Remaining: 62776.000000000306
+    Material: 204-0190-D1, Priority: 1, Demanded: 98560.0000000003, Remaining: 62776.000000000306
+    Material: 204-0190-D2, Priority: 1, Demanded: 98560.0000000003, Remaining: 62776.000000000306
+    Material: 204-0190-L1, Priority: 1, Demanded: 98560.0000000003, Remaining: 62776.000000000306
+    Material: 204-0190-L2, Priority: 1, Demanded: 98560.0000000003, Remaining: 62776.000000000306
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 204-0190-A1, Priority: 1, Demanded: 24640.0, Remaining: 17203.0
+    Material: 204-0190-A2, Priority: 1, Demanded: 24640.0, Remaining: 17203.0
+    Material: 204-0190-A3, Priority: 1, Demanded: 24640.0, Remaining: 17203.0
+    Material: 204-0190-B1, Priority: 1, Demanded: 24640.0, Remaining: 17203.0
+    Material: 204-0190-B2, Priority: 1, Demanded: 24640.0, Remaining: 17203.0
+    Material: 204-0190-B3, Priority: 1, Demanded: 24640.0, Remaining: 17203.0
+    Material: 204-0190-C1, Priority: 1, Demanded: 24640.0, Remaining: 17203.0
+    Material: 204-0190-C2, Priority: 1, Demanded: 24640.0, Remaining: 17203.0
+    Material: 204-0190-D1, Priority: 1, Demanded: 24640.0, Remaining: 17203.0
+    Material: 204-0190-D2, Priority: 1, Demanded: 24640.0, Remaining: 17203.0
+    Material: 204-0190-L1, Priority: 1, Demanded: 24640.0, Remaining: 17203.0
+    Material: 204-0190-L2, Priority: 1, Demanded: 24640.0, Remaining: 17203.0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 204-0200-D1, Priority: 1, Demanded: 110880.0, Remaining: 0
+
+Date: 2026-09
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 204-0213-A1, Priority: 0, Demanded: 653986.666666667, Remaining: 0
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 204-0213-A1, Priority: 0, Demanded: 470213.333333333, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 204-0213-A1, Priority: 0, Demanded: 287466.666666667, Remaining: 0
+  Customer: 699/678, Product: 1.6T OSFP224 2xDR4 Gen3,Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 266933.333333333, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 343933.333333333, Remaining: 0
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 204-0160-A1, Priority: 0, Demanded: 1232.0, Remaining: 0
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 204-0194-B1, Priority: 1, Demanded: 182009.52, Remaining: 0
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 204-0148-B1, Priority: 1, Demanded: 60984.0, Remaining: 60984.0
+    Material: 204-0194-B1, Priority: 2, Demanded: 60984.0, Remaining: 0
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP
+    Material: 204-0194-B2, Priority: 1, Demanded: 138199.6, Remaining: 38199.600000000006
+    Material: 204-0194-B1, Priority: 2, Demanded: 138199.6, Remaining: 0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-A2, Priority: 1, Demanded: 89628.0, Remaining: 89628.0
+    Material: 204-0200-D2, Priority: 2, Demanded: 89628.0, Remaining: 80785.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 89628.0, Remaining: 46726.0
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0167-A2, Priority: 1, Demanded: 135828.0, Remaining: 135828.0
+    Material: 204-0200-D2, Priority: 2, Demanded: 135828.0, Remaining: 125871.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 135828.0, Remaining: 95646.0
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 204-0167-A2, Priority: 1, Demanded: 179256.0, Remaining: 179256.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 179256.0, Remaining: 55027.0
+    Material: 204-0200-D3, Priority: 3, Demanded: 179256.0, Remaining: 0
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 204-0167-A2, Priority: 1, Demanded: 571032.0, Remaining: 571032.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 571032.0, Remaining: 264717.0
+    Material: 204-0200-D2, Priority: 3, Demanded: 571032.0, Remaining: 257485.0
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-C3, Priority: 1, Demanded: 57288.0, Remaining: 57288.0
+    Material: 204-0167-A2, Priority: 2, Demanded: 57288.0, Remaining: 57288.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 57288.0, Remaining: 40037.0
+    Material: 204-0200-D3, Priority: 4, Demanded: 57288.0, Remaining: 0
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0200-D2, Priority: 1, Demanded: 16632.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 204-0200-D2, Priority: 1, Demanded: 26334.0, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 105492.156, Remaining: 33363.156
+    Material: 204-0190-A2, Priority: 1, Demanded: 105492.156, Remaining: 33363.156
+    Material: 204-0190-A3, Priority: 1, Demanded: 105492.156, Remaining: 33363.156
+    Material: 204-0190-B1, Priority: 1, Demanded: 105492.156, Remaining: 33363.156
+    Material: 204-0190-B2, Priority: 1, Demanded: 105492.156, Remaining: 33363.156
+    Material: 204-0190-B3, Priority: 1, Demanded: 105492.156, Remaining: 33363.156
+    Material: 204-0190-C1, Priority: 1, Demanded: 105492.156, Remaining: 33363.156
+    Material: 204-0190-C2, Priority: 1, Demanded: 105492.156, Remaining: 33363.156
+    Material: 204-0190-D1, Priority: 1, Demanded: 105492.156, Remaining: 33363.156
+    Material: 204-0190-D2, Priority: 1, Demanded: 105492.156, Remaining: 33363.156
+    Material: 204-0190-L1, Priority: 1, Demanded: 105492.156, Remaining: 33363.156
+    Material: 204-0190-L2, Priority: 1, Demanded: 105492.156, Remaining: 33363.156
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 357920.64, Remaining: 147907.64
+    Material: 204-0190-A2, Priority: 1, Demanded: 357920.64, Remaining: 147907.64
+    Material: 204-0190-A3, Priority: 1, Demanded: 357920.64, Remaining: 147907.64
+    Material: 204-0190-B1, Priority: 1, Demanded: 357920.64, Remaining: 147907.64
+    Material: 204-0190-B2, Priority: 1, Demanded: 357920.64, Remaining: 147907.64
+    Material: 204-0190-B3, Priority: 1, Demanded: 357920.64, Remaining: 147907.64
+    Material: 204-0190-C1, Priority: 1, Demanded: 357920.64, Remaining: 147907.64
+    Material: 204-0190-C2, Priority: 1, Demanded: 357920.64, Remaining: 147907.64
+    Material: 204-0190-D1, Priority: 1, Demanded: 357920.64, Remaining: 147907.64
+    Material: 204-0190-D2, Priority: 1, Demanded: 357920.64, Remaining: 147907.64
+    Material: 204-0190-L1, Priority: 1, Demanded: 357920.64, Remaining: 147907.64
+    Material: 204-0190-L2, Priority: 1, Demanded: 357920.64, Remaining: 147907.64
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 204-0190-A1, Priority: 1, Demanded: 157080.0, Remaining: 109271.0
+    Material: 204-0190-A2, Priority: 1, Demanded: 157080.0, Remaining: 109271.0
+    Material: 204-0190-A3, Priority: 1, Demanded: 157080.0, Remaining: 109271.0
+    Material: 204-0190-B1, Priority: 1, Demanded: 157080.0, Remaining: 109271.0
+    Material: 204-0190-B2, Priority: 1, Demanded: 157080.0, Remaining: 109271.0
+    Material: 204-0190-B3, Priority: 1, Demanded: 157080.0, Remaining: 109271.0
+    Material: 204-0190-C1, Priority: 1, Demanded: 157080.0, Remaining: 109271.0
+    Material: 204-0190-C2, Priority: 1, Demanded: 157080.0, Remaining: 109271.0
+    Material: 204-0190-D1, Priority: 1, Demanded: 157080.0, Remaining: 109271.0
+    Material: 204-0190-D2, Priority: 1, Demanded: 157080.0, Remaining: 109271.0
+    Material: 204-0190-L1, Priority: 1, Demanded: 157080.0, Remaining: 109271.0
+    Material: 204-0190-L2, Priority: 1, Demanded: 157080.0, Remaining: 109271.0
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 204-0190-A1, Priority: 1, Demanded: 98560.0000000003, Remaining: 74898.0000000003
+    Material: 204-0190-A2, Priority: 1, Demanded: 98560.0000000003, Remaining: 74898.0000000003
+    Material: 204-0190-A3, Priority: 1, Demanded: 98560.0000000003, Remaining: 74898.0000000003
+    Material: 204-0190-B1, Priority: 1, Demanded: 98560.0000000003, Remaining: 74898.0000000003
+    Material: 204-0190-B2, Priority: 1, Demanded: 98560.0000000003, Remaining: 74898.0000000003
+    Material: 204-0190-B3, Priority: 1, Demanded: 98560.0000000003, Remaining: 74898.0000000003
+    Material: 204-0190-C1, Priority: 1, Demanded: 98560.0000000003, Remaining: 74898.0000000003
+    Material: 204-0190-C2, Priority: 1, Demanded: 98560.0000000003, Remaining: 74898.0000000003
+    Material: 204-0190-D1, Priority: 1, Demanded: 98560.0000000003, Remaining: 74898.0000000003
+    Material: 204-0190-D2, Priority: 1, Demanded: 98560.0000000003, Remaining: 74898.0000000003
+    Material: 204-0190-L1, Priority: 1, Demanded: 98560.0000000003, Remaining: 74898.0000000003
+    Material: 204-0190-L2, Priority: 1, Demanded: 98560.0000000003, Remaining: 74898.0000000003
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 204-0190-A1, Priority: 1, Demanded: 24640.0, Remaining: 19509.0
+    Material: 204-0190-A2, Priority: 1, Demanded: 24640.0, Remaining: 19509.0
+    Material: 204-0190-A3, Priority: 1, Demanded: 24640.0, Remaining: 19509.0
+    Material: 204-0190-B1, Priority: 1, Demanded: 24640.0, Remaining: 19509.0
+    Material: 204-0190-B2, Priority: 1, Demanded: 24640.0, Remaining: 19509.0
+    Material: 204-0190-B3, Priority: 1, Demanded: 24640.0, Remaining: 19509.0
+    Material: 204-0190-C1, Priority: 1, Demanded: 24640.0, Remaining: 19509.0
+    Material: 204-0190-C2, Priority: 1, Demanded: 24640.0, Remaining: 19509.0
+    Material: 204-0190-D1, Priority: 1, Demanded: 24640.0, Remaining: 19509.0
+    Material: 204-0190-D2, Priority: 1, Demanded: 24640.0, Remaining: 19509.0
+    Material: 204-0190-L1, Priority: 1, Demanded: 24640.0, Remaining: 19509.0
+    Material: 204-0190-L2, Priority: 1, Demanded: 24640.0, Remaining: 19509.0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 204-0200-D1, Priority: 1, Demanded: 123200.0, Remaining: 0
+
+Date: 2026-10
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 204-0213-A1, Priority: 0, Demanded: 626266.666666667, Remaining: 0
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 204-0213-A1, Priority: 0, Demanded: 470213.333333333, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 204-0213-A1, Priority: 0, Demanded: 462000.0, Remaining: 0
+  Customer: 699/678, Product: 1.6T OSFP224 2xDR4 Gen3,Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 297733.333333333, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 374733.333333334, Remaining: 0
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 204-0160-A1, Priority: 0, Demanded: 1232.0, Remaining: 0
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 204-0194-B1, Priority: 1, Demanded: 181104.0, Remaining: 0
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 204-0148-B1, Priority: 1, Demanded: 60984.0, Remaining: 60984.0
+    Material: 204-0194-B1, Priority: 2, Demanded: 60984.0, Remaining: 52753.0
+    Material: 204-0194-B3, Priority: 3, Demanded: 60984.0, Remaining: 47589.0
+    Material: 204-0194-G3, Priority: 3, Demanded: 60984.0, Remaining: 47589.0
+    Material: 204-0194-B2, Priority: 4, Demanded: 60984.0, Remaining: 47589.0
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP
+    Material: 204-0194-B2, Priority: 1, Demanded: 138199.6, Remaining: 38199.600000000006
+    Material: 204-0194-B1, Priority: 2, Demanded: 138199.6, Remaining: 34622.600000000006
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-A2, Priority: 1, Demanded: 89628.0, Remaining: 89628.0
+    Material: 204-0200-D2, Priority: 2, Demanded: 89628.0, Remaining: 71949.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 89628.0, Remaining: 60707.0
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0167-A2, Priority: 1, Demanded: 135828.0, Remaining: 135828.0
+    Material: 204-0200-D2, Priority: 2, Demanded: 135828.0, Remaining: 115924.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 135828.0, Remaining: 105155.0
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 204-0167-A2, Priority: 1, Demanded: 179256.0, Remaining: 179256.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 179256.0, Remaining: 0
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 204-0167-A2, Priority: 1, Demanded: 571032.0, Remaining: 571032.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 571032.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-C3, Priority: 1, Demanded: 57288.0, Remaining: 57288.0
+    Material: 204-0167-A2, Priority: 2, Demanded: 57288.0, Remaining: 57288.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 57288.0, Remaining: 50614.0
+    Material: 204-0200-D3, Priority: 4, Demanded: 57288.0, Remaining: 0
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0200-D2, Priority: 1, Demanded: 33264.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 204-0200-D2, Priority: 1, Demanded: 26334.0, Remaining: 0
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 357920.64, Remaining: 128961.64000000001
+    Material: 204-0190-A2, Priority: 1, Demanded: 357920.64, Remaining: 128961.64000000001
+    Material: 204-0190-A3, Priority: 1, Demanded: 357920.64, Remaining: 128961.64000000001
+    Material: 204-0190-B1, Priority: 1, Demanded: 357920.64, Remaining: 128961.64000000001
+    Material: 204-0190-B2, Priority: 1, Demanded: 357920.64, Remaining: 128961.64000000001
+    Material: 204-0190-B3, Priority: 1, Demanded: 357920.64, Remaining: 128961.64000000001
+    Material: 204-0190-C1, Priority: 1, Demanded: 357920.64, Remaining: 128961.64000000001
+    Material: 204-0190-C2, Priority: 1, Demanded: 357920.64, Remaining: 128961.64000000001
+    Material: 204-0190-D1, Priority: 1, Demanded: 357920.64, Remaining: 128961.64000000001
+    Material: 204-0190-D2, Priority: 1, Demanded: 357920.64, Remaining: 128961.64000000001
+    Material: 204-0190-L1, Priority: 1, Demanded: 357920.64, Remaining: 128961.64000000001
+    Material: 204-0190-L2, Priority: 1, Demanded: 357920.64, Remaining: 128961.64000000001
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 204-0190-A1, Priority: 1, Demanded: 157080.0, Remaining: 112951.0
+    Material: 204-0190-A2, Priority: 1, Demanded: 157080.0, Remaining: 112951.0
+    Material: 204-0190-A3, Priority: 1, Demanded: 157080.0, Remaining: 112951.0
+    Material: 204-0190-B1, Priority: 1, Demanded: 157080.0, Remaining: 112951.0
+    Material: 204-0190-B2, Priority: 1, Demanded: 157080.0, Remaining: 112951.0
+    Material: 204-0190-B3, Priority: 1, Demanded: 157080.0, Remaining: 112951.0
+    Material: 204-0190-C1, Priority: 1, Demanded: 157080.0, Remaining: 112951.0
+    Material: 204-0190-C2, Priority: 1, Demanded: 157080.0, Remaining: 112951.0
+    Material: 204-0190-D1, Priority: 1, Demanded: 157080.0, Remaining: 112951.0
+    Material: 204-0190-D2, Priority: 1, Demanded: 157080.0, Remaining: 112951.0
+    Material: 204-0190-L1, Priority: 1, Demanded: 157080.0, Remaining: 112951.0
+    Material: 204-0190-L2, Priority: 1, Demanded: 157080.0, Remaining: 112951.0
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 204-0190-A1, Priority: 1, Demanded: 98560.0000000003, Remaining: 77686.0000000003
+    Material: 204-0190-A2, Priority: 1, Demanded: 98560.0000000003, Remaining: 77686.0000000003
+    Material: 204-0190-A3, Priority: 1, Demanded: 98560.0000000003, Remaining: 77686.0000000003
+    Material: 204-0190-B1, Priority: 1, Demanded: 98560.0000000003, Remaining: 77686.0000000003
+    Material: 204-0190-B2, Priority: 1, Demanded: 98560.0000000003, Remaining: 77686.0000000003
+    Material: 204-0190-B3, Priority: 1, Demanded: 98560.0000000003, Remaining: 77686.0000000003
+    Material: 204-0190-C1, Priority: 1, Demanded: 98560.0000000003, Remaining: 77686.0000000003
+    Material: 204-0190-C2, Priority: 1, Demanded: 98560.0000000003, Remaining: 77686.0000000003
+    Material: 204-0190-D1, Priority: 1, Demanded: 98560.0000000003, Remaining: 77686.0000000003
+    Material: 204-0190-D2, Priority: 1, Demanded: 98560.0000000003, Remaining: 77686.0000000003
+    Material: 204-0190-L1, Priority: 1, Demanded: 98560.0000000003, Remaining: 77686.0000000003
+    Material: 204-0190-L2, Priority: 1, Demanded: 98560.0000000003, Remaining: 77686.0000000003
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 204-0190-A1, Priority: 1, Demanded: 24640.0, Remaining: 20228.0
+    Material: 204-0190-A2, Priority: 1, Demanded: 24640.0, Remaining: 20228.0
+    Material: 204-0190-A3, Priority: 1, Demanded: 24640.0, Remaining: 20228.0
+    Material: 204-0190-B1, Priority: 1, Demanded: 24640.0, Remaining: 20228.0
+    Material: 204-0190-B2, Priority: 1, Demanded: 24640.0, Remaining: 20228.0
+    Material: 204-0190-B3, Priority: 1, Demanded: 24640.0, Remaining: 20228.0
+    Material: 204-0190-C1, Priority: 1, Demanded: 24640.0, Remaining: 20228.0
+    Material: 204-0190-C2, Priority: 1, Demanded: 24640.0, Remaining: 20228.0
+    Material: 204-0190-D1, Priority: 1, Demanded: 24640.0, Remaining: 20228.0
+    Material: 204-0190-D2, Priority: 1, Demanded: 24640.0, Remaining: 20228.0
+    Material: 204-0190-L1, Priority: 1, Demanded: 24640.0, Remaining: 20228.0
+    Material: 204-0190-L2, Priority: 1, Demanded: 24640.0, Remaining: 20228.0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 204-0200-D1, Priority: 1, Demanded: 123200.0, Remaining: 0
+
+Date: 2026-11
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 204-0213-A1, Priority: 0, Demanded: 616000.0, Remaining: 0
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 204-0213-A1, Priority: 0, Demanded: 470213.333333333, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 204-0213-A1, Priority: 0, Demanded: 667333.333333333, Remaining: 0
+  Customer: 699/678, Product: 1.6T OSFP224 2xDR4 Gen3,Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 205333.333333333, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 164266.666666667, Remaining: 0
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 204-0160-A1, Priority: 0, Demanded: 1232.0, Remaining: 0
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 204-0194-B1, Priority: 1, Demanded: 181104.0, Remaining: 0
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 204-0148-B1, Priority: 1, Demanded: 60984.0, Remaining: 60984.0
+    Material: 204-0194-B1, Priority: 2, Demanded: 60984.0, Remaining: 27010.0
+    Material: 204-0194-B3, Priority: 3, Demanded: 60984.0, Remaining: 24664.0
+    Material: 204-0194-G3, Priority: 3, Demanded: 60984.0, Remaining: 24664.0
+    Material: 204-0194-B2, Priority: 4, Demanded: 60984.0, Remaining: 0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-A2, Priority: 1, Demanded: 89628.0, Remaining: 89628.0
+    Material: 204-0200-D2, Priority: 2, Demanded: 89628.0, Remaining: 35235.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 89628.0, Remaining: 17119.0
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0167-A2, Priority: 1, Demanded: 135828.0, Remaining: 135828.0
+    Material: 204-0200-D2, Priority: 2, Demanded: 135828.0, Remaining: 74588.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 135828.0, Remaining: 47820.0
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 204-0167-A2, Priority: 1, Demanded: 122892.0, Remaining: 122892.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 122892.0, Remaining: 0
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 204-0167-A2, Priority: 1, Demanded: 571032.0, Remaining: 571032.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 571032.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-C3, Priority: 1, Demanded: 57288.0, Remaining: 57288.0
+    Material: 204-0167-A2, Priority: 2, Demanded: 57288.0, Remaining: 57288.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 57288.0, Remaining: 31504.0
+    Material: 204-0200-D3, Priority: 4, Demanded: 57288.0, Remaining: 0
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0200-D2, Priority: 1, Demanded: 33264.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 204-0200-D2, Priority: 1, Demanded: 26334.0, Remaining: 0
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 357920.64, Remaining: 244981.64
+    Material: 204-0190-A2, Priority: 1, Demanded: 357920.64, Remaining: 244981.64
+    Material: 204-0190-A3, Priority: 1, Demanded: 357920.64, Remaining: 244981.64
+    Material: 204-0190-B1, Priority: 1, Demanded: 357920.64, Remaining: 244981.64
+    Material: 204-0190-B2, Priority: 1, Demanded: 357920.64, Remaining: 244981.64
+    Material: 204-0190-B3, Priority: 1, Demanded: 357920.64, Remaining: 244981.64
+    Material: 204-0190-C1, Priority: 1, Demanded: 357920.64, Remaining: 244981.64
+    Material: 204-0190-C2, Priority: 1, Demanded: 357920.64, Remaining: 244981.64
+    Material: 204-0190-D1, Priority: 1, Demanded: 357920.64, Remaining: 244981.64
+    Material: 204-0190-D2, Priority: 1, Demanded: 357920.64, Remaining: 244981.64
+    Material: 204-0190-L1, Priority: 1, Demanded: 357920.64, Remaining: 244981.64
+    Material: 204-0190-L2, Priority: 1, Demanded: 357920.64, Remaining: 244981.64
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 204-0190-A1, Priority: 1, Demanded: 157080.0, Remaining: 135313.0
+    Material: 204-0190-A2, Priority: 1, Demanded: 157080.0, Remaining: 135313.0
+    Material: 204-0190-A3, Priority: 1, Demanded: 157080.0, Remaining: 135313.0
+    Material: 204-0190-B1, Priority: 1, Demanded: 157080.0, Remaining: 135313.0
+    Material: 204-0190-B2, Priority: 1, Demanded: 157080.0, Remaining: 135313.0
+    Material: 204-0190-B3, Priority: 1, Demanded: 157080.0, Remaining: 135313.0
+    Material: 204-0190-C1, Priority: 1, Demanded: 157080.0, Remaining: 135313.0
+    Material: 204-0190-C2, Priority: 1, Demanded: 157080.0, Remaining: 135313.0
+    Material: 204-0190-D1, Priority: 1, Demanded: 157080.0, Remaining: 135313.0
+    Material: 204-0190-D2, Priority: 1, Demanded: 157080.0, Remaining: 135313.0
+    Material: 204-0190-L1, Priority: 1, Demanded: 157080.0, Remaining: 135313.0
+    Material: 204-0190-L2, Priority: 1, Demanded: 157080.0, Remaining: 135313.0
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 204-0190-A1, Priority: 1, Demanded: 98560.0000000003, Remaining: 88264.0000000003
+    Material: 204-0190-A2, Priority: 1, Demanded: 98560.0000000003, Remaining: 88264.0000000003
+    Material: 204-0190-A3, Priority: 1, Demanded: 98560.0000000003, Remaining: 88264.0000000003
+    Material: 204-0190-B1, Priority: 1, Demanded: 98560.0000000003, Remaining: 88264.0000000003
+    Material: 204-0190-B2, Priority: 1, Demanded: 98560.0000000003, Remaining: 88264.0000000003
+    Material: 204-0190-B3, Priority: 1, Demanded: 98560.0000000003, Remaining: 88264.0000000003
+    Material: 204-0190-C1, Priority: 1, Demanded: 98560.0000000003, Remaining: 88264.0000000003
+    Material: 204-0190-C2, Priority: 1, Demanded: 98560.0000000003, Remaining: 88264.0000000003
+    Material: 204-0190-D1, Priority: 1, Demanded: 98560.0000000003, Remaining: 88264.0000000003
+    Material: 204-0190-D2, Priority: 1, Demanded: 98560.0000000003, Remaining: 88264.0000000003
+    Material: 204-0190-L1, Priority: 1, Demanded: 98560.0000000003, Remaining: 88264.0000000003
+    Material: 204-0190-L2, Priority: 1, Demanded: 98560.0000000003, Remaining: 88264.0000000003
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 204-0190-A1, Priority: 1, Demanded: 24640.0, Remaining: 22464.0
+    Material: 204-0190-A2, Priority: 1, Demanded: 24640.0, Remaining: 22464.0
+    Material: 204-0190-A3, Priority: 1, Demanded: 24640.0, Remaining: 22464.0
+    Material: 204-0190-B1, Priority: 1, Demanded: 24640.0, Remaining: 22464.0
+    Material: 204-0190-B2, Priority: 1, Demanded: 24640.0, Remaining: 22464.0
+    Material: 204-0190-B3, Priority: 1, Demanded: 24640.0, Remaining: 22464.0
+    Material: 204-0190-C1, Priority: 1, Demanded: 24640.0, Remaining: 22464.0
+    Material: 204-0190-C2, Priority: 1, Demanded: 24640.0, Remaining: 22464.0
+    Material: 204-0190-D1, Priority: 1, Demanded: 24640.0, Remaining: 22464.0
+    Material: 204-0190-D2, Priority: 1, Demanded: 24640.0, Remaining: 22464.0
+    Material: 204-0190-L1, Priority: 1, Demanded: 24640.0, Remaining: 22464.0
+    Material: 204-0190-L2, Priority: 1, Demanded: 24640.0, Remaining: 22464.0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 204-0200-D1, Priority: 1, Demanded: 123200.0, Remaining: 0
+
+Date: 2026-12
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 204-0213-A1, Priority: 0, Demanded: 616000.0, Remaining: 0
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 204-0213-A1, Priority: 0, Demanded: 470213.333333333, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 204-0213-A1, Priority: 0, Demanded: 667333.333333333, Remaining: 0
+  Customer: 699/678, Product: 1.6T OSFP224 2xDR4 Gen3,Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 205333.333333333, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 204-0213-A1, Priority: 0, Demanded: 164266.666666667, Remaining: 0
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 204-0160-A1, Priority: 0, Demanded: 1232.0, Remaining: 0
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 204-0194-B1, Priority: 1, Demanded: 181104.0, Remaining: 0
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 204-0148-B1, Priority: 1, Demanded: 60984.0, Remaining: 60984.0
+    Material: 204-0194-B1, Priority: 2, Demanded: 60984.0, Remaining: 42088.0
+    Material: 204-0194-B3, Priority: 3, Demanded: 60984.0, Remaining: 38405.0
+    Material: 204-0194-G3, Priority: 3, Demanded: 60984.0, Remaining: 38405.0
+    Material: 204-0194-B2, Priority: 4, Demanded: 60984.0, Remaining: 0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-A2, Priority: 1, Demanded: 89628.0, Remaining: 89628.0
+    Material: 204-0200-D2, Priority: 2, Demanded: 89628.0, Remaining: 0
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0167-A2, Priority: 1, Demanded: 135828.0, Remaining: 135828.0
+    Material: 204-0200-D2, Priority: 2, Demanded: 135828.0, Remaining: 0
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 204-0167-A2, Priority: 1, Demanded: 122892.0, Remaining: 122892.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 122892.0, Remaining: 0
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 204-0167-A2, Priority: 1, Demanded: 571032.0, Remaining: 571032.0
+    Material: 204-0200-D1, Priority: 2, Demanded: 571032.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 204-0167-C3, Priority: 1, Demanded: 57288.0, Remaining: 57288.0
+    Material: 204-0167-A2, Priority: 2, Demanded: 57288.0, Remaining: 57288.0
+    Material: 204-0200-D1, Priority: 3, Demanded: 57288.0, Remaining: 0
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 204-0200-D2, Priority: 1, Demanded: 33264.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 204-0200-D2, Priority: 1, Demanded: 26334.0, Remaining: 0
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 204-0190-A1, Priority: 1, Demanded: 357920.64, Remaining: 327523.64
+    Material: 204-0190-A2, Priority: 1, Demanded: 357920.64, Remaining: 327523.64
+    Material: 204-0190-A3, Priority: 1, Demanded: 357920.64, Remaining: 327523.64
+    Material: 204-0190-B1, Priority: 1, Demanded: 357920.64, Remaining: 327523.64
+    Material: 204-0190-B2, Priority: 1, Demanded: 357920.64, Remaining: 327523.64
+    Material: 204-0190-B3, Priority: 1, Demanded: 357920.64, Remaining: 327523.64
+    Material: 204-0190-C1, Priority: 1, Demanded: 357920.64, Remaining: 327523.64
+    Material: 204-0190-C2, Priority: 1, Demanded: 357920.64, Remaining: 327523.64
+    Material: 204-0190-D1, Priority: 1, Demanded: 357920.64, Remaining: 327523.64
+    Material: 204-0190-D2, Priority: 1, Demanded: 357920.64, Remaining: 327523.64
+    Material: 204-0190-L1, Priority: 1, Demanded: 357920.64, Remaining: 327523.64
+    Material: 204-0190-L2, Priority: 1, Demanded: 357920.64, Remaining: 327523.64
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 204-0190-A1, Priority: 1, Demanded: 157080.0, Remaining: 151222.0
+    Material: 204-0190-A2, Priority: 1, Demanded: 157080.0, Remaining: 151222.0
+    Material: 204-0190-A3, Priority: 1, Demanded: 157080.0, Remaining: 151222.0
+    Material: 204-0190-B1, Priority: 1, Demanded: 157080.0, Remaining: 151222.0
+    Material: 204-0190-B2, Priority: 1, Demanded: 157080.0, Remaining: 151222.0
+    Material: 204-0190-B3, Priority: 1, Demanded: 157080.0, Remaining: 151222.0
+    Material: 204-0190-C1, Priority: 1, Demanded: 157080.0, Remaining: 151222.0
+    Material: 204-0190-C2, Priority: 1, Demanded: 157080.0, Remaining: 151222.0
+    Material: 204-0190-D1, Priority: 1, Demanded: 157080.0, Remaining: 151222.0
+    Material: 204-0190-D2, Priority: 1, Demanded: 157080.0, Remaining: 151222.0
+    Material: 204-0190-L1, Priority: 1, Demanded: 157080.0, Remaining: 151222.0
+    Material: 204-0190-L2, Priority: 1, Demanded: 157080.0, Remaining: 151222.0
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 204-0190-A1, Priority: 1, Demanded: 98560.0000000003, Remaining: 95789.0000000003
+    Material: 204-0190-A2, Priority: 1, Demanded: 98560.0000000003, Remaining: 95789.0000000003
+    Material: 204-0190-A3, Priority: 1, Demanded: 98560.0000000003, Remaining: 95789.0000000003
+    Material: 204-0190-B1, Priority: 1, Demanded: 98560.0000000003, Remaining: 95789.0000000003
+    Material: 204-0190-B2, Priority: 1, Demanded: 98560.0000000003, Remaining: 95789.0000000003
+    Material: 204-0190-B3, Priority: 1, Demanded: 98560.0000000003, Remaining: 95789.0000000003
+    Material: 204-0190-C1, Priority: 1, Demanded: 98560.0000000003, Remaining: 95789.0000000003
+    Material: 204-0190-C2, Priority: 1, Demanded: 98560.0000000003, Remaining: 95789.0000000003
+    Material: 204-0190-D1, Priority: 1, Demanded: 98560.0000000003, Remaining: 95789.0000000003
+    Material: 204-0190-D2, Priority: 1, Demanded: 98560.0000000003, Remaining: 95789.0000000003
+    Material: 204-0190-L1, Priority: 1, Demanded: 98560.0000000003, Remaining: 95789.0000000003
+    Material: 204-0190-L2, Priority: 1, Demanded: 98560.0000000003, Remaining: 95789.0000000003
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 204-0190-A1, Priority: 1, Demanded: 24640.0, Remaining: 24055.0
+    Material: 204-0190-A2, Priority: 1, Demanded: 24640.0, Remaining: 24055.0
+    Material: 204-0190-A3, Priority: 1, Demanded: 24640.0, Remaining: 24055.0
+    Material: 204-0190-B1, Priority: 1, Demanded: 24640.0, Remaining: 24055.0
+    Material: 204-0190-B2, Priority: 1, Demanded: 24640.0, Remaining: 24055.0
+    Material: 204-0190-B3, Priority: 1, Demanded: 24640.0, Remaining: 24055.0
+    Material: 204-0190-C1, Priority: 1, Demanded: 24640.0, Remaining: 24055.0
+    Material: 204-0190-C2, Priority: 1, Demanded: 24640.0, Remaining: 24055.0
+    Material: 204-0190-D1, Priority: 1, Demanded: 24640.0, Remaining: 24055.0
+    Material: 204-0190-D2, Priority: 1, Demanded: 24640.0, Remaining: 24055.0
+    Material: 204-0190-L1, Priority: 1, Demanded: 24640.0, Remaining: 24055.0
+    Material: 204-0190-L2, Priority: 1, Demanded: 24640.0, Remaining: 24055.0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 204-0200-D1, Priority: 1, Demanded: 123200.0, Remaining: 0
+
