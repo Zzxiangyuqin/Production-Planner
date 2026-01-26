@@ -1,0 +1,243 @@
+Date: 2025-12
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12, Demanded: 72676.75, Remaining: 71952.42974411533
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC, Demanded: 58889.8888888889, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM4 Sipho, Demanded: 222.0, Remaining: 0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 99847.0, Remaining: 0
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho, Demanded: 9999.99999999999, Remaining: 0
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho , Demanded: 159626.0, Remaining: 0
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2, Demanded: 1371.74211248286, Remaining: 0
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC, Demanded: 444.444444444444, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 DR8,Siph,Sina2, Demanded: 165062.16, Remaining: 0
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3, Demanded: 3777.55555555556, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Ara, Demanded: 111.0, Remaining: 0
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO, Demanded: 3968.22222222222, Remaining: 0
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2, Demanded: 2730.25, Remaining: 0
+  Customer: 688, Product: 0.8T OSFP DR4 Sipho, Demanded: 222.0, Remaining: 0
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2, Demanded: 69655.0, Remaining: 0
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP, Demanded: 3354.0, Remaining: 0
+  Customer: AOC, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 11435.25, Remaining: 6862.526329024548
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12, Demanded: 201618.0, Remaining: 0
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3, Demanded: 259925.0, Remaining: 0
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP, Demanded: 120504.0, Remaining: 0
+  Customer: 666, Product: 400G OSFP112 DR4 Gen1.2 SiP, Demanded: 6000.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 108472.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS, Demanded: 12982.5, Remaining: 0
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 , Demanded: 244043.25, Remaining: 0
+
+Date: 2026-01
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12, Demanded: 47837.25, Remaining: 47837.25
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC, Demanded: 18091.5913080459, Remaining: 0
+  Customer: 822, Product: 200G QSFP112 AOC LPO w/JDM,Sipho, Demanded: 2597.4025974026, Remaining: 0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 51947.75, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM4 Sipho, Demanded: 333.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP DR8 LPO w/JDM,Sipho(Y AOC), Demanded: 1298.7012987013, Remaining: 0
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho, Demanded: 15002.7685462828, Remaining: 0
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC, Demanded: 17777.7777777778, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 DR8,Siph,Sina2, Demanded: 373685.114218983, Remaining: 0
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3, Demanded: 3507.13759134871, Remaining: 0
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO, Demanded: 9816.05888010933, Remaining: 0
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2, Demanded: 4316.66666666667, Remaining: 0
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2, Demanded: 1120.0, Remaining: 0
+  Customer: 688, Product: 0.8T OSFP DR4 Sipho, Demanded: 444.0, Remaining: 0
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2, Demanded: 103999.5, Remaining: 0
+  Customer: AOC, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 5875.0, Remaining: 2757.5910839191174
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho , Demanded: 141634.0, Remaining: 0
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2, Demanded: 1333.33333333333, Remaining: 0
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12, Demanded: 104888.5, Remaining: 0
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP, Demanded: 96262.2190368954, Remaining: 0
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP, Demanded: 66940.674495682, Remaining: 0
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 , Demanded: 320745.75, Remaining: 123978.33779523475
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3, Demanded: 355090.346423543, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 58307.25, Remaining: 0
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS, Demanded: 43621.0, Remaining: 0
+
+Date: 2026-02
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12, Demanded: 73000.0, Remaining: 73000.0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC, Demanded: 26667.1666666667, Remaining: 16724.416398815738
+  Customer: 822, Product: 200G QSFP112 AOC LPO w/JDM,Sipho, Demanded: 1111.11111111111, Remaining: 0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 97000.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM4 Sipho, Demanded: 2500.55555555556, Remaining: 0
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho, Demanded: 6666.66666666668, Remaining: 4727.414330218078
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC, Demanded: 106666.666666667, Remaining: 57222.908941079746
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2, Demanded: 217180.0, Remaining: 102083.22616826103
+  Customer: AOC, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 8400.0, Remaining: 8400.0
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2, Demanded: 7136.0, Remaining: 941.0900827671726
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12, Demanded: 136000.0, Remaining: 96439.25233644861
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO, Demanded: 104666.666666667, Remaining: 48547.99058666246
+  Customer: 666, Product: 400G OSFP112 DR4 Gen1.2 SiP, Demanded: 80000.0, Remaining: 50172.30846566344
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 , Demanded: 435000.0, Remaining: 272811.9272820448
+
+Date: 2026-03
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12, Demanded: 73000.0, Remaining: 73000.0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC, Demanded: 14666.6666666667, Remaining: 8125.536835150333
+  Customer: 666, Product: 800G OSFP PSM4 Sipho, Demanded: 6888.88888888889, Remaining: 0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 97000.0, Remaining: 0
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho, Demanded: 6666.66666666667, Remaining: 2811.5264797507803
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC, Demanded: 106666.666666667, Remaining: 77000.41203131464
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2, Demanded: 160000.0, Remaining: 97951.72838369102
+  Customer: AOC, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 6200.0, Remaining: 6200.0
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2, Demanded: 7136.0, Remaining: 3746.8977773184797
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO, Demanded: 216666.666666667, Remaining: 112642.9655195818
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2, Demanded: 111.111111111111, Remaining: 68.02203359978537
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP, Demanded: 101687.0, Remaining: 53392.76825703255
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 , Demanded: 478000.0, Remaining: 264818.63230921706
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho , Demanded: 432000.0, Remaining: 311851.6687268233
+
+Date: 2026-04
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12, Demanded: 25000.0, Remaining: 25000.0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC, Demanded: 17444.4444444444, Remaining: 10071.337031888532
+  Customer: 666, Product: 800G OSFP PSM4 Sipho, Demanded: 19061.1111111111, Remaining: 0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 97000.0, Remaining: 0
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho, Demanded: 6666.66666666667, Remaining: 4587.45874587459
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC, Demanded: 106666.666666667, Remaining: 64639.472599917826
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho , Demanded: 432000.0, Remaining: 261789.86402966638
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2, Demanded: 140000.0, Remaining: 103383.35477053857
+  Customer: AOC, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 6000.0, Remaining: 6000.0
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2, Demanded: 7136.0, Remaining: 3928.915384401703
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO, Demanded: 220000.0, Remaining: 142459.55749656062
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2, Demanded: 3444.44444444444, Remaining: 2543.558728481501
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12, Demanded: 330000.0, Remaining: 227079.20792079208
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 , Demanded: 544000.0, Remaining: 314071.7586504866
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS, Demanded: 65000.0, Remaining: 37526.956456400054
+
+Date: 2026-05
+  Customer: 国际other, Product: 100G QSFP28 FR1 Gen3.0 SiP, Demanded: 3300.0, Remaining: 3300.0
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12, Demanded: 25000.0, Remaining: 25000.0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC, Demanded: 29333.3333333333, Remaining: 13801.771871539297
+  Customer: 666, Product: 800G OSFP PSM4 Sipho, Demanded: 38333.3333333333, Remaining: 0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 97000.0, Remaining: 0
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho, Demanded: 6666.66666666667, Remaining: 3448.8448844884506
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC, Demanded: 106666.666666667, Remaining: 64639.472599917826
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho , Demanded: 432000.0, Remaining: 261789.86402966638
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2, Demanded: 170000.0, Remaining: 139023.46472547046
+  Customer: AOC, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 6200.0, Remaining: 6200.0
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2, Demanded: 7136.0, Remaining: 4662.181503718353
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 68000.0, Remaining: 31995.01661129571
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO, Demanded: 354444.444444444, Remaining: 229859.38070212427
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2, Demanded: 13888.8888888889, Remaining: 11358.12620306132
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP, Demanded: 168187.0, Remaining: 109882.05164880588
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 , Demanded: 253000.0, Remaining: 119040.28239202657
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3, Demanded: 272416.666666666, Remaining: 177978.69179343313
+
+Date: 2026-06
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12, Demanded: 25000.0, Remaining: 25000.0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC, Demanded: 47777.7777777778, Remaining: 29649.615889076278
+  Customer: 666, Product: 800G OSFP PSM4 Sipho, Demanded: 68055.5555555556, Remaining: 0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 97000.0, Remaining: 0
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho, Demanded: 6666.66666666667, Remaining: 3448.8448844884506
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC, Demanded: 106666.666666667, Remaining: 69035.23335178036
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2, Demanded: 170000.0, Remaining: 148315.7948742224
+  Customer: AOC, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 6000.0, Remaining: 6000.0
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2, Demanded: 101937.0, Remaining: 81164.41161572174
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP, Demanded: 66000.0, Remaining: 40957.84148397978
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO, Demanded: 477222.222222222, Remaining: 116350.54835606855
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2, Demanded: 27777.7777777778, Remaining: 24234.607005591915
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP, Demanded: 168187.0, Remaining: 133914.07336309087
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 , Demanded: 194000.0, Remaining: 120391.23102866778
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho , Demanded: 495000.0, Remaining: 320366.6297731047
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3, Demanded: 269150.0, Remaining: 214302.9654234626
+
+Date: 2026-07
+  Customer: 国际other, Product: 100G QSFP28 FR1 Gen3.0 SiP, Demanded: 3300.0, Remaining: 0
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12, Demanded: 18000.0, Remaining: 18000.0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC, Demanded: 82222.2222222222, Remaining: 6416.306034876281
+  Customer: 666, Product: 800G OSFP PSM4 Sipho, Demanded: 114888.888888889, Remaining: 0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 97000.0, Remaining: 0
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho, Demanded: 21666.6666666667, Remaining: 10114.533965244882
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC, Demanded: 106666.666666667, Remaining: 69035.23335178036
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2, Demanded: 170000.0, Remaining: 139211.7896173837
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP, Demanded: 169936.413043478, Remaining: 122324.28773958122
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2, Demanded: 101937.0, Remaining: 73376.68658523129
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO, Demanded: 508888.888888889, Remaining: 416725.4878742598
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2, Demanded: 55555.5555555556, Remaining: 45494.048894569874
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 , Demanded: 194000.0, Remaining: 15139.013968775602
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho , Demanded: 495000.0, Remaining: 320366.6297731047
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3, Demanded: 204073.5, Remaining: 146896.97803399354
+
+Date: 2026-08
+  Customer: 国际other, Product: 100G QSFP28 FR1 Gen3.0 SiP, Demanded: 3300.0, Remaining: 0
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12, Demanded: 18000.0, Remaining: 18000.0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC, Demanded: 120000.0, Remaining: 12371.22302158273
+  Customer: 666, Product: 800G OSFP PSM4 Sipho, Demanded: 235000.0, Remaining: 0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 97000.0, Remaining: 0
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho, Demanded: 26666.6666666667, Remaining: 793.4454506252732
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC, Demanded: 106666.666666667, Remaining: 66821.61962737527
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2, Demanded: 170000.0, Remaining: 143357.7954045854
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP, Demanded: 161000.0, Remaining: 128056.40703391857
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2, Demanded: 101937.0, Remaining: 81078.79480631402
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO, Demanded: 508888.888888889, Remaining: 429136.4071588243
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2, Demanded: 133333.333333333, Remaining: 112437.48659183139
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 , Demanded: 194000.0, Remaining: 20000.143884892022
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho , Demanded: 495000.0, Remaining: 310094.0785832873
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3, Demanded: 196980.0, Remaining: 156674.23017106386
+
+Date: 2026-09
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12, Demanded: 18000.0, Remaining: 0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC, Demanded: 133333.333333333, Remaining: 14568.487727632557
+  Customer: 666, Product: 800G OSFP PSM4 Sipho, Demanded: 372222.222222222, Remaining: 0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 97000.0, Remaining: 0
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12, Demanded: 147000.0, Remaining: 0
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho, Demanded: 26666.6666666667, Remaining: 0
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC, Demanded: 106666.666666667, Remaining: 73578.43137254925
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2, Demanded: 170000.0, Remaining: 148778.25733984486
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP, Demanded: 149566.666666667, Remaining: 134988.4579704943
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO, Demanded: 508888.888888889, Remaining: 445362.3651088167
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3, Demanded: 196980.0, Remaining: 177780.43091839473
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 , Demanded: 194000.0, Remaining: 0
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho , Demanded: 618000.0, Remaining: 426295.0367647059
+
+Date: 2026-10
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12, Demanded: 36000.0, Remaining: 0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC, Demanded: 133333.333333333, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM4 Sipho, Demanded: 405555.555555556, Remaining: 0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 97000.0, Remaining: 0
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12, Demanded: 147000.0, Remaining: 0
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho, Demanded: 26666.6666666667, Remaining: 0
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC, Demanded: 106666.666666667, Remaining: 73578.43137254927
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2, Demanded: 170000.0, Remaining: 144307.2932806239
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP, Demanded: 149566.666666667, Remaining: 121028.74884661479
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2, Demanded: 387360.0, Remaining: 313450.1637166788
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP, Demanded: 66000.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 62000.0, Remaining: 0
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 , Demanded: 194000.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS, Demanded: 28500.0, Remaining: 0
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO, Demanded: 508888.888888889, Remaining: 431978.69491846906
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho , Demanded: 618000.0, Remaining: 426295.03676470596
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3, Demanded: 196000.0, Remaining: 158602.41658526706
+
+Date: 2026-11
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12, Demanded: 36000.0, Remaining: 0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC, Demanded: 133333.333333333, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM4 Sipho, Demanded: 177777.777777778, Remaining: 0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 97000.0, Remaining: 0
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12, Demanded: 147000.0, Remaining: 0
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho, Demanded: 26666.6666666667, Remaining: 0
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC, Demanded: 106666.666666667, Remaining: 71740.19607843162
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2, Demanded: 170000.0, Remaining: 145408.50807758182
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3, Demanded: 196000.0, Remaining: 137884.92613330964
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2, Demanded: 387360.0, Remaining: 272505.6376887695
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP, Demanded: 66000.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 62000.0, Remaining: 0
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 , Demanded: 133000.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS, Demanded: 28500.0, Remaining: 0
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO, Demanded: 508888.888888889, Remaining: 435275.14182700973
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho , Demanded: 618000.0, Remaining: 415644.76102941186
+
+Date: 2026-12
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12, Demanded: 36000.0, Remaining: 0
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC, Demanded: 133333.333333333, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM4 Sipho, Demanded: 177777.777777778, Remaining: 0
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 97000.0, Remaining: 0
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12, Demanded: 147000.0, Remaining: 0
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho, Demanded: 26666.6666666667, Remaining: 0
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC, Demanded: 106666.666666667, Remaining: 71740.19607843162
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2, Demanded: 170000.0, Remaining: 145408.50807758182
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3, Demanded: 196000.0, Remaining: 137884.92613330964
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2, Demanded: 387360.0, Remaining: 272505.6376887695
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP, Demanded: 66000.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP, Demanded: 62000.0, Remaining: 0
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 , Demanded: 133000.0, Remaining: 0
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS, Demanded: 28500.0, Remaining: 0
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO, Demanded: 508888.888888889, Remaining: 435275.14182700973
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho , Demanded: 618000.0, Remaining: 415644.76102941186
+

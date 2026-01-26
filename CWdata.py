@@ -13,7 +13,7 @@ def get_cw_data():
         key = (cust, prod)
 
         entry = {
-            "mat": row["mat"],
+            "mat": row["mat"].strip(),
             "priority": row["prio"],
             "using": row["using"],
         }

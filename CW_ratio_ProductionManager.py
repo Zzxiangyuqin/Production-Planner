@@ -8,25 +8,27 @@ import copy
 
 import numpy as np
 
-# PIC CALCULATION
-pic_demand = get_pic_demand()
-pic_inventory_init = get_pic_init()
-pic_inventory_monthly_update = get_pic_monthly_update()
-pic_details = get_pic_data()
+# CW CALCULATION
+cw_inventory_init = get_cw_init()
+cw_inventory_monthly_update = get_cw_monthly_update()
+cw_details = get_cw_data()
+coc_demand = get_coc_demand()
 
 
 
-class PIC_ProductionManager:
+class CW_ProductionManager:
     def __init__(self):
-        self.pic_demand = copy.deepcopy(pic_demand)
-        self.pic_inventory = copy.deepcopy(pic_inventory_init)
-        self.pic_inventory_monthly_update = pic_inventory_monthly_update
-        self.pic_details = pic_details
+        self.coc_demand = copy.deepcopy(coc_demand)
+        self.cw_inventory = copy.deepcopy(cw_inventory_init)
+        self.cw_inventory_monthly_update = cw_inventory_monthly_update
+        self.cw_details = cw_details
 
 
-    def get_pic_demand_by_month(self, date):
+
+
+    def get_coc_demand_by_month(self, date):
         """
-        pic_demand:
+        coc_demand:
         {
         ...
             (666, '400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC'): 
@@ -50,35 +52,34 @@ class PIC_ProductionManager:
         }
         """
         month_demand = []
-        for key, value in self.pic_demand.items():
+        for key, value in self.coc_demand.items():
             if date in value['demands']:
                 month_demand.append((key, value['demands'][date]))
-            
+                
         return month_demand
     
     
     
-    def refresh_pic_inventory_early_month(self, date):
+    def refresh_cw_inventory_early_month(self, date):
         """
-        Return format of pic_inventory_monthly_update:
+        Return format of cw_inventory_monthly_update:
         {
             'MAT1': {'2025-12': 100, '2026-01': 200, ...},
             'MAT2': {'2025-12': 50, '2026-01': 75, ...},
             ...
         }
         """
-        for mat in self.pic_inventory_monthly_update:
-            if date in self.pic_inventory_monthly_update[mat]:
-                check_in = self.pic_inventory_monthly_update[mat][date]
-                self.pic_inventory[mat] += check_in
+        for mat in self.cw_inventory_monthly_update:
+            if date in self.cw_inventory_monthly_update[mat]:
+                check_in = self.cw_inventory_monthly_update[mat][date]
+                self.cw_inventory[mat] += check_in
                 continue
                 
-
-        return self.pic_inventory
+        return self.cw_inventory
     
-    def get_pic_details(self, cust, prod): # PIC 是有0优先级的
+    def get_cw_details(self, cust, prod): 
         """
-        Return format of pic_details:
+        Return format of cw_details:
         {
         ...
             (cust, prod): [
@@ -89,11 +90,11 @@ class PIC_ProductionManager:
         ...
         }
         """
-        return self.pic_details[(cust, prod)]
+        return self.cw_details[(cust, prod)]
     
-    def sort_pic_demand_in_month(self, date):
+    def sort_coc_demand_in_month(self, date):
         # 获取当月date所有订单信息
-        month_demand = self.get_pic_demand_by_month(date)
+        month_demand = self.get_coc_demand_by_month(date)
         """
         过滤掉所有demand_num为0的订单
         """
@@ -102,7 +103,7 @@ class PIC_ProductionManager:
         for (cust, prod), demand_num in month_demand:
             if demand_num == 0:
                 continue
-            mat_details = self.get_pic_details(cust, prod)
+            mat_details = self.get_cw_details(cust, prod)
             for m in mat_details:
                 mat = m['mat']
                 priority = m['priority']
@@ -137,12 +138,12 @@ class PIC_ProductionManager:
 
 
     # 按照优先级顺序对订单进行初次生产
-    def produce_pic_demand_in_month(self, date):
+    def produce_coc_demand_in_month(self, date):
 
         # 获取订单初始需求
-        init_pic_demand = self.get_pic_demand_by_month(date)
-        # 此时的init_pic_demand是列表，转换为字典
-        init_pic_demand = {item[0]: item[1] for item in init_pic_demand}
+        init_coc_demand = self.get_coc_demand_by_month(date)
+        # 此时的init_coc_demand是列表，转换为字典
+        init_coc_demand = {item[0]: item[1] for item in init_coc_demand}
 
 
         
@@ -172,12 +173,12 @@ class PIC_ProductionManager:
         """
         completed_orders = [] # [(cust, prod, demand_num), ...]
 
-        # 刷新PIC库存，基于月初的库存更新
-        self.refresh_pic_inventory_early_month(date)
+        # 刷新CW库存，基于月初的库存更新
+        self.refresh_cw_inventory_early_month(date)
 
         # 获取当前月所有订单的初始需求状态
         # order_remaining = {(cust, prod): demand_num, ...}
-        order_remaining = self.get_pic_demand_by_month(date)
+        order_remaining = self.get_coc_demand_by_month(date)
         # 此时的order_remaining是列表，转换为字典
         order_remaining = {item[0]: item[1] for item in order_remaining}
         
@@ -189,7 +190,7 @@ class PIC_ProductionManager:
         的需求量，继续下一个优先级的生产，直到所有优先级生产完毕或者库存不足为止。      
         """
         # 获取排序后的订单信息
-        sorted_demand = self.sort_pic_demand_in_month(date)
+        sorted_demand = self.sort_coc_demand_in_month(date)
 
         """
         sorted_demand = {
@@ -213,14 +214,14 @@ class PIC_ProductionManager:
             for cust, prod in value:
                 # 获取订单的未完成需求数量
                 demand_num = order_remaining.get((cust, prod), 0)
-                mat_details = self.get_pic_details(cust, prod)
+                mat_details = self.get_cw_details(cust, prod)
                 for m in mat_details:
                     if m['mat'] == mat:
                         using = m['using']
                         mat_demand = demand_num * using
                         total_needed += mat_demand
                         break
-            available_inventory = self.pic_inventory.get(mat, 0)
+            available_inventory = self.cw_inventory.get(mat, 0)
             if available_inventory < total_needed:
                 print(f"{date} Production - Mat: {mat}, Priority: {priority} 物料不足，进入方程组计算阶段")
                 # 库存不足，进入求解方程组阶段
@@ -239,7 +240,7 @@ class PIC_ProductionManager:
                     # 当前订单已生产
                     already_produced = produced_num.get((cust, prod), 0)
                     # 当前订单总需求
-                    all_demand = init_pic_demand.get((cust, prod), 0)
+                    all_demand = init_coc_demand.get((cust, prod), 0)
                     # 当前订单最多生产数量
                     max_produce_num = all_demand - already_produced
                     # 当前订单已完成的比例
@@ -269,15 +270,16 @@ class PIC_ProductionManager:
                         x = enough_or_solution[ind]
                         produce_situation[(cust, prod)] = x
                         # 根据(cust, prod)获取当前订单的物料需求详情
-                        mat_details = self.get_pic_details(cust, prod)
+                        mat_details = self.get_cw_details(cust, prod)
                         for m in mat_details:
                             if m['mat'] == mat:
                                 using = m['using']
                                 cost_mat += x * using
                                 break
                     # 开始扣除库存
-                    self.pic_inventory[mat] -= cost_mat    
-
+                    self.cw_inventory[mat] -= cost_mat    
+                    if self.cw_inventory[mat] < 0 and self.cw_inventory[mat] > -0.00001:
+                        self.cw_inventory[mat] = 0
                         
                     for (cust, prod) in produce_situation:
                         produce_amount = produce_situation[(cust, prod)]
@@ -297,7 +299,7 @@ class PIC_ProductionManager:
                         production_record[(mat, priority)] = {}
                     if (cust, prod) not in production_record[(mat, priority)]:
                         production_record[(mat, priority)][(cust, prod)] = {
-                            'demanded': pic_demand[(cust, prod)]['demands'][date],
+                            'demanded': coc_demand[(cust, prod)]['demands'][date],
                             'remaining': order_remaining[(cust, prod)]
                         }
                     else:
@@ -319,14 +321,14 @@ class PIC_ProductionManager:
 
 
                 # 更新库存
-                self.pic_inventory[mat] -= total_needed
+                self.cw_inventory[mat] -= total_needed
                 # 记录生产结果
                 if (mat, priority) not in production_record:
                     production_record[(mat, priority)] = {}
                 for cust, prod in value:    
                     if (cust, prod) not in production_record[(mat, priority)]:
                         production_record[(mat, priority)][(cust, prod)] = {
-                            'demanded': pic_demand[(cust, prod)]['demands'][date],
+                            'demanded': coc_demand[(cust, prod)]['demands'][date],
                             'remaining': 0
                         }
                     else:
@@ -345,7 +347,7 @@ class PIC_ProductionManager:
                 
         
         # 返回当月生产情况
-        return monthly_production_summary, production_record, production_num, init_pic_demand
+        return monthly_production_summary, production_record, production_num, init_coc_demand
 
 
     
@@ -387,14 +389,14 @@ class PIC_ProductionManager:
         for (cust, prod) in order_names:
             # 获取订单的未完成需求数量
             demand_num = order_remaining.get((cust, prod), 0)
-            mat_details = self.get_pic_details(cust, prod)
+            mat_details = self.get_cw_details(cust, prod)
             for m in mat_details:
                 if m['mat'] == mat:
                     using = m['using']
                     mat_demand = demand_num * using
                     total_needed += mat_demand
                     break
-        available_inventory = self.pic_inventory.get(mat, 0)
+        available_inventory = self.cw_inventory.get(mat, 0)
         if available_inventory < total_needed:
             # 获取completed_ratio中最大的一个，并输出index
             completed_ratios = []
@@ -417,9 +419,9 @@ class PIC_ProductionManager:
             details = {}
                   
             # 获取物料库存
-            mat_inven = self.pic_inventory[mat]
+            mat_inven = self.cw_inventory[mat]
             for i, order_combine in enumerate(order_names):
-                details[i] = self.get_pic_details(order_combine[0], order_combine[1])
+                details[i] = self.get_cw_details(order_combine[0], order_combine[1])
 
             using = []
             for ind in range(index):
@@ -487,6 +489,7 @@ class PIC_ProductionManager:
             # 利用numpy构建方程组，并求解
             X = np.linalg.solve(A, B)
             if min(X) < 0:
+                print(f"negative value: {X}")
                 if max_completed_ratio_index in total_data:
                     total_data.pop(max_completed_ratio_index)
                 else:
@@ -514,14 +517,14 @@ class PIC_ProductionManager:
                 order_remaining[(cust, prod)] = 0
 
             # 更新库存
-            self.pic_inventory[mat] -= total_needed
+            self.cw_inventory[mat] -= total_needed
             # 记录生产结果
             if (mat, priority) not in production_record:
                 production_record[(mat, priority)] = {}
             for cust, prod in order_names:
                 if (cust, prod) not in production_record[(mat, priority)]:
                     production_record[(mat, priority)][(cust, prod)] = {
-                        'demanded': pic_demand[(cust, prod)]['demands'][date],
+                        'demanded': coc_demand[(cust, prod)]['demands'][date],
                         'remaining': 0
                     }
                 else:
@@ -558,7 +561,7 @@ class PIC_ProductionManager:
 
 # ============= test ==============
 if __name__ == "__main__":
-    manager = PIC_ProductionManager()
+    manager = CW_ProductionManager()
     test_date = ["2025-12","2026-01","2026-02","2026-03","2026-04","2026-05","2026-06","2026-07","2026-08","2026-09","2026-10"
                  ,"2026-11","2026-12"]
     # 全年生产情况记录字典
@@ -568,7 +571,7 @@ if __name__ == "__main__":
     # 全年生产数量记录字典
     annual_production_num = {}
     # 全年需求记录字典
-    annual_init_pic_demand = {}
+    annual_init_coc_demand = {}
 
 
     for date in test_date:
@@ -578,11 +581,11 @@ if __name__ == "__main__":
             annual_production_record[date] = {}
         if date not in annual_production_num.keys():
             annual_production_num[date] = {}
-        if date not in annual_init_pic_demand.keys():
-            annual_init_pic_demand[date] = {}
+        if date not in annual_init_coc_demand.keys():
+            annual_init_coc_demand[date] = {}
         
         # 记录当月生产情况
-        monthly_production_summary, production_record, production_num, init_pic_demand = manager.produce_pic_demand_in_month(date)
+        monthly_production_summary, production_record, production_num, init_coc_demand = manager.produce_coc_demand_in_month(date)
         # 合并到全年生产情况记录
         annual_production_summary[date].update(monthly_production_summary)
         # 重新组织production_record，把(cust, prod)放到外层，内层记录使用每个物料的生产情况
@@ -590,17 +593,17 @@ if __name__ == "__main__":
         # 合并到全年生产数量记录
         annual_production_num[date].update(production_num)
         # 合并到全年需求记录
-        annual_init_pic_demand[date].update(init_pic_demand)
+        annual_init_coc_demand[date].update(init_coc_demand)
     
     # 输出全年生产情况到.txt文件
-    with open("RATIO_PIC_annual_production_summary.txt", "w") as f:
+    with open("RATIO_COC_annual_production_summary.txt", "w") as f:
         for date, summary in annual_production_summary.items():
             f.write(f"Date: {date}\n")
             for (cust, prod), info in summary.items():
                 f.write(f"  Customer: {cust}, Product: {prod}, Demanded: {info['demanded']}, Remaining: {info['remaining']}\n")
             f.write("\n")
     # 输出重新组织的全年生产细节到.txt文件
-    with open("RATIO_PIC_annual_production_record.txt", "w") as f:
+    with open("RATIO_COC_annual_production_record.txt", "w") as f:
         for date, record in annual_production_record.items():
             f.write(f"Date: {date}\n")
             for (cust, prod), orders in record.items():
@@ -609,7 +612,7 @@ if __name__ == "__main__":
                     f.write(f"    Material: {mat}, Priority: {priority}, Demanded: {info['demanded']}, Remaining: {info['remaining']}\n")
             f.write("\n")
     # 输出全年生产数量到.txt文件
-    with open("RATIO_PIC_annual_production_num.txt", "w") as f:
+    with open("RATIO_COC_annual_production_num.txt", "w") as f:     
         for date, num in annual_production_num.items():
             f.write(f"Date: {date}\n")
             for (cust, prod), orders in num.items():
@@ -619,8 +622,8 @@ if __name__ == "__main__":
                     f.write(f"    Material: {mat}, Priority: {priority}, Produced: {info}\n")
                     order_production_in_all += info
                 f.write(f"    Total Produced: {order_production_in_all}\n")
-                f.write(f"    Total Demanded: {annual_init_pic_demand[date].get((cust, prod), 0)}\n")
-                den = annual_init_pic_demand[date].get((cust, prod), 0)
+                f.write(f"    Total Demanded: {annual_init_coc_demand[date].get((cust, prod), 0)}\n")
+                den = annual_init_coc_demand[date].get((cust, prod), 0)
                 ratio = order_production_in_all / den if den > 0 else 0.0
                 ratio = ratio * 100
                 f.write(f"    completion ratio: {ratio:.2f}%\n")

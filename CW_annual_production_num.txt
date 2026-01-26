@@ -1,0 +1,2308 @@
+Date: 2025-12
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 283-0396-31, Priority: 1, Produced: 3217
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 64146
+    Material: 283-0403-31, Priority: 3, Produced: 40150
+    Material: 283-0433-31, Priority: 3, Produced: 40913
+    Material: 283-0357, Priority: 4, Produced: 111499.0
+    Total Produced: 259925.0
+    Total Demanded: 259925.0
+    completion ratio: 100.00%
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP
+    Material: 283-0396-31, Priority: 1, Produced: 10
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 355
+    Material: 283-0357, Priority: 3, Produced: 2989.0
+    Total Produced: 3354.0
+    Total Demanded: 3354.0
+    completion ratio: 100.00%
+  Customer: AOC, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0396-31, Priority: 1, Produced: 17
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 601
+    Total Produced: 618
+    Total Demanded: 11435.25
+    completion ratio: 5.40%
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0396-31, Priority: 1, Produced: 108
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0447, Priority: 2, Produced: 46397
+    Material: 283-0227, Priority: 3, Produced: 26171.75
+    Total Produced: 72676.75
+    Total Demanded: 72676.75
+    completion ratio: 100.00%
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 67435
+    Material: 283-0227, Priority: 2, Produced: 38684
+    Material: 283-0403-31, Priority: 3, Produced: 2221
+    Material: 283-0433-31, Priority: 3, Produced: 2595
+    Material: 283-0357, Priority: 4, Produced: 9569.0
+    Total Produced: 120504.0
+    Total Demanded: 120504.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 400G OSFP112 DR4 Gen1.2 SiP
+    Material: 283-0447, Priority: 1, Produced: 5246
+    Material: 283-0227, Priority: 2, Produced: 993
+    Total Produced: 6239
+    Total Demanded: 6000.0
+    completion ratio: 103.98%
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 23453
+    Material: 283-0227, Priority: 2, Produced: 27963
+    Material: 283-0403-31, Priority: 3, Produced: 4320
+    Material: 283-0433-31, Priority: 3, Produced: 5533
+    Material: 283-0357, Priority: 4, Produced: 47203.0
+    Total Produced: 108472.0
+    Total Demanded: 108472.0
+    completion ratio: 100.00%
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 283-0447, Priority: 1, Produced: 42377
+    Material: 283-0227, Priority: 2, Produced: 56093
+    Material: 283-0391-31, Priority: 3, Produced: 5352
+    Material: 283-0383-31, Priority: 4, Produced: 0
+    Material: 283-0449-31, Priority: 4, Produced: 7912
+    Material: 283-0403-31, Priority: 5, Produced: 27350
+    Material: 283-0433-31, Priority: 5, Produced: 30410
+    Material: 283-0357, Priority: 6, Produced: 74549.25
+    Total Produced: 244043.25
+    Total Demanded: 244043.25
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 283-0447, Priority: 1, Produced: 1255
+    Material: 283-0227, Priority: 2, Produced: 2067
+    Material: 283-0403-31, Priority: 3, Produced: 675
+    Material: 283-0433-31, Priority: 3, Produced: 875
+    Material: 283-0357, Priority: 4, Produced: 8110.5
+    Total Produced: 12982.5
+    Total Demanded: 12982.5
+    completion ratio: 100.00%
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 283-0447, Priority: 1, Produced: 22247
+    Material: 283-0227, Priority: 2, Produced: 25294
+    Material: 283-0403-31, Priority: 3, Produced: 3131
+    Material: 283-0433-31, Priority: 3, Produced: 3165
+    Material: 283-0357, Priority: 4, Produced: 5052.888888888898
+    Total Produced: 58889.8888888889
+    Total Demanded: 58889.8888888889
+    completion ratio: 100.00%
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 99847.0
+    Total Produced: 99847.0
+    Total Demanded: 99847.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 222.0
+    Total Produced: 222.0
+    Total Demanded: 222.0
+    completion ratio: 100.00%
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0391-31, Priority: 1, Produced: 189863
+    Material: 283-0403-31, Priority: 2, Produced: 11755.0
+    Total Produced: 201618.0
+    Total Demanded: 201618.0
+    completion ratio: 100.00%
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 283-0391-31, Priority: 1, Produced: 444
+    Material: 283-0396-31, Priority: 2, Produced: 392
+    Material: 283-0448-31, Priority: 2, Produced: 0
+    Material: 283-0383-31, Priority: 3, Produced: 0
+    Material: 283-0449-31, Priority: 3, Produced: 9163.99999999999
+    Total Produced: 9999.99999999999
+    Total Demanded: 9999.99999999999
+    completion ratio: 100.00%
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 283-0403-31, Priority: 1, Produced: 159626.0
+    Total Produced: 159626.0
+    Total Demanded: 159626.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 283-0403-31, Priority: 1, Produced: 1371.74211248286
+    Total Produced: 1371.74211248286
+    Total Demanded: 1371.74211248286
+    completion ratio: 100.00%
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 283-0403-31, Priority: 1, Produced: 444.444444444444
+    Total Produced: 444.444444444444
+    Total Demanded: 444.444444444444
+    completion ratio: 100.00%
+  Customer: 699, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 165062.16
+    Total Produced: 165062.16
+    Total Demanded: 165062.16
+    completion ratio: 100.00%
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 283-0357, Priority: 1, Produced: 3777.55555555556
+    Total Produced: 3777.55555555556
+    Total Demanded: 3777.55555555556
+    completion ratio: 100.00%
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Ara
+    Material: 283-0357, Priority: 1, Produced: 111.0
+    Total Produced: 111.0
+    Total Demanded: 111.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 283-0357, Priority: 1, Produced: 3968.22222222222
+    Total Produced: 3968.22222222222
+    Total Demanded: 3968.22222222222
+    completion ratio: 100.00%
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 2730.25
+    Total Produced: 2730.25
+    Total Demanded: 2730.25
+    completion ratio: 100.00%
+  Customer: 688, Product: 0.8T OSFP DR4 Sipho
+    Material: 283-0357, Priority: 1, Produced: 222.0
+    Total Produced: 222.0
+    Total Demanded: 222.0
+    completion ratio: 100.00%
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 283-0357, Priority: 1, Produced: 69655.0
+    Total Produced: 69655.0
+    Total Demanded: 69655.0
+    completion ratio: 100.00%
+
+Date: 2026-01
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 283-0396-31, Priority: 1, Produced: 27
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 106051
+    Material: 283-0403-31, Priority: 3, Produced: 450
+    Material: 283-0433-31, Priority: 3, Produced: 6775
+    Material: 283-0357, Priority: 4, Produced: 47740
+    Total Produced: 161043
+    Total Demanded: 355090.346423543
+    completion ratio: 45.35%
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP
+    Material: 283-0396-31, Priority: 1, Produced: 1
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 11227
+    Material: 283-0357, Priority: 3, Produced: 55712.674495682004
+    Total Produced: 66940.674495682
+    Total Demanded: 66940.674495682
+    completion ratio: 100.00%
+  Customer: AOC, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 451
+    Total Produced: 451
+    Total Demanded: 5875.0
+    completion ratio: 7.68%
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0447, Priority: 2, Produced: 38474
+    Material: 283-0227, Priority: 3, Produced: 9363.25
+    Total Produced: 47837.25
+    Total Demanded: 47837.25
+    completion ratio: 100.00%
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 52724
+    Material: 283-0227, Priority: 2, Produced: 21293
+    Material: 283-0403-31, Priority: 3, Produced: 29
+    Material: 283-0433-31, Priority: 3, Produced: 449
+    Material: 283-0357, Priority: 4, Produced: 2479
+    Total Produced: 76974
+    Total Demanded: 96262.2190368954
+    completion ratio: 79.96%
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 13105
+    Material: 283-0227, Priority: 2, Produced: 10157
+    Material: 283-0403-31, Priority: 3, Produced: 23
+    Material: 283-0433-31, Priority: 3, Produced: 346
+    Material: 283-0357, Priority: 4, Produced: 1899
+    Total Produced: 25530
+    Total Demanded: 58307.25
+    completion ratio: 43.79%
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 283-0447, Priority: 1, Produced: 64266
+    Material: 283-0227, Priority: 2, Produced: 52783
+    Material: 283-0391-31, Priority: 3, Produced: 8212
+    Material: 283-0383-31, Priority: 4, Produced: 0
+    Material: 283-0449-31, Priority: 4, Produced: 29683
+    Material: 283-0403-31, Priority: 5, Produced: 301
+    Material: 283-0433-31, Priority: 5, Produced: 4527
+    Material: 283-0357, Priority: 6, Produced: 13661
+    Total Produced: 173433
+    Total Demanded: 320745.75
+    completion ratio: 54.07%
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 283-0447, Priority: 1, Produced: 3519
+    Material: 283-0227, Priority: 2, Produced: 4311
+    Material: 283-0403-31, Priority: 3, Produced: 22
+    Material: 283-0433-31, Priority: 3, Produced: 340
+    Material: 283-0357, Priority: 4, Produced: 1822
+    Total Produced: 10014
+    Total Demanded: 43621.0
+    completion ratio: 22.96%
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 283-0447, Priority: 1, Produced: 5365
+    Material: 283-0227, Priority: 2, Produced: 5064
+    Material: 283-0403-31, Priority: 3, Produced: 18
+    Material: 283-0433-31, Priority: 3, Produced: 280
+    Material: 283-0357, Priority: 4, Produced: 1421
+    Total Produced: 12148
+    Total Demanded: 18091.5913080459
+    completion ratio: 67.15%
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 51947.75
+    Total Produced: 51947.75
+    Total Demanded: 51947.75
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 333.0
+    Total Produced: 333.0
+    Total Demanded: 333.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP DR8 LPO w/JDM,Sipho(Y AOC)
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 1298.7012987013
+    Total Produced: 1298.7012987013
+    Total Demanded: 1298.7012987013
+    completion ratio: 100.00%
+  Customer: 822, Product: 200G QSFP112 AOC LPO w/JDM,Sipho
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 2597.4025974026
+    Total Produced: 2597.4025974026
+    Total Demanded: 2597.4025974026
+    completion ratio: 100.00%
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0391-31, Priority: 1, Produced: 103339
+    Material: 283-0403-31, Priority: 2, Produced: 1549.5
+    Total Produced: 104888.5
+    Total Demanded: 104888.5
+    completion ratio: 100.00%
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 283-0391-31, Priority: 1, Produced: 1849
+    Material: 283-0396-31, Priority: 2, Produced: 3
+    Material: 283-0448-31, Priority: 2, Produced: 0
+    Material: 283-0383-31, Priority: 3, Produced: 0
+    Material: 283-0449-31, Priority: 3, Produced: 13150.7685462828
+    Total Produced: 15002.7685462828
+    Total Demanded: 15002.7685462828
+    completion ratio: 100.00%
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 283-0403-31, Priority: 1, Produced: 20350
+    Material: 283-0433-31, Priority: 1, Produced: 121284.0
+    Total Produced: 141634.0
+    Total Demanded: 141634.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 283-0403-31, Priority: 1, Produced: 45
+    Material: 283-0433-31, Priority: 1, Produced: 1288.33333333333
+    Total Produced: 1333.33333333333
+    Total Demanded: 1333.33333333333
+    completion ratio: 100.00%
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 283-0403-31, Priority: 1, Produced: 301
+    Material: 283-0433-31, Priority: 1, Produced: 17476.7777777778
+    Total Produced: 17777.7777777778
+    Total Demanded: 17777.7777777778
+    completion ratio: 100.00%
+  Customer: 699, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 373685.114218983
+    Total Produced: 373685.114218983
+    Total Demanded: 373685.114218983
+    completion ratio: 100.00%
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 283-0357, Priority: 1, Produced: 3507.13759134871
+    Total Produced: 3507.13759134871
+    Total Demanded: 3507.13759134871
+    completion ratio: 100.00%
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 283-0357, Priority: 1, Produced: 9816.05888010933
+    Total Produced: 9816.05888010933
+    Total Demanded: 9816.05888010933
+    completion ratio: 100.00%
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 4316.66666666667
+    Total Produced: 4316.66666666667
+    Total Demanded: 4316.66666666667
+    completion ratio: 100.00%
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 283-0357, Priority: 1, Produced: 1120.0
+    Total Produced: 1120.0
+    Total Demanded: 1120.0
+    completion ratio: 100.00%
+  Customer: 688, Product: 0.8T OSFP DR4 Sipho
+    Material: 283-0357, Priority: 1, Produced: 444.0
+    Total Produced: 444.0
+    Total Demanded: 444.0
+    completion ratio: 100.00%
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 283-0357, Priority: 1, Produced: 103999.5
+    Total Produced: 103999.5
+    Total Demanded: 103999.5
+    completion ratio: 100.00%
+
+Date: 2026-02
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 386171
+    Material: 283-0403-31, Priority: 3, Produced: 1063
+    Material: 283-0433-31, Priority: 3, Produced: 2277
+    Material: 283-0357, Priority: 4, Produced: 6796
+    Total Produced: 396307
+    Total Demanded: 474832.963561604
+    completion ratio: 83.46%
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 64172
+    Material: 283-0357, Priority: 3, Produced: 28920
+    Total Produced: 93092
+    Total Demanded: 131188.0
+    completion ratio: 70.96%
+  Customer: AOC, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 1828
+    Total Produced: 1828
+    Total Demanded: 8400.0
+    completion ratio: 21.76%
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0447, Priority: 2, Produced: 36496
+    Material: 283-0227, Priority: 3, Produced: 36504.0
+    Total Produced: 73000.0
+    Total Demanded: 73000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 28788
+    Material: 283-0227, Priority: 2, Produced: 19493
+    Material: 283-0403-31, Priority: 3, Produced: 357
+    Material: 283-0433-31, Priority: 3, Produced: 766
+    Material: 283-0357, Priority: 4, Produced: 2174
+    Total Produced: 51578
+    Total Demanded: 80000.0
+    completion ratio: 64.47%
+  Customer: 666, Product: 400G OSFP112 DR4 Gen1.2 SiP
+    Material: 283-0447, Priority: 1, Produced: 51438
+    Material: 283-0227, Priority: 2, Produced: 20259
+    Material: 283-0403-31, Priority: 3, Produced: 183
+    Material: 283-0433-31, Priority: 3, Produced: 388
+    Material: 283-0357, Priority: 4, Produced: 1056
+    Total Produced: 73324
+    Total Demanded: 80000.0
+    completion ratio: 91.66%
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 7843
+    Material: 283-0227, Priority: 2, Produced: 7979
+    Material: 283-0403-31, Priority: 3, Produced: 212
+    Material: 283-0433-31, Priority: 3, Produced: 459
+    Material: 283-0357, Priority: 4, Produced: 1289
+    Total Produced: 17782
+    Total Demanded: 54620.0
+    completion ratio: 32.56%
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 283-0447, Priority: 1, Produced: 57921
+    Material: 283-0227, Priority: 2, Produced: 60312
+    Material: 283-0391-31, Priority: 3, Produced: 1499
+    Material: 283-0383-31, Priority: 4, Produced: 0
+    Material: 283-0449-31, Priority: 4, Produced: 72161
+    Material: 283-0403-31, Priority: 5, Produced: 450
+    Material: 283-0433-31, Priority: 5, Produced: 7106
+    Material: 283-0357, Priority: 6, Produced: 12439
+    Total Produced: 211888
+    Total Demanded: 435000.0
+    completion ratio: 48.71%
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 283-0447, Priority: 1, Produced: 4140
+    Material: 283-0227, Priority: 2, Produced: 5558
+    Material: 283-0403-31, Priority: 3, Produced: 343
+    Material: 283-0433-31, Priority: 3, Produced: 741
+    Material: 283-0357, Priority: 4, Produced: 2034
+    Total Produced: 12816
+    Total Demanded: 74000.0
+    completion ratio: 17.32%
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 283-0447, Priority: 1, Produced: 5379
+    Material: 283-0227, Priority: 2, Produced: 6143
+    Material: 283-0403-31, Priority: 3, Produced: 243
+    Material: 283-0433-31, Priority: 3, Produced: 520
+    Material: 283-0357, Priority: 4, Produced: 1703
+    Total Produced: 13988
+    Total Demanded: 26667.1666666667
+    completion ratio: 52.45%
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 97000.0
+    Total Produced: 97000.0
+    Total Demanded: 97000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 2500.55555555556
+    Total Produced: 2500.55555555556
+    Total Demanded: 2500.55555555556
+    completion ratio: 100.00%
+  Customer: 822, Product: 200G QSFP112 AOC LPO w/JDM,Sipho
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 1111.11111111111
+    Total Produced: 1111.11111111111
+    Total Demanded: 1111.11111111111
+    completion ratio: 100.00%
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0391-31, Priority: 1, Produced: 44059
+    Material: 283-0403-31, Priority: 2, Produced: 5158
+    Material: 283-0433-31, Priority: 2, Produced: 9798
+    Material: 283-0357, Priority: 3, Produced: 12500
+    Total Produced: 71515
+    Total Demanded: 136000.0
+    completion ratio: 52.58%
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 283-0391-31, Priority: 1, Produced: 100
+    Material: 283-0396-31, Priority: 2, Produced: 0
+    Material: 283-0448-31, Priority: 2, Produced: 0
+    Material: 283-0383-31, Priority: 3, Produced: 0
+    Material: 283-0449-31, Priority: 3, Produced: 1513
+    Material: 283-0403-31, Priority: 4, Produced: 5053.66666666668
+    Total Produced: 6666.66666666668
+    Total Demanded: 6666.66666666668
+    completion ratio: 100.00%
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 283-0403-31, Priority: 1, Produced: 100225
+    Material: 283-0433-31, Priority: 1, Produced: 79408
+    Material: 283-0357, Priority: 2, Produced: 44909
+    Material: 283-0383-31, Priority: 3, Produced: 0
+    Material: 283-0449-31, Priority: 3, Produced: 90695
+    Total Produced: 315237
+    Total Demanded: 432000.0
+    completion ratio: 72.97%
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 283-0403-31, Priority: 1, Produced: 123
+    Material: 283-0433-31, Priority: 1, Produced: 223
+    Material: 283-0357, Priority: 2, Produced: 212
+    Total Produced: 558
+    Total Demanded: 1333.33333333333
+    completion ratio: 41.85%
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 283-0403-31, Priority: 1, Produced: 4937
+    Material: 283-0433-31, Priority: 1, Produced: 9367
+    Material: 283-0357, Priority: 2, Produced: 9909
+    Total Produced: 24213
+    Total Demanded: 106666.666666667
+    completion ratio: 22.70%
+  Customer: 699, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 254823
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 59388
+    Material: 283-0403-31, Priority: 3, Produced: 1099
+    Material: 283-0433-31, Priority: 3, Produced: 2375
+    Total Produced: 317685
+    Total Demanded: 529620.0
+    completion ratio: 59.98%
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 283-0357, Priority: 1, Produced: 7989
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 5368
+    Material: 283-0403-31, Priority: 3, Produced: 117
+    Material: 283-0433-31, Priority: 3, Produced: 253
+    Total Produced: 13727
+    Total Demanded: 40277.7777777777
+    completion ratio: 34.08%
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Ara
+    Material: 283-0357, Priority: 1, Produced: 84
+    Material: 283-0403-31, Priority: 2, Produced: 15
+    Material: 283-0433-31, Priority: 2, Produced: 29
+    Total Produced: 128
+    Total Demanded: 444.0
+    completion ratio: 28.83%
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 283-0357, Priority: 1, Produced: 19823
+    Material: 283-0426-31, Priority: 2, Produced: 526
+    Material: 283-0403-31, Priority: 3, Produced: 360
+    Material: 283-0433-31, Priority: 3, Produced: 780
+    Total Produced: 21489
+    Total Demanded: 104666.666666667
+    completion ratio: 20.53%
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 1194
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 961
+    Material: 283-0403-31, Priority: 3, Produced: 20
+    Material: 283-0433-31, Priority: 3, Produced: 43
+    Total Produced: 2218
+    Total Demanded: 7136.0
+    completion ratio: 31.08%
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 283-0357, Priority: 1, Produced: 258
+    Material: 283-0403-31, Priority: 3, Produced: 5
+    Material: 283-0433-31, Priority: 3, Produced: 11
+    Total Produced: 274
+    Total Demanded: 1555.55555555556
+    completion ratio: 17.61%
+  Customer: 699/678, Product: 1.6T OSFP224 2xDR4 Gen3,Sipho
+    Material: 283-0357, Priority: 1, Produced: 36
+    Material: 283-0403-31, Priority: 2, Produced: 7
+    Material: 283-0433-31, Priority: 2, Produced: 15
+    Total Produced: 58
+    Total Demanded: 222.222222222222
+    completion ratio: 26.10%
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 283-0357, Priority: 1, Produced: 71991
+    Material: 283-0403-31, Priority: 2, Produced: 12084
+    Material: 283-0433-31, Priority: 2, Produced: 22726
+    Total Produced: 106801
+    Total Demanded: 217180.0
+    completion ratio: 49.18%
+
+Date: 2026-03
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 159581
+    Material: 283-0403-31, Priority: 3, Produced: 4159
+    Material: 283-0433-31, Priority: 3, Produced: 365
+    Material: 283-0357, Priority: 4, Produced: 20870
+    Total Produced: 184975
+    Total Demanded: 456750.0
+    completion ratio: 40.50%
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 23037
+    Material: 283-0357, Priority: 3, Produced: 30152
+    Total Produced: 53189
+    Total Demanded: 101687.0
+    completion ratio: 52.31%
+  Customer: AOC, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 647
+    Total Produced: 647
+    Total Demanded: 6200.0
+    completion ratio: 10.44%
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0447, Priority: 2, Produced: 47452
+    Material: 283-0227, Priority: 3, Produced: 25548.0
+    Total Produced: 73000.0
+    Total Demanded: 73000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 44219
+    Material: 283-0227, Priority: 2, Produced: 11480
+    Material: 283-0403-31, Priority: 3, Produced: 279
+    Material: 283-0433-31, Priority: 3, Produced: 24
+    Material: 283-0357, Priority: 4, Produced: 998
+    Total Produced: 57000
+    Total Demanded: 80000.0
+    completion ratio: 71.25%
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 21140
+    Material: 283-0227, Priority: 2, Produced: 9890
+    Material: 283-0403-31, Priority: 3, Produced: 310
+    Material: 283-0433-31, Priority: 3, Produced: 27
+    Material: 283-0357, Priority: 4, Produced: 1097
+    Total Produced: 32464
+    Total Demanded: 86000.0
+    completion ratio: 37.75%
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 283-0447, Priority: 1, Produced: 103537
+    Material: 283-0227, Priority: 2, Produced: 51985
+    Material: 283-0391-31, Priority: 3, Produced: 2496
+    Material: 283-0383-31, Priority: 4, Produced: 0
+    Material: 283-0449-31, Priority: 4, Produced: 23960
+    Material: 283-0403-31, Priority: 5, Produced: 388
+    Material: 283-0433-31, Priority: 5, Produced: 287
+    Material: 283-0357, Priority: 6, Produced: 6892
+    Total Produced: 189545
+    Total Demanded: 478000.0
+    completion ratio: 39.65%
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 283-0447, Priority: 1, Produced: 4779
+    Material: 283-0227, Priority: 2, Produced: 4034
+    Material: 283-0403-31, Priority: 3, Produced: 307
+    Material: 283-0433-31, Priority: 3, Produced: 27
+    Material: 283-0357, Priority: 4, Produced: 1034
+    Total Produced: 10181
+    Total Demanded: 65000.0
+    completion ratio: 15.66%
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 283-0447, Priority: 1, Produced: 3926
+    Material: 283-0227, Priority: 2, Produced: 2638
+    Material: 283-0403-31, Priority: 3, Produced: 114
+    Material: 283-0433-31, Priority: 3, Produced: 10
+    Material: 283-0357, Priority: 4, Produced: 544
+    Total Produced: 7232
+    Total Demanded: 14666.6666666667
+    completion ratio: 49.31%
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 97000.0
+    Total Produced: 97000.0
+    Total Demanded: 97000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 6888.88888888889
+    Total Produced: 6888.88888888889
+    Total Demanded: 6888.88888888889
+    completion ratio: 100.00%
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0391-31, Priority: 1, Produced: 79178
+    Material: 283-0403-31, Priority: 2, Produced: 4514
+    Material: 283-0433-31, Priority: 2, Produced: 333
+    Material: 283-0357, Priority: 3, Produced: 6759
+    Total Produced: 90784
+    Total Demanded: 136000.0
+    completion ratio: 66.75%
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 283-0391-31, Priority: 1, Produced: 181
+    Material: 283-0396-31, Priority: 2, Produced: 0
+    Material: 283-0448-31, Priority: 2, Produced: 0
+    Material: 283-0383-31, Priority: 3, Produced: 0
+    Material: 283-0449-31, Priority: 3, Produced: 537
+    Material: 283-0403-31, Priority: 4, Produced: 5201
+    Material: 283-0433-31, Priority: 4, Produced: 58
+    Material: 283-0357, Priority: 5, Produced: 689.6666666666697
+    Total Produced: 6666.66666666667
+    Total Demanded: 6666.66666666667
+    completion ratio: 100.00%
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 283-0403-31, Priority: 1, Produced: 120284
+    Material: 283-0433-31, Priority: 1, Produced: 3251
+    Material: 283-0357, Priority: 2, Produced: 52339
+    Material: 283-0383-31, Priority: 3, Produced: 0
+    Material: 283-0449-31, Priority: 3, Produced: 50975
+    Total Produced: 226849
+    Total Demanded: 432000.0
+    completion ratio: 52.51%
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 283-0403-31, Priority: 1, Produced: 148
+    Material: 283-0433-31, Priority: 1, Produced: 10
+    Material: 283-0357, Priority: 2, Produced: 205
+    Total Produced: 363
+    Total Demanded: 1333.33333333333
+    completion ratio: 27.23%
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 283-0403-31, Priority: 1, Produced: 5925
+    Material: 283-0433-31, Priority: 1, Produced: 443
+    Material: 283-0357, Priority: 2, Produced: 8761
+    Total Produced: 15129
+    Total Demanded: 106666.666666667
+    completion ratio: 14.18%
+  Customer: 699, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 241424
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 42832
+    Material: 283-0403-31, Priority: 3, Produced: 1951
+    Material: 283-0433-31, Priority: 3, Produced: 173
+    Total Produced: 286380
+    Total Demanded: 653619.0
+    completion ratio: 43.81%
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 283-0357, Priority: 1, Produced: 11230
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 4439
+    Material: 283-0403-31, Priority: 3, Produced: 238
+    Material: 283-0433-31, Priority: 3, Produced: 21
+    Total Produced: 15928
+    Total Demanded: 73811.1111111111
+    completion ratio: 21.58%
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 283-0357, Priority: 1, Produced: 30776
+    Material: 283-0426-31, Priority: 2, Produced: 17264
+    Material: 283-0403-31, Priority: 3, Produced: 667
+    Material: 283-0433-31, Priority: 3, Produced: 59
+    Total Produced: 48766
+    Total Demanded: 216666.666666667
+    completion ratio: 22.51%
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 816
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 426
+    Material: 283-0403-31, Priority: 3, Produced: 20
+    Material: 283-0433-31, Priority: 3, Produced: 1
+    Total Produced: 1263
+    Total Demanded: 7136.0
+    completion ratio: 17.70%
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 283-0357, Priority: 1, Produced: 12
+    Material: 283-0403-31, Priority: 3, Produced: 0
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 12
+    Total Demanded: 111.111111111111
+    completion ratio: 10.80%
+  Customer: 699/678, Product: 1.6T OSFP224 2xDR4 Gen3,Sipho
+    Material: 283-0357, Priority: 1, Produced: 12
+    Material: 283-0403-31, Priority: 2, Produced: 6
+    Material: 283-0433-31, Priority: 2, Produced: 0
+    Total Produced: 18
+    Total Demanded: 111.111111111111
+    completion ratio: 16.20%
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 283-0357, Priority: 1, Produced: 36351
+    Material: 283-0403-31, Priority: 2, Produced: 15957
+    Material: 283-0433-31, Priority: 2, Produced: 1136
+    Total Produced: 53444
+    Total Demanded: 160000.0
+    completion ratio: 33.40%
+
+Date: 2026-04
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 126581
+    Material: 283-0403-31, Priority: 3, Produced: 3667
+    Material: 283-0433-31, Priority: 3, Produced: 8
+    Material: 283-0357, Priority: 4, Produced: 8351
+    Total Produced: 138607
+    Total Demanded: 287350.0
+    completion ratio: 48.24%
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 51248
+    Material: 283-0357, Priority: 3, Produced: 14015
+    Total Produced: 65263
+    Total Demanded: 168187.0
+    completion ratio: 38.80%
+  Customer: AOC, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 749
+    Total Produced: 749
+    Total Demanded: 6000.0
+    completion ratio: 12.48%
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0447, Priority: 2, Produced: 25000.0
+    Total Produced: 25000.0
+    Total Demanded: 25000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 42905
+    Material: 283-0227, Priority: 2, Produced: 11069
+    Material: 283-0403-31, Priority: 3, Produced: 516
+    Material: 283-0433-31, Priority: 3, Produced: 1
+    Material: 283-0357, Priority: 4, Produced: 958
+    Total Produced: 55449
+    Total Demanded: 80000.0
+    completion ratio: 69.31%
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 20733
+    Material: 283-0227, Priority: 2, Produced: 9282
+    Material: 283-0403-31, Priority: 3, Produced: 543
+    Material: 283-0433-31, Priority: 3, Produced: 1
+    Material: 283-0357, Priority: 4, Produced: 992
+    Total Produced: 31551
+    Total Demanded: 86000.0
+    completion ratio: 36.69%
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 283-0447, Priority: 1, Produced: 116917
+    Material: 283-0227, Priority: 2, Produced: 55737
+    Material: 283-0391-31, Priority: 3, Produced: 1407
+    Material: 283-0383-31, Priority: 4, Produced: 0
+    Material: 283-0449-31, Priority: 4, Produced: 22811
+    Material: 283-0403-31, Priority: 5, Produced: 519
+    Material: 283-0433-31, Priority: 5, Produced: 11
+    Material: 283-0357, Priority: 6, Produced: 4808
+    Total Produced: 202210
+    Total Demanded: 544000.0
+    completion ratio: 37.17%
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 283-0447, Priority: 1, Produced: 4379
+    Material: 283-0227, Priority: 2, Produced: 3647
+    Material: 283-0403-31, Priority: 3, Produced: 527
+    Material: 283-0433-31, Priority: 3, Produced: 1
+    Material: 283-0357, Priority: 4, Produced: 905
+    Total Produced: 9459
+    Total Demanded: 65000.0
+    completion ratio: 14.55%
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 283-0447, Priority: 1, Produced: 4316
+    Material: 283-0227, Priority: 2, Produced: 2918
+    Material: 283-0403-31, Priority: 3, Produced: 231
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Material: 283-0357, Priority: 4, Produced: 572
+    Total Produced: 8037
+    Total Demanded: 17444.4444444444
+    completion ratio: 46.07%
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 97000.0
+    Total Produced: 97000.0
+    Total Demanded: 97000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 19061.1111111111
+    Total Produced: 19061.1111111111
+    Total Demanded: 19061.1111111111
+    completion ratio: 100.00%
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0391-31, Priority: 1, Produced: 104100
+    Material: 283-0403-31, Priority: 2, Produced: 15710
+    Material: 283-0433-31, Priority: 2, Produced: 32
+    Material: 283-0357, Priority: 3, Produced: 9746
+    Total Produced: 129588
+    Total Demanded: 330000.0
+    completion ratio: 39.27%
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 283-0391-31, Priority: 1, Produced: 41
+    Material: 283-0396-31, Priority: 2, Produced: 0
+    Material: 283-0448-31, Priority: 2, Produced: 0
+    Material: 283-0383-31, Priority: 3, Produced: 0
+    Material: 283-0449-31, Priority: 3, Produced: 514
+    Material: 283-0403-31, Priority: 4, Produced: 6111.66666666667
+    Total Produced: 6666.66666666667
+    Total Demanded: 6666.66666666667
+    completion ratio: 100.00%
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 283-0403-31, Priority: 1, Produced: 170191
+    Material: 283-0433-31, Priority: 1, Produced: 85
+    Material: 283-0357, Priority: 2, Produced: 25604
+    Material: 283-0383-31, Priority: 3, Produced: 0
+    Material: 283-0449-31, Priority: 3, Produced: 39704
+    Total Produced: 235584
+    Total Demanded: 432000.0
+    completion ratio: 54.53%
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 283-0403-31, Priority: 1, Produced: 210
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 129
+    Total Produced: 339
+    Total Demanded: 1333.33333333333
+    completion ratio: 25.43%
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 283-0403-31, Priority: 1, Produced: 8383
+    Material: 283-0433-31, Priority: 1, Produced: 16
+    Material: 283-0357, Priority: 2, Produced: 5653
+    Total Produced: 14052
+    Total Demanded: 106666.666666667
+    completion ratio: 13.17%
+  Customer: 699, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 83568
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 31997
+    Material: 283-0403-31, Priority: 3, Produced: 1995
+    Material: 283-0433-31, Priority: 3, Produced: 4
+    Total Produced: 117564
+    Total Demanded: 341488.0
+    completion ratio: 34.43%
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 283-0357, Priority: 1, Produced: 17633
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 9360
+    Material: 283-0403-31, Priority: 3, Produced: 684
+    Material: 283-0433-31, Priority: 3, Produced: 1
+    Total Produced: 27678
+    Total Demanded: 121944.444444444
+    completion ratio: 22.70%
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 283-0357, Priority: 1, Produced: 27164
+    Material: 283-0426-31, Priority: 2, Produced: 20036
+    Material: 283-0403-31, Priority: 3, Produced: 1149
+    Material: 283-0433-31, Priority: 3, Produced: 2
+    Total Produced: 48351
+    Total Demanded: 220000.0
+    completion ratio: 21.98%
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 648
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 517
+    Material: 283-0403-31, Priority: 3, Produced: 34
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 1199
+    Total Demanded: 7136.0
+    completion ratio: 16.80%
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 283-0357, Priority: 1, Produced: 310
+    Material: 283-0403-31, Priority: 3, Produced: 17
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 327
+    Total Demanded: 3444.44444444444
+    completion ratio: 9.49%
+  Customer: 699/678, Product: 1.6T OSFP224 2xDR4 Gen3,Sipho
+    Material: 283-0357, Priority: 1, Produced: 59
+    Material: 283-0403-31, Priority: 2, Produced: 22
+    Material: 283-0433-31, Priority: 2, Produced: 0
+    Total Produced: 81
+    Total Demanded: 666.666666666667
+    completion ratio: 12.15%
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 283-0357, Priority: 1, Produced: 25118
+    Material: 283-0403-31, Priority: 2, Produced: 8597
+    Material: 283-0433-31, Priority: 2, Produced: 18
+    Total Produced: 33733
+    Total Demanded: 140000.0
+    completion ratio: 24.09%
+
+Date: 2026-05
+  Customer: 国际other, Product: 100G QSFP28 FR1 Gen3.0 SiP
+    Material: 283-0227, Priority: 1, Produced: 3300.0
+    Total Produced: 3300.0
+    Total Demanded: 3300.0
+    completion ratio: 100.00%
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 97505
+    Material: 283-0403-31, Priority: 3, Produced: 3954
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Material: 283-0357, Priority: 4, Produced: 12167
+    Total Produced: 113626
+    Total Demanded: 272416.666666666
+    completion ratio: 41.71%
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 45114
+    Material: 283-0357, Priority: 3, Produced: 14550
+    Total Produced: 59664
+    Total Demanded: 168187.0
+    completion ratio: 35.47%
+  Customer: AOC, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 702
+    Total Produced: 702
+    Total Demanded: 6200.0
+    completion ratio: 11.32%
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0447, Priority: 2, Produced: 25000.0
+    Total Produced: 25000.0
+    Total Demanded: 25000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 81302
+    Total Produced: 81302
+    Total Demanded: 80000.0
+    completion ratio: 101.63%
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 28587
+    Material: 283-0227, Priority: 2, Produced: 3613
+    Material: 283-0403-31, Priority: 3, Produced: 357
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Material: 283-0357, Priority: 4, Produced: 814
+    Total Produced: 33371
+    Total Demanded: 68000.0
+    completion ratio: 49.08%
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 283-0447, Priority: 1, Produced: 90752
+    Material: 283-0227, Priority: 2, Produced: 13610
+    Material: 283-0391-31, Priority: 3, Produced: 1860
+    Material: 283-0383-31, Priority: 4, Produced: 0
+    Material: 283-0449-31, Priority: 4, Produced: 18222
+    Material: 283-0403-31, Priority: 5, Produced: 988
+    Material: 283-0433-31, Priority: 5, Produced: 0
+    Material: 283-0357, Priority: 6, Produced: 4814
+    Total Produced: 130246
+    Total Demanded: 253000.0
+    completion ratio: 51.48%
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 283-0447, Priority: 1, Produced: 5373
+    Material: 283-0227, Priority: 2, Produced: 1505
+    Material: 283-0403-31, Priority: 3, Produced: 254
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Material: 283-0357, Priority: 4, Produced: 550
+    Total Produced: 7682
+    Total Demanded: 33000.0
+    completion ratio: 23.28%
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 283-0447, Priority: 1, Produced: 17745
+    Material: 283-0227, Priority: 2, Produced: 2376
+    Material: 283-0403-31, Priority: 3, Produced: 200
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Material: 283-0357, Priority: 4, Produced: 726
+    Total Produced: 21047
+    Total Demanded: 29333.3333333333
+    completion ratio: 71.75%
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 97000.0
+    Total Produced: 97000.0
+    Total Demanded: 97000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 38333.3333333333
+    Total Produced: 38333.3333333333
+    Total Demanded: 38333.3333333333
+    completion ratio: 100.00%
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0391-31, Priority: 1, Produced: 159923
+    Material: 283-0403-31, Priority: 2, Produced: 10686
+    Material: 283-0433-31, Priority: 2, Produced: 0
+    Material: 283-0357, Priority: 3, Produced: 7260
+    Total Produced: 177869
+    Total Demanded: 330000.0
+    completion ratio: 53.90%
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 283-0391-31, Priority: 1, Produced: 63
+    Material: 283-0396-31, Priority: 2, Produced: 0
+    Material: 283-0448-31, Priority: 2, Produced: 0
+    Material: 283-0383-31, Priority: 3, Produced: 0
+    Material: 283-0449-31, Priority: 3, Produced: 480
+    Material: 283-0403-31, Priority: 4, Produced: 6123.66666666667
+    Total Produced: 6666.66666666667
+    Total Demanded: 6666.66666666667
+    completion ratio: 100.00%
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 283-0403-31, Priority: 1, Produced: 170235
+    Material: 283-0433-31, Priority: 1, Produced: 3
+    Material: 283-0357, Priority: 2, Produced: 26206
+    Material: 283-0383-31, Priority: 3, Produced: 0
+    Material: 283-0449-31, Priority: 3, Produced: 36983
+    Total Produced: 233427
+    Total Demanded: 432000.0
+    completion ratio: 54.03%
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 283-0403-31, Priority: 1, Produced: 210
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 132
+    Total Produced: 342
+    Total Demanded: 1333.33333333333
+    completion ratio: 25.65%
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 283-0403-31, Priority: 1, Produced: 8385
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 5785
+    Total Produced: 14170
+    Total Demanded: 106666.666666667
+    completion ratio: 13.28%
+  Customer: 699, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 58367
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 31800
+    Material: 283-0403-31, Priority: 3, Produced: 2395
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 92562
+    Total Demanded: 340469.0
+    completion ratio: 27.19%
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 283-0357, Priority: 1, Produced: 35741
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 21456
+    Material: 283-0403-31, Priority: 3, Produced: 1876
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 59073
+    Total Demanded: 292777.777777778
+    completion ratio: 20.18%
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 283-0357, Priority: 1, Produced: 32557
+    Material: 283-0426-31, Priority: 2, Produced: 57052
+    Material: 283-0403-31, Priority: 3, Produced: 1775
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 91384
+    Total Demanded: 354444.444444444
+    completion ratio: 25.78%
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 459
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 425
+    Material: 283-0403-31, Priority: 3, Produced: 34
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 918
+    Total Demanded: 7136.0
+    completion ratio: 12.86%
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 283-0357, Priority: 1, Produced: 888
+    Material: 283-0403-31, Priority: 3, Produced: 71
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 959
+    Total Demanded: 13888.8888888889
+    completion ratio: 6.90%
+  Customer: 699/678, Product: 1.6T OSFP224 2xDR4 Gen3,Sipho
+    Material: 283-0357, Priority: 1, Produced: 245
+    Material: 283-0403-31, Priority: 2, Produced: 157
+    Material: 283-0433-31, Priority: 2, Produced: 0
+    Total Produced: 402
+    Total Demanded: 3888.88888888889
+    completion ratio: 10.34%
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 283-0357, Priority: 1, Produced: 21412
+    Material: 283-0403-31, Priority: 2, Produced: 12729
+    Material: 283-0433-31, Priority: 2, Produced: 1
+    Total Produced: 34142
+    Total Demanded: 170000.0
+    completion ratio: 20.08%
+
+Date: 2026-06
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 50687
+    Material: 283-0403-31, Priority: 3, Produced: 3591
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Material: 283-0357, Priority: 4, Produced: 14715
+    Total Produced: 68993
+    Total Demanded: 269150.0
+    completion ratio: 25.63%
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 25599
+    Material: 283-0357, Priority: 3, Produced: 15222
+    Total Produced: 40821
+    Total Demanded: 168187.0
+    completion ratio: 24.27%
+  Customer: AOC, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 401
+    Total Produced: 401
+    Total Demanded: 6000.0
+    completion ratio: 6.68%
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0447, Priority: 2, Produced: 25000.0
+    Total Produced: 25000.0
+    Total Demanded: 25000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 54896
+    Material: 283-0227, Priority: 2, Produced: 1291
+    Material: 283-0403-31, Priority: 3, Produced: 143
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Material: 283-0357, Priority: 4, Produced: 361
+    Total Produced: 56691
+    Total Demanded: 66000.0
+    completion ratio: 85.90%
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 21511
+    Material: 283-0227, Priority: 2, Produced: 2288
+    Material: 283-0403-31, Priority: 3, Produced: 277
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Material: 283-0357, Priority: 4, Produced: 694
+    Total Produced: 24770
+    Total Demanded: 62000.0
+    completion ratio: 39.95%
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 283-0447, Priority: 1, Produced: 56833
+    Material: 283-0227, Priority: 2, Produced: 6964
+    Material: 283-0391-31, Priority: 3, Produced: 2134
+    Material: 283-0383-31, Priority: 4, Produced: 0
+    Material: 283-0449-31, Priority: 4, Produced: 12583
+    Material: 283-0403-31, Priority: 5, Produced: 793
+    Material: 283-0433-31, Priority: 5, Produced: 0
+    Material: 283-0357, Priority: 6, Produced: 4313
+    Total Produced: 83620
+    Total Demanded: 194000.0
+    completion ratio: 43.10%
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 283-0447, Priority: 1, Produced: 4282
+    Material: 283-0227, Priority: 2, Produced: 806
+    Material: 283-0403-31, Priority: 3, Produced: 166
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Material: 283-0357, Priority: 4, Produced: 391
+    Total Produced: 5645
+    Total Demanded: 28500.0
+    completion ratio: 19.81%
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 283-0447, Priority: 1, Produced: 26661
+    Material: 283-0227, Priority: 2, Produced: 2640
+    Material: 283-0403-31, Priority: 3, Produced: 295
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Material: 283-0357, Priority: 4, Produced: 1165
+    Total Produced: 30761
+    Total Demanded: 47777.7777777778
+    completion ratio: 64.38%
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 97000.0
+    Total Produced: 97000.0
+    Total Demanded: 97000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 68055.5555555556
+    Total Produced: 68055.5555555556
+    Total Demanded: 68055.5555555556
+    completion ratio: 100.00%
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0391-31, Priority: 1, Produced: 160562
+    Material: 283-0403-31, Priority: 2, Produced: 9081
+    Material: 283-0433-31, Priority: 2, Produced: 0
+    Material: 283-0357, Priority: 3, Produced: 6404
+    Total Produced: 176047
+    Total Demanded: 330000.0
+    completion ratio: 53.35%
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 283-0391-31, Priority: 1, Produced: 64
+    Material: 283-0396-31, Priority: 2, Produced: 0
+    Material: 283-0448-31, Priority: 2, Produced: 0
+    Material: 283-0383-31, Priority: 3, Produced: 0
+    Material: 283-0449-31, Priority: 3, Produced: 254
+    Material: 283-0403-31, Priority: 4, Produced: 6348.66666666667
+    Total Produced: 6666.66666666667
+    Total Demanded: 6666.66666666667
+    completion ratio: 100.00%
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 283-0403-31, Priority: 1, Produced: 175226
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 29702
+    Material: 283-0383-31, Priority: 3, Produced: 0
+    Material: 283-0449-31, Priority: 3, Produced: 26479
+    Total Produced: 231407
+    Total Demanded: 495000.0
+    completion ratio: 46.75%
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 283-0403-31, Priority: 1, Produced: 169
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 117
+    Total Produced: 286
+    Total Demanded: 1333.33333333333
+    completion ratio: 21.45%
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 283-0403-31, Priority: 1, Produced: 6747
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 5033
+    Total Produced: 11780
+    Total Demanded: 106666.666666667
+    completion ratio: 11.04%
+  Customer: 699, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 42170
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 19896
+    Material: 283-0403-31, Priority: 3, Produced: 1956
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 64022
+    Total Demanded: 340469.0
+    completion ratio: 18.80%
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 283-0357, Priority: 1, Produced: 50922
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 24520
+    Material: 283-0403-31, Priority: 3, Produced: 2662
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 78104
+    Total Demanded: 517777.777777778
+    completion ratio: 15.08%
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 283-0357, Priority: 1, Produced: 32231
+    Material: 283-0426-31, Priority: 2, Produced: 285119
+    Material: 283-0403-31, Priority: 3, Produced: 742
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 318092
+    Total Demanded: 477222.222222222
+    completion ratio: 66.65%
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 4897
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 3401
+    Material: 283-0403-31, Priority: 3, Produced: 399
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 8697
+    Total Demanded: 101937.0
+    completion ratio: 8.53%
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 283-0357, Priority: 1, Produced: 1252
+    Material: 283-0403-31, Priority: 3, Produced: 107
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 1359
+    Total Demanded: 27777.7777777778
+    completion ratio: 4.89%
+  Customer: 699/678, Product: 1.6T OSFP224 2xDR4 Gen3,Sipho
+    Material: 283-0357, Priority: 1, Produced: 787
+    Material: 283-0403-31, Priority: 2, Produced: 647
+    Material: 283-0433-31, Priority: 2, Produced: 0
+    Total Produced: 1434
+    Total Demanded: 17777.7777777778
+    completion ratio: 8.07%
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 283-0357, Priority: 1, Produced: 14907
+    Material: 283-0403-31, Priority: 2, Produced: 11474
+    Material: 283-0433-31, Priority: 2, Produced: 0
+    Total Produced: 26381
+    Total Demanded: 170000.0
+    completion ratio: 15.52%
+
+Date: 2026-07
+  Customer: 国际other, Product: 100G QSFP28 FR1 Gen3.0 SiP
+    Material: 283-0227, Priority: 1, Produced: 3300.0
+    Total Produced: 3300.0
+    Total Demanded: 3300.0
+    completion ratio: 100.00%
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 47210
+    Material: 283-0403-31, Priority: 3, Produced: 2776
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Material: 283-0357, Priority: 4, Produced: 18346
+    Total Produced: 68332
+    Total Demanded: 204073.5
+    completion ratio: 33.48%
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 33209
+    Material: 283-0357, Priority: 3, Produced: 19774
+    Total Produced: 52983
+    Total Demanded: 169936.413043478
+    completion ratio: 31.18%
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0447, Priority: 2, Produced: 7242
+    Material: 283-0227, Priority: 3, Produced: 1233
+    Material: 283-0391-31, Priority: 4, Produced: 9525.0
+    Total Produced: 18000.0
+    Total Demanded: 18000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 7289
+    Material: 283-0227, Priority: 2, Produced: 58711.0
+    Total Produced: 66000.0
+    Total Demanded: 66000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 2901
+    Material: 283-0227, Priority: 2, Produced: 59099.0
+    Total Produced: 62000.0
+    Total Demanded: 62000.0
+    completion ratio: 100.00%
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 283-0447, Priority: 1, Produced: 7778
+    Material: 283-0227, Priority: 2, Produced: 186222.0
+    Total Produced: 194000.0
+    Total Demanded: 194000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 283-0447, Priority: 1, Produced: 630
+    Material: 283-0227, Priority: 2, Produced: 27870.0
+    Total Produced: 28500.0
+    Total Demanded: 28500.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 283-0447, Priority: 1, Produced: 6796
+    Material: 283-0227, Priority: 2, Produced: 75426.2222222222
+    Total Produced: 82222.2222222222
+    Total Demanded: 82222.2222222222
+    completion ratio: 100.00%
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 97000.0
+    Total Produced: 97000.0
+    Total Demanded: 97000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 114888.888888889
+    Total Produced: 114888.888888889
+    Total Demanded: 114888.888888889
+    completion ratio: 100.00%
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0391-31, Priority: 1, Produced: 176929
+    Material: 283-0403-31, Priority: 2, Produced: 7038
+    Material: 283-0433-31, Priority: 2, Produced: 0
+    Material: 283-0357, Priority: 3, Produced: 8211
+    Total Produced: 192178
+    Total Demanded: 330000.0
+    completion ratio: 58.24%
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 283-0391-31, Priority: 1, Produced: 715
+    Material: 283-0396-31, Priority: 2, Produced: 0
+    Material: 283-0448-31, Priority: 2, Produced: 0
+    Material: 283-0383-31, Priority: 3, Produced: 0
+    Material: 283-0449-31, Priority: 3, Produced: 1015
+    Material: 283-0403-31, Priority: 4, Produced: 7193
+    Material: 283-0433-31, Priority: 4, Produced: 0
+    Material: 283-0357, Priority: 5, Produced: 12743.6666666667
+    Total Produced: 21666.6666666667
+    Total Demanded: 21666.6666666667
+    completion ratio: 100.00%
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 283-0403-31, Priority: 1, Produced: 174883
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 43777
+    Material: 283-0383-31, Priority: 3, Produced: 0
+    Material: 283-0449-31, Priority: 3, Produced: 28795
+    Total Produced: 247455
+    Total Demanded: 495000.0
+    completion ratio: 49.99%
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 283-0403-31, Priority: 1, Produced: 168
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 172
+    Total Produced: 340
+    Total Demanded: 1333.33333333333
+    completion ratio: 25.50%
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 283-0403-31, Priority: 1, Produced: 6734
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 7404
+    Total Produced: 14138
+    Total Demanded: 106666.666666667
+    completion ratio: 13.25%
+  Customer: 699, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 39548
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 15975
+    Material: 283-0403-31, Priority: 3, Produced: 1398
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 56921
+    Total Demanded: 227319.0
+    completion ratio: 25.04%
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 283-0357, Priority: 1, Produced: 92442
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 37823
+    Material: 283-0403-31, Priority: 3, Produced: 3568
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 133833
+    Total Demanded: 611111.111111111
+    completion ratio: 21.90%
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 283-0357, Priority: 1, Produced: 49966
+    Material: 283-0426-31, Priority: 2, Produced: 18623
+    Material: 283-0403-31, Priority: 3, Produced: 2460
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 71049
+    Total Demanded: 508888.888888889
+    completion ratio: 13.96%
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 7084
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 4187
+    Material: 283-0403-31, Priority: 3, Produced: 392
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 11663
+    Total Demanded: 101937.0
+    completion ratio: 11.44%
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 283-0357, Priority: 1, Produced: 3634
+    Material: 283-0403-31, Priority: 3, Produced: 214
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 3848
+    Total Demanded: 55555.5555555556
+    completion ratio: 6.93%
+  Customer: 699/678, Product: 1.6T OSFP224 2xDR4 Gen3,Sipho
+    Material: 283-0357, Priority: 1, Produced: 4222
+    Material: 283-0403-31, Priority: 2, Produced: 2226
+    Material: 283-0433-31, Priority: 2, Produced: 0
+    Total Produced: 6448
+    Total Demanded: 66666.6666666667
+    completion ratio: 9.67%
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 283-0357, Priority: 1, Produced: 20711
+    Material: 283-0403-31, Priority: 2, Produced: 9670
+    Material: 283-0433-31, Priority: 2, Produced: 0
+    Total Produced: 30381
+    Total Demanded: 170000.0
+    completion ratio: 17.87%
+
+Date: 2026-08
+  Customer: 国际other, Product: 100G QSFP28 FR1 Gen3.0 SiP
+    Material: 283-0227, Priority: 1, Produced: 3300.0
+    Total Produced: 3300.0
+    Total Demanded: 3300.0
+    completion ratio: 100.00%
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 31305
+    Material: 283-0403-31, Priority: 3, Produced: 3334
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Material: 283-0357, Priority: 4, Produced: 24692
+    Total Produced: 59331
+    Total Demanded: 196980.0
+    completion ratio: 30.12%
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 21930
+    Material: 283-0357, Priority: 3, Produced: 20705
+    Total Produced: 42635
+    Total Demanded: 161000.0
+    completion ratio: 26.48%
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0447, Priority: 2, Produced: 0
+    Material: 283-0227, Priority: 3, Produced: 18000.0
+    Total Produced: 18000.0
+    Total Demanded: 18000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 87674
+    Total Produced: 87674
+    Total Demanded: 66000.0
+    completion ratio: 132.84%
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 35403
+    Material: 283-0403-31, Priority: 3, Produced: 246
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Material: 283-0357, Priority: 4, Produced: 1316
+    Total Produced: 36965
+    Total Demanded: 62000.0
+    completion ratio: 59.62%
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 96181
+    Material: 283-0391-31, Priority: 3, Produced: 11760
+    Material: 283-0383-31, Priority: 4, Produced: 0
+    Material: 283-0449-31, Priority: 4, Produced: 7782
+    Material: 283-0403-31, Priority: 5, Produced: 492
+    Material: 283-0433-31, Priority: 5, Produced: 0
+    Material: 283-0357, Priority: 6, Produced: 2508
+    Total Produced: 118723
+    Total Demanded: 194000.0
+    completion ratio: 61.20%
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 8303
+    Material: 283-0403-31, Priority: 3, Produced: 185
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Material: 283-0357, Priority: 4, Produced: 944
+    Total Produced: 9432
+    Total Demanded: 28500.0
+    completion ratio: 33.09%
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 131380
+    Total Produced: 131380
+    Total Demanded: 120000.0
+    completion ratio: 109.48%
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 97000.0
+    Total Produced: 97000.0
+    Total Demanded: 97000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 235000.0
+    Total Produced: 235000.0
+    Total Demanded: 235000.0
+    completion ratio: 100.00%
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0391-31, Priority: 1, Produced: 225360
+    Material: 283-0403-31, Priority: 2, Produced: 233
+    Material: 283-0433-31, Priority: 2, Produced: 0
+    Material: 283-0357, Priority: 3, Produced: 313
+    Total Produced: 225906
+    Total Demanded: 231000.0
+    completion ratio: 97.79%
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 283-0391-31, Priority: 1, Produced: 2692
+    Material: 283-0396-31, Priority: 2, Produced: 0
+    Material: 283-0448-31, Priority: 2, Produced: 0
+    Material: 283-0383-31, Priority: 3, Produced: 0
+    Material: 283-0449-31, Priority: 3, Produced: 845
+    Material: 283-0403-31, Priority: 4, Produced: 7985
+    Material: 283-0433-31, Priority: 4, Produced: 0
+    Material: 283-0357, Priority: 5, Produced: 15144.6666666667
+    Total Produced: 26666.6666666667
+    Total Demanded: 26666.6666666667
+    completion ratio: 100.00%
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 283-0403-31, Priority: 1, Produced: 185213
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 43268
+    Material: 283-0383-31, Priority: 3, Produced: 0
+    Material: 283-0449-31, Priority: 3, Produced: 19207
+    Total Produced: 247688
+    Total Demanded: 495000.0
+    completion ratio: 50.04%
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 283-0403-31, Priority: 1, Produced: 178
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 179
+    Total Produced: 357
+    Total Demanded: 1333.33333333333
+    completion ratio: 26.78%
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 283-0403-31, Priority: 1, Produced: 7132
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 7736
+    Total Produced: 14868
+    Total Demanded: 106666.666666667
+    completion ratio: 13.94%
+  Customer: 699, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 34615
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 11591
+    Material: 283-0403-31, Priority: 3, Produced: 1644
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 47850
+    Total Demanded: 227319.0
+    completion ratio: 21.05%
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 283-0357, Priority: 1, Produced: 93275
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 30933
+    Material: 283-0403-31, Priority: 3, Produced: 4711
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 128919
+    Total Demanded: 691111.111111111
+    completion ratio: 18.65%
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 283-0357, Priority: 1, Produced: 44939
+    Material: 283-0426-31, Priority: 2, Produced: 1848
+    Material: 283-0403-31, Priority: 3, Produced: 2821
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 49608
+    Total Demanded: 508888.888888889
+    completion ratio: 9.75%
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 6710
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 2790
+    Material: 283-0403-31, Priority: 3, Produced: 442
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 9942
+    Total Demanded: 101937.0
+    completion ratio: 9.75%
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 283-0357, Priority: 1, Produced: 8329
+    Material: 283-0403-31, Priority: 3, Produced: 572
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 8901
+    Total Demanded: 133333.333333333
+    completion ratio: 6.68%
+  Customer: 699/678, Product: 1.6T OSFP224 2xDR4 Gen3,Sipho
+    Material: 283-0357, Priority: 1, Produced: 9718
+    Material: 283-0403-31, Priority: 2, Produced: 6443
+    Material: 283-0433-31, Priority: 2, Produced: 0
+    Total Produced: 16161
+    Total Demanded: 166666.666666667
+    completion ratio: 9.70%
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 283-0357, Priority: 1, Produced: 18172
+    Material: 283-0403-31, Priority: 2, Produced: 10029
+    Material: 283-0433-31, Priority: 2, Produced: 0
+    Total Produced: 28201
+    Total Demanded: 170000.0
+    completion ratio: 16.59%
+
+Date: 2026-09
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 6748
+    Material: 283-0403-31, Priority: 3, Produced: 2615
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Material: 283-0357, Priority: 4, Produced: 25579
+    Total Produced: 34942
+    Total Demanded: 196980.0
+    completion ratio: 17.74%
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 4475
+    Material: 283-0357, Priority: 3, Produced: 18388
+    Total Produced: 22863
+    Total Demanded: 149566.666666667
+    completion ratio: 15.29%
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0447, Priority: 2, Produced: 0
+    Material: 283-0227, Priority: 3, Produced: 18000.0
+    Total Produced: 18000.0
+    Total Demanded: 18000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 66000.0
+    Total Produced: 66000.0
+    Total Demanded: 66000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 62000.0
+    Total Produced: 62000.0
+    Total Demanded: 62000.0
+    completion ratio: 100.00%
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 194000.0
+    Total Produced: 194000.0
+    Total Demanded: 194000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 28500.0
+    Total Produced: 28500.0
+    Total Demanded: 28500.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 133333.333333333
+    Total Produced: 133333.333333333
+    Total Demanded: 133333.333333333
+    completion ratio: 100.00%
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 97000.0
+    Total Produced: 97000.0
+    Total Demanded: 97000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 372222.222222222
+    Total Produced: 372222.222222222
+    Total Demanded: 372222.222222222
+    completion ratio: 100.00%
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0391-31, Priority: 1, Produced: 147000.0
+    Total Produced: 147000.0
+    Total Demanded: 147000.0
+    completion ratio: 100.00%
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 283-0391-31, Priority: 1, Produced: 26666.6666666667
+    Total Produced: 26666.6666666667
+    Total Demanded: 26666.6666666667
+    completion ratio: 100.00%
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 283-0403-31, Priority: 1, Produced: 192149
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 51928
+    Material: 283-0383-31, Priority: 3, Produced: 0
+    Material: 283-0449-31, Priority: 3, Produced: 5240
+    Total Produced: 249317
+    Total Demanded: 618000.0
+    completion ratio: 40.34%
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 283-0403-31, Priority: 1, Produced: 123
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 142
+    Total Produced: 265
+    Total Demanded: 1333.33333333333
+    completion ratio: 19.88%
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 283-0403-31, Priority: 1, Produced: 4924
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 5978
+    Total Produced: 10902
+    Total Demanded: 106666.666666667
+    completion ratio: 10.22%
+  Customer: 699, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 13937
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 1355
+    Material: 283-0403-31, Priority: 3, Produced: 628
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 15920
+    Total Demanded: 114169.0
+    completion ratio: 13.94%
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 283-0357, Priority: 1, Produced: 82438
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 7911
+    Material: 283-0403-31, Priority: 3, Produced: 3769
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 94118
+    Total Demanded: 707777.777777778
+    completion ratio: 13.30%
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 283-0357, Priority: 1, Produced: 42412
+    Material: 283-0426-31, Priority: 2, Produced: 164
+    Material: 283-0403-31, Priority: 3, Produced: 2148
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 44724
+    Total Demanded: 508888.888888889
+    completion ratio: 8.79%
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 25681
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 2736
+    Material: 283-0403-31, Priority: 3, Produced: 1347
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 29764
+    Total Demanded: 387360.0
+    completion ratio: 7.68%
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 283-0357, Priority: 1, Produced: 17414
+    Material: 283-0403-31, Priority: 3, Produced: 945
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 18359
+    Total Demanded: 311111.111111111
+    completion ratio: 5.90%
+  Customer: 699/678, Product: 1.6T OSFP224 2xDR4 Gen3,Sipho
+    Material: 283-0357, Priority: 1, Produced: 14149
+    Material: 283-0403-31, Priority: 2, Produced: 8031
+    Material: 283-0433-31, Priority: 2, Produced: 0
+    Total Produced: 22180
+    Total Demanded: 288888.888888889
+    completion ratio: 7.68%
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 283-0357, Priority: 1, Produced: 14718
+    Material: 283-0403-31, Priority: 2, Produced: 6528
+    Material: 283-0433-31, Priority: 2, Produced: 0
+    Total Produced: 21246
+    Total Demanded: 170000.0
+    completion ratio: 12.50%
+
+Date: 2026-10
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 21956
+    Material: 283-0403-31, Priority: 3, Produced: 2429
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Material: 283-0357, Priority: 4, Produced: 31807
+    Total Produced: 56192
+    Total Demanded: 196000.0
+    completion ratio: 28.67%
+  Customer: 699+国际other, Product: 400G QSFP112 DR4 Gen1.0 SiP
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 14427
+    Material: 283-0357, Priority: 3, Produced: 21462
+    Total Produced: 35889
+    Total Demanded: 149566.666666667
+    completion ratio: 24.00%
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0447, Priority: 2, Produced: 0
+    Material: 283-0227, Priority: 3, Produced: 36000.0
+    Total Produced: 36000.0
+    Total Demanded: 36000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 66000.0
+    Total Produced: 66000.0
+    Total Demanded: 66000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 62000.0
+    Total Produced: 62000.0
+    Total Demanded: 62000.0
+    completion ratio: 100.00%
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 194000.0
+    Total Produced: 194000.0
+    Total Demanded: 194000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 28500.0
+    Total Produced: 28500.0
+    Total Demanded: 28500.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 133333.333333333
+    Total Produced: 133333.333333333
+    Total Demanded: 133333.333333333
+    completion ratio: 100.00%
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 97000.0
+    Total Produced: 97000.0
+    Total Demanded: 97000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 405555.555555556
+    Total Produced: 405555.555555556
+    Total Demanded: 405555.555555556
+    completion ratio: 100.00%
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0391-31, Priority: 1, Produced: 147000.0
+    Total Produced: 147000.0
+    Total Demanded: 147000.0
+    completion ratio: 100.00%
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 283-0391-31, Priority: 1, Produced: 26666.6666666667
+    Total Produced: 26666.6666666667
+    Total Demanded: 26666.6666666667
+    completion ratio: 100.00%
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 283-0403-31, Priority: 1, Produced: 197616
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 66509
+    Material: 283-0383-31, Priority: 3, Produced: 0
+    Material: 283-0449-31, Priority: 3, Produced: 14871
+    Total Produced: 278996
+    Total Demanded: 618000.0
+    completion ratio: 45.14%
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 283-0403-31, Priority: 1, Produced: 126
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 186
+    Total Produced: 312
+    Total Demanded: 1333.33333333333
+    completion ratio: 23.40%
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 283-0403-31, Priority: 1, Produced: 5064
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 7852
+    Total Produced: 12916
+    Total Demanded: 106666.666666667
+    completion ratio: 12.11%
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 283-0357, Priority: 1, Produced: 104429
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 24721
+    Material: 283-0403-31, Priority: 3, Produced: 3569
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 132719
+    Total Demanded: 677777.777777778
+    completion ratio: 19.58%
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 283-0357, Priority: 1, Produced: 57699
+    Material: 283-0426-31, Priority: 2, Produced: 13
+    Material: 283-0403-31, Priority: 3, Produced: 2306
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 60018
+    Total Demanded: 508888.888888889
+    completion ratio: 11.79%
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 35210
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 9012
+    Material: 283-0403-31, Priority: 3, Produced: 1444
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 45666
+    Total Demanded: 387360.0
+    completion ratio: 11.79%
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 283-0357, Priority: 1, Produced: 38589
+    Material: 283-0403-31, Priority: 3, Produced: 1682
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 40271
+    Total Demanded: 500000.0
+    completion ratio: 8.05%
+  Customer: 699/678, Product: 1.6T OSFP224 2xDR4 Gen3,Sipho
+    Material: 283-0357, Priority: 1, Produced: 20023
+    Material: 283-0403-31, Priority: 2, Produced: 8505
+    Material: 283-0433-31, Priority: 2, Produced: 0
+    Total Produced: 28528
+    Total Demanded: 322222.222222222
+    completion ratio: 8.85%
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 283-0357, Priority: 1, Produced: 18475
+    Material: 283-0403-31, Priority: 2, Produced: 6062
+    Material: 283-0433-31, Priority: 2, Produced: 0
+    Total Produced: 24537
+    Total Demanded: 170000.0
+    completion ratio: 14.43%
+
+Date: 2026-11
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 63136
+    Material: 283-0403-31, Priority: 3, Produced: 1660
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Material: 283-0357, Priority: 4, Produced: 31343
+    Total Produced: 96139
+    Total Demanded: 196000.0
+    completion ratio: 49.05%
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0447, Priority: 2, Produced: 0
+    Material: 283-0227, Priority: 3, Produced: 36000.0
+    Total Produced: 36000.0
+    Total Demanded: 36000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 66000.0
+    Total Produced: 66000.0
+    Total Demanded: 66000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 62000.0
+    Total Produced: 62000.0
+    Total Demanded: 62000.0
+    completion ratio: 100.00%
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 133000.0
+    Total Produced: 133000.0
+    Total Demanded: 133000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 28500.0
+    Total Produced: 28500.0
+    Total Demanded: 28500.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 133333.333333333
+    Total Produced: 133333.333333333
+    Total Demanded: 133333.333333333
+    completion ratio: 100.00%
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 97000.0
+    Total Produced: 97000.0
+    Total Demanded: 97000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 177777.777777778
+    Total Produced: 177777.777777778
+    Total Demanded: 177777.777777778
+    completion ratio: 100.00%
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0391-31, Priority: 1, Produced: 147000.0
+    Total Produced: 147000.0
+    Total Demanded: 147000.0
+    completion ratio: 100.00%
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 283-0391-31, Priority: 1, Produced: 26666.6666666667
+    Total Produced: 26666.6666666667
+    Total Demanded: 26666.6666666667
+    completion ratio: 100.00%
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 283-0403-31, Priority: 1, Produced: 208683
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 65574
+    Material: 283-0383-31, Priority: 3, Produced: 0
+    Material: 283-0449-31, Priority: 3, Produced: 35591
+    Total Produced: 309848
+    Total Demanded: 618000.0
+    completion ratio: 50.14%
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 283-0403-31, Priority: 1, Produced: 133
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 193
+    Total Produced: 326
+    Total Demanded: 1333.33333333333
+    completion ratio: 24.45%
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 283-0403-31, Priority: 1, Produced: 5348
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 8147
+    Total Produced: 13495
+    Total Demanded: 106666.666666667
+    completion ratio: 12.65%
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 283-0357, Priority: 1, Produced: 100626
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 76872
+    Material: 283-0403-31, Priority: 3, Produced: 2910
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 180408
+    Total Demanded: 666666.666666667
+    completion ratio: 27.06%
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 283-0357, Priority: 1, Produced: 57685
+    Material: 283-0426-31, Priority: 2, Produced: 1
+    Material: 283-0403-31, Priority: 3, Produced: 2210
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 59896
+    Total Demanded: 508888.888888889
+    completion ratio: 11.77%
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 35563
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 26142
+    Material: 283-0403-31, Priority: 3, Produced: 1335
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 63040
+    Total Demanded: 387360.0
+    completion ratio: 16.27%
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 283-0357, Priority: 1, Produced: 56713
+    Material: 283-0403-31, Priority: 3, Produced: 2409
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 59122
+    Total Demanded: 722222.222222222
+    completion ratio: 8.19%
+  Customer: 699/678, Product: 1.6T OSFP224 2xDR4 Gen3,Sipho
+    Material: 283-0357, Priority: 1, Produced: 12743
+    Material: 283-0403-31, Priority: 2, Produced: 9072
+    Material: 283-0433-31, Priority: 2, Produced: 0
+    Total Produced: 21815
+    Total Demanded: 222222.222222222
+    completion ratio: 9.82%
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 283-0357, Priority: 1, Produced: 17878
+    Material: 283-0403-31, Priority: 2, Produced: 9327
+    Material: 283-0433-31, Priority: 2, Produced: 0
+    Total Produced: 27205
+    Total Demanded: 170000.0
+    completion ratio: 16.00%
+
+Date: 2026-12
+  Customer: 688, Product: 400G QSFP-DD DR4 GEN3
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 69074
+    Material: 283-0403-31, Priority: 3, Produced: 1589
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Material: 283-0357, Priority: 4, Produced: 30920
+    Total Produced: 101583
+    Total Demanded: 196000.0
+    completion ratio: 51.83%
+  Customer: 678, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0396-31, Priority: 1, Produced: 0
+    Material: 283-0448-31, Priority: 1, Produced: 0
+    Material: 283-0447, Priority: 2, Produced: 0
+    Material: 283-0227, Priority: 3, Produced: 36000.0
+    Total Produced: 36000.0
+    Total Demanded: 36000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 400G OSFP PSM4 Gen3.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 66000.0
+    Total Produced: 66000.0
+    Total Demanded: 66000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 62000.0
+    Total Produced: 62000.0
+    Total Demanded: 62000.0
+    completion ratio: 100.00%
+  Customer: 699, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12 
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 133000.0
+    Total Produced: 133000.0
+    Total Demanded: 133000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP 2xPSM4 Gen2.0 SiP RHS
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 28500.0
+    Total Produced: 28500.0
+    Total Demanded: 28500.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 400G QSFP112 DR4 Sipho LPO Gen1.1-GG Y AOC
+    Material: 283-0447, Priority: 1, Produced: 0
+    Material: 283-0227, Priority: 2, Produced: 133333.333333333
+    Total Produced: 133333.333333333
+    Total Demanded: 133333.333333333
+    completion ratio: 100.00%
+  Customer: 603, Product: 800G OSFP PSM8 Gen2.0 SiP
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 97000.0
+    Total Produced: 97000.0
+    Total Demanded: 97000.0
+    completion ratio: 100.00%
+  Customer: 666, Product: 800G OSFP PSM4 Sipho
+    Material: 283-0383-31, Priority: 1, Produced: 0
+    Material: 283-0449-31, Priority: 1, Produced: 177777.777777778
+    Total Produced: 177777.777777778
+    Total Demanded: 177777.777777778
+    completion ratio: 100.00%
+  Customer: 618, Product: 800G OSFP DR8+ Gen2.0 SiP 2xMPO12
+    Material: 283-0391-31, Priority: 1, Produced: 147000.0
+    Total Produced: 147000.0
+    Total Demanded: 147000.0
+    completion ratio: 100.00%
+  Customer: 618, Product: 800G OSFP112 AOC LPO,Sipho
+    Material: 283-0391-31, Priority: 1, Produced: 26666.6666666667
+    Total Produced: 26666.6666666667
+    Total Demanded: 26666.6666666667
+    completion ratio: 100.00%
+  Customer: 688, Product: 800G OSFP DR8 Gen2 w/ST,Sipho 
+    Material: 283-0403-31, Priority: 1, Produced: 208657
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 67727
+    Material: 283-0383-31, Priority: 3, Produced: 0
+    Material: 283-0449-31, Priority: 3, Produced: 38934
+    Total Produced: 315318
+    Total Demanded: 618000.0
+    completion ratio: 51.02%
+  Customer: 666, Product: 200G OSFP BSM8+ Gen2
+    Material: 283-0403-31, Priority: 1, Produced: 133
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 199
+    Total Produced: 332
+    Total Demanded: 1333.33333333333
+    completion ratio: 24.90%
+  Customer: 603/602, Product: 800G OSFP 2xDR4 Sipho LPO,FC
+    Material: 283-0403-31, Priority: 1, Produced: 5347
+    Material: 283-0433-31, Priority: 1, Produced: 0
+    Material: 283-0357, Priority: 2, Produced: 8413
+    Total Produced: 13760
+    Total Demanded: 106666.666666667
+    completion ratio: 12.90%
+  Customer: 699/678, Product: 8x200G OSFP224 2xDR4 Gen2,Sian3
+    Material: 283-0357, Priority: 1, Produced: 103923
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 83613
+    Material: 283-0403-31, Priority: 3, Produced: 2862
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 190398
+    Total Demanded: 666666.666666667
+    completion ratio: 28.56%
+  Customer: 666, Product: 8x200G OSFP224 DR8 TRO
+    Material: 283-0357, Priority: 1, Produced: 59575
+    Material: 283-0426-31, Priority: 2, Produced: 0
+    Material: 283-0403-31, Priority: 3, Produced: 2220
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 61795
+    Total Demanded: 508888.888888889
+    completion ratio: 12.14%
+  Customer: 678, Product: 8x200G OSFP224 DR8,Siph,Sina2
+    Material: 283-0357, Priority: 1, Produced: 36728
+    Material: 283-0383-31, Priority: 2, Produced: 0
+    Material: 283-0449-31, Priority: 2, Produced: 28644
+    Material: 283-0403-31, Priority: 3, Produced: 1332
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 66704
+    Total Demanded: 387360.0
+    completion ratio: 17.22%
+  Customer: 699, Product: 8x200G OSFP224 2xDR4 Gen2,Arcus2
+    Material: 283-0357, Priority: 1, Produced: 58571
+    Material: 283-0403-31, Priority: 3, Produced: 2428
+    Material: 283-0433-31, Priority: 3, Produced: 0
+    Total Produced: 60999
+    Total Demanded: 722222.222222222
+    completion ratio: 8.45%
+  Customer: 699/678, Product: 1.6T OSFP224 2xDR4 Gen3,Sipho
+    Material: 283-0357, Priority: 1, Produced: 13160
+    Material: 283-0403-31, Priority: 2, Produced: 9053
+    Material: 283-0433-31, Priority: 2, Produced: 0
+    Total Produced: 22213
+    Total Demanded: 222222.222222222
+    completion ratio: 10.00%
+  Customer: 699, Product: 4x200G OSFP224 DR4 Sipho,Sian2
+    Material: 283-0357, Priority: 1, Produced: 18464
+    Material: 283-0403-31, Priority: 2, Produced: 9297
+    Material: 283-0433-31, Priority: 2, Produced: 0
+    Total Produced: 27761
+    Total Demanded: 170000.0
+    completion ratio: 16.33%
+
